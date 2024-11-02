@@ -1,0 +1,20 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Ass	Kin	2	725.2	362.6	404.295	NA	NA	96.5
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Fllw	Kin	2	NA	NA	NA	0.0	NA	NA
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Agn	Towards other	3	NA	NA	NA	0.0	0.0	NA
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Mov	Towards speaker	1	8.399	8.399	NA	NA	NA	1.1
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Mov	Away from speaker	2	43.6	21.8	18.272	NA	NA	5.8
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Dhb		1	242.08	242.08	NA	NA	NA	32.2
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Hab		1	247.72	247.72	NA	NA	NA	33.0
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Look	At speaker	56	NA	NA	NA	0.0	0.0	NA
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Look	Away from speaker	41	NA	NA	NA	0.0	0.0	NA
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Voc	Contact	11	NA	NA	NA	0.0	0.0	NA
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	HSH		31	NA	NA	NA	0.0	0.0	NA
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Htlt		3	NA	NA	NA	0.0	0.0	NA
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	FVO	Other	1	NA	NA	NA	NA	NA	NA
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Eat	With kin	2	49.278	24.639	7.297	NA	NA	6.6
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Pre	With kin	10	492.191	49.219	63.692	NA	NA	65.5
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Rst		0	NA	NA	NA	NA	NA	NA
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Vig	Mid neck	7	79.356	11.337	6.142	NA	NA	10.6
+DF43	2024-01-0715:49:11		Karolina	FRF		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.760	752.160	751.400	No focal subject	Vig	Short Neck	5	60.875	12.175	7.665	NA	NA	8.1

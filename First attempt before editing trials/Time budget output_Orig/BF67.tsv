@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Ass	Kin	2	902.64	451.32	218.298	NA	NA	85.5
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Fllw	Kin	2	NA	NA	NA	0.0	NA	NA
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Mov	Away from speaker	5	153.279	30.656	30.554	NA	NA	14.5
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Dhb		1	241.48	241.48	NA	NA	NA	22.9
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Hab		2	523.84	261.92	20.252	NA	NA	49.6
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Look	At speaker	35	NA	NA	NA	0.0	0.0	NA
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Look	Away from speaker	62	NA	NA	NA	0.0	0.0	NA
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Voc	Contact	13	NA	NA	NA	0.0	0.0	NA
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	HSH		8	NA	NA	NA	0.0	0.0	NA
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Htlt		8	NA	NA	NA	0.0	0.0	NA
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	FVO		0	NA	NA	NA	NA	NA	NA
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Eat	With kin	5	107.395	21.479	32.995	NA	NA	10.2
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Pre	Alone	2	24.598	12.299	7.439	NA	NA	2.3
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Pre	With kin	1	92.2	92.2	NA	NA	NA	8.7
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Rst	With kin	2	455.398	227.699	69.834	NA	NA	43.1
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Vig	Mid neck	5	98.797	19.759	12.29	NA	NA	9.4
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Vig	Long neck	2	30.839	15.419	4.27	NA	NA	2.9
+BF67	2023-12-2819:15:29	Triple/EDIT	Diamante	FC		2022-09-11T10:00:00	Centre	 Sunny	KLF	Departure	 2m	0.000	1055.520	1055.520	No focal subject	Vig	Short Neck	5	51.237	10.247	6.54	NA	NA	4.9

@@ -1,0 +1,216 @@
+---
+title: "Mostafatrial_2"
+output: html_document
+date: "2024-09-15"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+
+
+```{r}
+library(tidyverse)
+library(dplyr)
+library(tidyr)
+library(lubridate)
+
+Trial_events_G <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_G.csv")
+
+# Convert Time_stamp to seconds
+convert_to_seconds <- function(time_str) {
+  if (is.na(time_str)) return(NA)
+  parts <- unlist(strsplit(time_str, ":"))
+  if (length(parts) != 2) return(NA)
+  as.numeric(parts[1]) * 60 + as.numeric(parts[2])
+}
+
+# Convert Time_stamp to seconds
+Trial_events_G <- Trial_events_G %>%
+  mutate(Time_seconds = sapply(Time_stamp, convert_to_seconds))
+
+Trial_events_G <- Trial_events_G %>% group_by(Observation_id, Behaviour, Modifier)%>% filter(Behaviour_type != "POINT" & Modifier != "NA")
+
+# Create the keys by concatenating 'Observation_id' and 'Behaviour' values
+keys <- paste(Trial_events_G$Observation_id, Trial_events_G$Behaviour, Trial_events_G$Modifier, sep = "#")
+
+# Step 2: Create a dictionary (named list) with these keys and initialize the values to 0
+dictionary <- setNames(as.list(rep(0, length(keys))), keys)
+
+for (key in names(dictionary)) {
+  
+  # Split the key back into the original columns (assuming '_' is the separator)
+  key_parts <- strsplit(key, "#")[[1]]
+  Observation_id_value <- key_parts[1]
+  Behaviour_value <- key_parts[2]
+  Modifier_value <- key_parts[3]
+
+  # Filter the dataframe based on the values of the dictionary key
+  df_filtered <- Trial_events_G %>%
+   filter(Observation_id == Observation_id_value, Behaviour == Behaviour_value, Modifier == Modifier_value)
+  for(i in 1:nrow(df_filtered))
+  {
+    if(df_filtered$Behaviour_type[i] == "START")
+    {
+      start_time <- df_filtered$Time_seconds[i]
+    }
+    else{
+      duration <- df_filtered$Time_seconds[i] - start_time
+      # cat("start time: ", start_time, "Duration: ", duration, "Stop: ", df_filtered$Time_seconds[i],"\n")
+      cat("BEFORE, Key:", key, "Value:", dictionary[[key]], "\n")
+      dictionary[[key]] <- dictionary[[key]] + duration
+      cat("AFTER, Key:", key, "Value:", dictionary[[key]], "\n")
+    }
+  }
+}
+```
+
+
+# Write to CSV
+```{r}
+df <- data.frame(Key = names(dictionary), Value = unlist(dictionary), stringsAsFactors = FALSE)
+
+
+# Separate the 'Key' column into three columns based on the delimiter '#'
+df_separated <- df %>%
+  tidyr::separate(Key, into = c("Observation_id", "Behaviour", "Modifier"), sep = "#", remove = FALSE)
+
+df_final <- df_separated %>%
+  select(-Key)
+
+# Write the dataframe to a CSV file
+write.csv(df_final, "total_combination_time_per_observation.csv", row.names = FALSE)
+```
+
+## Calculate the total time per phase per observation
+```{r}
+# Initialize an empty list to store results
+results <- list()
+
+# Get unique combinations of Observation_Id and Phase
+unique_combinations <- unique(Trial_events_G[, c("Observation_id", "Phase")])
+
+# Loop through each unique combination
+for (i in 1:nrow(unique_combinations)) {
+  obs_id <- unique_combinations$Observation_id[i]
+  phase <- unique_combinations$Phase[i]
+  
+  # Filter the dataframe for the current combination
+  filtered_df <- Trial_events_G %>%
+    filter(Observation_id == obs_id & Phase == phase)
+  
+  if (nrow(filtered_df) > 1) {
+    # Get the start and end time of the phase
+    start_time <- filtered_df$Time_stamp[1]
+    end_time <- filtered_df$Time_stamp[nrow(filtered_df)]
+    
+    # Calculate the total time spent in the phase
+    total_time <- convert_to_seconds(end_time) - convert_to_seconds(start_time)
+    
+    # Store the result
+    results[[length(results) + 1]] <- data.frame(
+      Observation_id = obs_id,
+      Phase = phase,
+      Total_Time_Seconds = total_time
+    )
+  }
+}
+
+# Combine all results into a single dataframe
+result_df <- do.call(rbind, results)
+
+# Print the result
+print(result_df)
+write.csv(result_df, "total_phase_time_per_observation_id.csv", row.names = FALSE)
+
+```
+
+## Get df of unique_keys per observation id and another df for unique_phases per observation id
+```{r}
+convert_to_seconds <- function(time_str) {
+  if (is.na(time_str)) return(NA)
+  parts <- unlist(strsplit(time_str, ":"))
+  if (length(parts) != 2) return(NA)
+  as.numeric(parts[1]) * 60 + as.numeric(parts[2])
+}
+input_df <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_G.csv")
+results <- list()
+
+unique_phase <- unique(input_df[, c("Observation_id", "Phase")])
+
+# Loop through each unique combination
+for (i in 1:nrow(unique_phase)) {
+  unique_combinations <- unique(input_df[, c("Observation_id", "Behaviour", "Modifier")])
+  obs_id <- unique_combinations$Observation_id[i]
+  behaviour <- unique_combinations$Behaviour[i]
+  modifier <- unique_combinations$Modifier[i]
+  ## Phase
+  phase <- unique_phase$Phase[i]
+  # Filter the dataframe for the current combination
+  filtered_df_combinations <- input_df %>%
+    filter(Observation_id == obs_id & Behaviour == behaviour & Modifier == modifier & Behaviour_type != "POINT")
+  
+  # Get the start and stop times for Behaviour_type
+  start_time <- filtered_df_combinations$Time_stamp[filtered_df_combinations$Behaviour_type == "START"]
+  stop_time <- filtered_df_combinations$Time_stamp[filtered_df_combinations$Behaviour_type == "STOP"]
+  
+  # Filter the dataframe for the phase
+  filtered_df_phase <- input_df %>%
+    filter(Observation_id == obs_id & Phase == phase)
+
+  # Get the phase start and end times
+  phase_start_time <- min(filtered_df_phase$Time_stamp)
+  phase_end_time <- max(filtered_df_phase$Time_stamp)
+  if(length(start_time) > 0) {
+    for(i in 1:length(start_time))
+    {
+        combination_start_time <- start_time[i]
+        combination_stop_time <- stop_time[i]
+        if(length(combination_start_time) > 0 & length(combination_stop_time) > 0 & combination_start_time <= phase_end_time & combination_stop_time >= phase_start_time){
+          #cat("combination_stop_time: ", combination_stop_time, "combination_start_time", combination_start_time, "\n")
+          #total_time <- 0
+          if(combination_start_time >= phase_start_time & combination_stop_time <= phase_end_time){
+            total_time <- convert_to_seconds(combination_stop_time) - convert_to_seconds(combination_start_time)
+            cat("CASE 1 ---> ", "total_time: ", total_time, "phase_start_time: ", convert_to_seconds(phase_start_time), " phase_end_time: ", convert_to_seconds(phase_end_time), "combination_start_time: ", convert_to_seconds(combination_start_time), " combination_stop_time: ", convert_to_seconds(combination_stop_time),"\n" )
+          }
+          else if(combination_start_time > phase_start_time & combination_stop_time > phase_end_time){
+            total_time <- convert_to_seconds(phase_end_time) - convert_to_seconds(combination_start_time)
+            cat("CASE 2 ---> ", "total_time: ", total_time, "phase_start_time: ", convert_to_seconds(phase_start_time), " phase_end_time: ", convert_to_seconds(phase_end_time), "combination_start_time: ", convert_to_seconds(combination_start_time), " combination_stop_time: ", convert_to_seconds(combination_stop_time),"\n" )
+          }
+          else if(combination_start_time < phase_start_time & combination_stop_time < phase_end_time){
+            total_time <- convert_to_seconds(combination_stop_time) - convert_to_seconds(phase_start_time)
+            cat("CASE 3 ---> ", "total_time: ", total_time, "phase_start_time: ", convert_to_seconds(phase_start_time), " phase_end_time: ", convert_to_seconds(phase_end_time), "combination_start_time: ", convert_to_seconds(combination_start_time), " combination_stop_time: ", convert_to_seconds(combination_stop_time),"\n" )
+          }
+          else if(combination_start_time < phase_start_time & combination_stop_time > phase_end_time){
+            total_time <- convert_to_seconds(phase_end_time) - convert_to_seconds(phase_start_time)
+            cat("CASE 4 ---> ", "total_time: ", total_time, "phase_start_time: ", convert_to_seconds(phase_start_time), " phase_end_time: ", convert_to_seconds(phase_end_time), "combination_start_time: ", convert_to_seconds(combination_start_time), " combination_stop_time: ", convert_to_seconds(combination_stop_time),"\n" )
+          }
+          
+             results[[length(results) + 1]] <- data.frame(
+             Observation_id = obs_id,
+             Phase = phase,
+             Behaviour = behaviour,
+             Modifier = modifier,
+             Total_Time_Seconds = total_time
+          )
+        }
+    }
+  }
+
+
+}
+# Combine all results into a single dataframe
+result_df <- do.call(rbind, results)
+
+# Print the result
+print(result_df)
+
+```
+

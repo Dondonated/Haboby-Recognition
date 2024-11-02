@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Ass	Kin	1	702.04	702.04	NA	NA	NA	97.3
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Fllw	Kin	1	NA	NA	NA	NA	NA	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Agn	Towards other	15	NA	NA	NA	0.0	0.0	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Mov	Away from speaker	5	114.236	22.847	23.716	NA	NA	15.8
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Dhb		1	270.76	270.76	NA	NA	NA	37.5
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Hab		1	259.96	259.96	NA	NA	NA	36.0
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Look	At speaker	34	NA	NA	NA	0.0	0.0	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Look	Away from speaker	29	NA	NA	NA	0.0	0.0	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Voc	Other	3	NA	NA	NA	0.0	0.0	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Voc	Contact	3	NA	NA	NA	0.0	0.0	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	HSH		5	NA	NA	NA	0.0	0.0	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Htlt		2	NA	NA	NA	0.0	NA	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	FVO		0	NA	NA	NA	NA	NA	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Eat	Alone	1	15.439	15.439	NA	NA	NA	2.1
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Eat	With kin	15	320.269	21.351	22.013	NA	NA	44.4
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Pre		0	NA	NA	NA	NA	NA	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Rst		0	NA	NA	NA	NA	NA	NA
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Vig	Long neck	13	281.268	21.636	26.644	NA	NA	39.0
+BD57	2023-12-2615:32:13		Koarl	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	4.800	726.240	721.440	No focal subject	Vig	Mid neck	1	18.679	18.679	NA	NA	NA	2.6

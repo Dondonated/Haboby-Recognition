@@ -1,0 +1,24 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Ass	Kin	1	744.0	744.0	NA	NA	NA	100.0
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Fllw		0	NA	NA	NA	NA	NA	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Mov		0	0.0	NA	NA	NA	NA	0.0
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Dhb		1	245.68	245.68	NA	NA	NA	33.0
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Hab		2	247.32	123.66	31.763	52.56	NA	33.2
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Look	At speaker	83	NA	NA	NA	9.029	10.725	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Look	Away from speaker	44	NA	NA	NA	16.341	22.053	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Voc	Other	1	NA	NA	NA	NA	NA	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Voc	Contact	1	NA	NA	NA	NA	NA	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Voc	Distance	1	NA	NA	NA	NA	NA	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	HSH		0	NA	NA	NA	NA	NA	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Htlt		19	NA	NA	NA	38.607	32.695	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	FVO	Distance	21	NA	NA	NA	30.57	40.59	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	FVO	Other	8	NA	NA	NA	54.731	131.146	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	FVO	Recruitment	6	NA	NA	NA	4.448	3.032	NA
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Eat		0	0.0	NA	NA	NA	NA	0.0
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Pre		0	0.0	NA	NA	NA	NA	0.0
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Rst	With kin	7	203.993	29.142	28.847	16.214	10.503	27.4
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Vig	Mid neck	3	206.357	68.786	31.046	94.621	18.696	27.7
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Vig	Long neck	2	189.238	94.619	18.696	35.161	NA	25.4
+SH12	2024-06-1620:44:49.000	Lupin_PRF_07112022_0950.MP4	Lupin	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Recruitment	2m	0.000	744.000	744.000	No focal subject	Vig	Short Neck	8	144.393	18.049	11.396	29.144	28.847	19.4

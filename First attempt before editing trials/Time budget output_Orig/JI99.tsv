@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Ass	Kin	1	723.36	723.36	NA	NA	NA	100.0
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Fllw	Kin	4	NA	NA	NA	0.0	0.0	NA
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Agn	Towards other	4	NA	NA	NA	0.0	0.0	NA
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Mov	Away from speaker	8	260.392	32.549	45.706	NA	NA	36.0
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Dhb		1	244.48	244.48	NA	NA	NA	33.8
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Hab		1	251.92	251.92	NA	NA	NA	34.8
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Look	At speaker	52	NA	NA	NA	0.0	0.0	NA
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Look	Away from speaker	93	NA	NA	NA	0.0	0.0	NA
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Voc	Contact	8	NA	NA	NA	0.0	0.0	NA
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	HSH		15	NA	NA	NA	0.0	0.0	NA
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Htlt		2	NA	NA	NA	0.0	NA	NA
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	FVO	Distance	2	NA	NA	NA	0.0	NA	NA
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	FVO	Other	1	NA	NA	NA	NA	NA	NA
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Eat	With kin	9	83.591	9.288	7.159	NA	NA	11.6
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Pre	With kin	5	220.836	44.167	44.987	NA	NA	30.5
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Rst	With kin	2	20.839	10.419	4.666	NA	NA	2.9
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Vig	Mid neck	10	237.954	23.795	21.277	NA	NA	32.9
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Vig	Short Neck	3	26.077	8.692	5.703	NA	NA	3.6
+JI99	2024-03-0120:55:15		Jurek	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	2m	0.000	723.360	723.360	No focal subject	Vig	Long neck	2	42.118	21.059	2.687	NA	NA	5.8

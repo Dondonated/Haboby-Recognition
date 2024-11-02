@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Ass	Kin	1	710.88	710.88	NA	NA	NA	100.0
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Fllw		0	NA	NA	NA	NA	NA	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Mov		0	NA	NA	NA	NA	NA	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Dhb		1	245.44	245.44	NA	NA	NA	34.5
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Hab		1	244.12	244.12	NA	NA	NA	34.3
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Look	At speaker	12	NA	NA	NA	0.0	0.0	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Look	Away from speaker	5	NA	NA	NA	0.0	0.0	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Voc	Distance	3	NA	NA	NA	0.0	0.0	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	HSH		2	NA	NA	NA	0.0	NA	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Htlt		0	NA	NA	NA	NA	NA	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	FVO	Distance	30	NA	NA	NA	0.0	0.0	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	FVO	Other	5	NA	NA	NA	0.0	0.0	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Eat		0	NA	NA	NA	NA	NA	NA
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Pre	With kin	1	8.439	8.439	NA	NA	NA	1.2
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Rst	With kin	3	643.158	214.386	51.172	NA	NA	90.5
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Vig	Long neck	2	18.798	9.399	0.679	NA	NA	2.6
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Vig	Short Neck	1	11.439	11.439	NA	NA	NA	1.6
+ZV22	2024-07-1521:16:18		Ballantine	FC		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Recruitment	2m	0.000	710.880	710.880	No focal subject	Vig	Mid neck	2	29.038	14.519	7.071	NA	NA	4.1

@@ -1,0 +1,22 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Ass	Kin	1	1064.16	1064.16	NA	NA	NA	100.0
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Fllw	Kin	1	NA	NA	NA	NA	NA	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Mov	Towards speaker	3	55.157	18.386	15.712	NA	NA	5.2
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Mov	Away from speaker	4	214.397	53.599	66.316	NA	NA	20.1
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Dhb		1	253.52	253.52	NA	NA	NA	23.8
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Hab		2	507.16	253.58	7.778	NA	NA	47.7
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Look	At speaker	56	NA	NA	NA	0.0	0.0	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Look	Away from speaker	105	NA	NA	NA	0.0	0.0	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Voc	Recruitment	36	NA	NA	NA	0.0	0.0	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Voc	Contact	49	NA	NA	NA	0.0	0.0	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	HSH		5	NA	NA	NA	0.0	0.0	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Htlt		1	NA	NA	NA	NA	NA	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	FVO		0	NA	NA	NA	NA	NA	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Eat	With kin	8	547.074	68.384	80.284	NA	NA	51.4
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Pre	With kin	3	72.957	24.319	27.725	NA	NA	6.9
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Rst		0	NA	NA	NA	NA	NA	NA
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Vig	Mid neck	8	161.955	20.244	20.159	NA	NA	15.2
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Vig	Long neck	3	79.957	26.652	20.703	NA	NA	7.5
+BG63	2023-12-3022:35:27	Triple/ Edit	Rosenrot	FC		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	 recruitment	1m	0.000	1064.160	1064.160	No focal subject	Vig	Short Neck	1	5.2	5.2	NA	NA	NA	0.5

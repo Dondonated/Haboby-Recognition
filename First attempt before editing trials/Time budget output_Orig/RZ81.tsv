@@ -1,0 +1,22 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Ass	Kin	1	1020.48	1020.48	NA	NA	NA	100.0
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Fllw	Kin	2	NA	NA	NA	0.0	NA	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Agn	Towards other	7	NA	NA	NA	0.0	0.0	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Mov	Towards speaker	2	9.238	4.619	0.99	NA	NA	0.9
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Mov	Away from speaker	10	179.796	17.98	19.581	NA	NA	17.6
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Dhb		1	247.44	247.44	NA	NA	NA	24.2
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Hab		2	488.88	244.44	0.283	NA	NA	47.9
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Look	At speaker	52	NA	NA	NA	0.0	0.0	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Look	Away from speaker	113	NA	NA	NA	0.0	0.0	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Voc	Contact	1	NA	NA	NA	NA	NA	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	HSH		25	NA	NA	NA	0.0	0.0	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Htlt		7	NA	NA	NA	0.0	0.0	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	FVO	Distance	48	NA	NA	NA	0.0	0.0	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	FVO	Other	22	NA	NA	NA	0.0	0.0	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Eat	With kin	8	327.592	40.949	41.808	NA	NA	32.1
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Pre	With kin	6	428.275	71.379	57.117	NA	NA	42.0
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Rst		0	NA	NA	NA	NA	NA	NA
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Vig	Long neck	4	50.076	12.519	13.73	NA	NA	4.9
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Vig	Mid neck	6	189.474	31.579	22.593	NA	NA	18.6
+RZ81	2024-06-1222:26:02	Triple/Edit	Pudding	FRF		2022-09-11T10:00:00	Outermost periphery	Sunny	KLF	Departure	2m	0.000	1020.480	1020.480	No focal subject	Vig	Short Neck	3	13.517	4.506	0.81	NA	NA	1.3

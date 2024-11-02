@@ -1,0 +1,23 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Ass	Kin	4	263.8	65.95	60.343	NA	NA	36.4
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Fllw	Kin	8	NA	NA	NA	0.0	0.0	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Agn	Towards other	6	NA	NA	NA	0.0	0.0	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Mov	Away from speaker	12	233.353	19.446	14.376	NA	NA	32.2
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Mov	Towards speaker	2	19.518	9.759	3.394	NA	NA	2.7
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Dhb		1	246.0	246.0	NA	NA	NA	34.0
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Hab		1	248.36	248.36	NA	NA	NA	34.3
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Look	At speaker	35	NA	NA	NA	0.0	0.0	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Look	Away from speaker	124	NA	NA	NA	0.0	0.0	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Voc	Recruitment	25	NA	NA	NA	0.0	0.0	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Voc	Contact	58	NA	NA	NA	0.0	0.0	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	HSH		14	NA	NA	NA	0.0	0.0	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Htlt		1	NA	NA	NA	NA	NA	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	FVO	Other	35	NA	NA	NA	0.0	0.0	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	FVO	Distance	6	NA	NA	NA	0.0	0.0	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Eat	Alone	5	279.555	55.911	30.68	NA	NA	38.6
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Eat	With kin	4	102.236	25.559	17.482	NA	NA	14.1
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Pre	Alone	1	4.639	4.639	NA	NA	NA	0.6
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Rst		0	NA	NA	NA	NA	NA	NA
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Vig	Mid neck	7	271.713	38.816	30.576	NA	NA	37.5
+TT33	2024-06-2012:10:09		Olga	FRF		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	723.840	723.840	No focal subject	Vig	Long neck	3	55.398	18.466	13.888	NA	NA	7.7

@@ -1,0 +1,20 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Ass	Kin	3	496.24	165.413	145.786	NA	NA	71.5
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Fllw	Kin	1	NA	NA	NA	NA	NA	NA
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Agn	Towards other	2	NA	NA	NA	0.0	NA	NA
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Mov	Away from speaker	4	238.918	59.73	39.294	NA	NA	34.4
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Dhb		1	248.0	248.0	NA	NA	NA	35.7
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Hab		1	244.28	244.28	NA	NA	NA	35.2
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Look	Away from speaker	16	NA	NA	NA	0.0	0.0	NA
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Look	At speaker	17	NA	NA	NA	0.0	0.0	NA
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Voc	Contact	7	NA	NA	NA	0.0	0.0	NA
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Voc	Departure	1	NA	NA	NA	NA	NA	NA
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	HSH		8	NA	NA	NA	0.0	0.0	NA
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Htlt		0	NA	NA	NA	NA	NA	NA
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	FVO		0	NA	NA	NA	NA	NA	NA
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Eat	Alone	1	79.759	79.759	NA	NA	NA	11.5
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Pre	With kin	1	15.88	15.88	NA	NA	NA	2.3
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Rst	With kin	1	302.88	302.88	NA	NA	NA	43.6
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Vig	Mid neck	5	113.758	22.752	20.992	NA	NA	16.4
+AP39	2023-12-1921:06:27		Idgie	FC		2022-09-11T10:00:00	 Inner eriphery	Overcast	KLF	 recruitment	1m	2.040	696.480	694.440	No focal subject	Vig	Long neck	2	16.0	8.0	1.697	NA	NA	2.3

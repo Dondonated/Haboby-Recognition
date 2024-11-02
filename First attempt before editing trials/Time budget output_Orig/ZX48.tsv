@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Ass	Kin	1	734.88	734.88	NA	NA	NA	100.0
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Fllw		0	NA	NA	NA	NA	NA	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Agn	Towards other	3	NA	NA	NA	0.0	0.0	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Mov	Away from speaker	3	40.8	13.6	6.87	NA	NA	5.6
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Dhb		1	243.0	243.0	NA	NA	NA	33.1
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Hab		1	245.32	245.32	NA	NA	NA	33.4
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Look	At speaker	46	NA	NA	NA	0.0	0.0	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Look	Away from speaker	60	NA	NA	NA	0.0	0.0	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Voc	Distance	1	NA	NA	NA	NA	NA	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	HSH		2	NA	NA	NA	0.0	NA	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Htlt		8	NA	NA	NA	0.0	0.0	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	FVO	Distance	40	NA	NA	NA	0.0	0.0	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	FVO	Other	6	NA	NA	NA	0.0	0.0	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Eat		0	NA	NA	NA	NA	NA	NA
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Pre	With kin	13	536.828	41.294	38.991	NA	NA	73.0
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Rst	With kin	1	7.239	7.239	NA	NA	NA	1.0
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Vig	Short Neck	1	22.639	22.639	NA	NA	NA	3.1
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Vig	Mid neck	13	122.707	9.439	10.481	NA	NA	16.7
+ZX48	2024-07-1522:37:00		Oberlix	PRF		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	734.880	734.880	No focal subject	Vig	Long neck	6	45.434	7.572	4.988	NA	NA	6.2

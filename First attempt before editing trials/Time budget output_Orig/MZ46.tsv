@@ -1,0 +1,24 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Ass	Kin	1	465.24	465.24	NA	NA	NA	65.3
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Fllw	Kin	5	NA	NA	NA	0.0	0.0	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Agn	Towards other	5	NA	NA	NA	0.0	0.0	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Mov	Towards speaker	1	3.759	3.759	NA	NA	NA	0.5
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Mov	Away from speaker	9	309.597	34.4	43.588	NA	NA	43.5
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Dhb		1	246.0	246.0	NA	NA	NA	34.5
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Hab		1	246.28	246.28	NA	NA	NA	34.6
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Look	At speaker	51	NA	NA	NA	0.0	0.0	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Look	Away from speaker	109	NA	NA	NA	0.0	0.0	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Voc	Contact	6	NA	NA	NA	0.0	0.0	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	HSH		3	NA	NA	NA	0.0	0.0	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Htlt		0	NA	NA	NA	NA	NA	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	FVO	Recruitment	2	NA	NA	NA	0.0	NA	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	FVO	Other	17	NA	NA	NA	0.0	0.0	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	FVO	Distance	22	NA	NA	NA	0.0	0.0	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Eat	With kin	1	7.999	7.999	NA	NA	NA	1.1
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Pre	With kin	7	111.074	15.868	17.085	NA	NA	15.6
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Pre	Alone	3	170.558	56.853	43.181	NA	NA	23.9
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Rst		0	NA	NA	NA	NA	NA	NA
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Vig	Mid neck	10	360.191	36.019	76.155	NA	NA	50.6
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Vig	Long neck	1	16.679	16.679	NA	NA	NA	2.3
+MZ46	2024-03-1623:40:08		Bruce Springsteen	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	1m	0.000	712.320	712.320	No focal subject	Vig	Short Neck	2	32.438	16.219	9.928	NA	NA	4.6

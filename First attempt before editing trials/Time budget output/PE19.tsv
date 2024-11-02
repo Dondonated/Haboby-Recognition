@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Ass	Kin	1	700.32	700.32	NA	NA	NA	100.0
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Fllw	Kin	1	NA	NA	NA	NA	NA	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Agn	Towards other	2	NA	NA	NA	0.0	NA	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Mov	Away from speaker	2	84.239	42.12	45.707	NA	NA	12.0
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Dhb		1	240.56	240.56	NA	NA	NA	34.4
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Hab		1	244.64	244.64	NA	NA	NA	34.9
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Look	Away from speaker	54	NA	NA	NA	0.0	0.0	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Look	At speaker	19	NA	NA	NA	0.0	0.0	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Voc	Contact	21	NA	NA	NA	0.0	0.0	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	HSH		4	NA	NA	NA	0.0	0.0	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Htlt		10	NA	NA	NA	0.0	0.0	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	FVO	Distance	39	NA	NA	NA	0.0	0.0	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	FVO	Other	7	NA	NA	NA	0.0	0.0	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Eat	With kin	3	33.077	11.026	4.143	NA	NA	4.7
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Pre		0	NA	NA	NA	NA	NA	NA
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Rst	With kin	2	454.039	227.02	284.794	NA	NA	64.8
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Vig	Long neck	1	4.959	4.959	NA	NA	NA	0.7
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Vig	Mid neck	5	48.475	9.695	8.114	NA	NA	6.9
+PE19	2024-04-0917:15:41		Jumper	FC		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Recruitment	2m	0.000	700.320	700.320	No focal subject	Vig	Short Neck	3	159.757	53.252	30.671	NA	NA	22.8

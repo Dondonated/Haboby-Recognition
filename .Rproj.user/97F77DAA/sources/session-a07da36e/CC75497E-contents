@@ -1,0 +1,208 @@
+---
+title: "Individual recognition"
+output: html_document
+date: "2024-07-21"
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# set work directory
+
+```{r}
+setwd("E:/Individual recognition/Individual Recognition R Project")
+
+library(tidyverse)
+library(magrittr)
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#rename files in folder
+
+```{r}
+
+
+library(dplyr)
+library(stringr)
+
+
+# Extract the original names  in the file.
+#1- list of original and blind names
+blind <- read.csv(file="blind video list_finalised.csv",  header = T,  as.is = T)
+#remove the .MP4 from the end of the original file name
+blind <- blind %>%
+      mutate_at("Original_code", str_replace, ".MP4", ".tsv")
+blind <- blind %>%
+      mutate_at("Blind.code", paste0, ".tsv")
+# 2 - extract original names in a vector
+Origname <- blind [,1]
+
+# 3 - extract the blind codes in a vector
+blindcode <- blind [,2]
+
+# rewrite the file names in the folder
+
+install.packages("dplyr")
+install.packages("fs")
+library(dplyr)
+library(fs)
+
+# Example DataFrame with old and new file names
+
+file_rename_df <- data.frame(
+  old_name <-blindcode,
+  new_name <-Origname
+)
+colnames(file_rename_df)[1] <- "blindcode"
+colnames(file_rename_df)[2] <- "Origname"
+
+# Specify the source folder path
+source_folder <- "/Trial events output"
+
+# Specify the destination folder path
+destination_folder <- "/trial events rename"
+
+# Create the destination folder if it doesn't exist
+dir_create(destination_folder)
+
+# Loop through each row in the DataFrame to rename and copy files
+file_rename_df %>%
+  rowwise() %>%
+  mutate(rename_result = {
+    source_folder <- file.path(source_folder, blindcode)
+    destination_folder <- file.path(destination_folder, Origname)
+    
+    if (file_exists(source_folder)) {
+      file_move(source_folder, destination_folder)
+      paste("Renamed:", blindcode, "to", Origname)
+    } else {
+      paste("File not found:", blindcode)
+    }
+  }) %>%
+  ungroup() %>%
+  select(rename_result) %>%
+  print()
+
+###
+
+```
+
+
+# load data as a list
+
+```{r}
+#get list of excel XML files from the directory
+#root - user directory 
+#client - client directory name
+event_list<-list.files(path=str_c("Trial events output",sep=""),pattern="*.tsv")
+
+#function for importing and processing files goes here
+#requires client directory name, file name for import
+#output is "import_TT" tibble
+
+#Create Output_Table to hold the additions of imported files
+Trial_events_A<-tibble()
+
+#Call import function for each excel workbook to import
+#Create output table by concatenating processed tables
+for(i in 1:length(event_list)){
+  Trial_events_A<-bind_rows(Trial_events_A,("Trial events output"),event_list[i])
+}
+
+#Export the table to an excel workbook naming it after the first workbook in the list
+#fileloc<-str_c(root,client,str_c("TT_Processed",file_list[1],today(),".xlsx",sep="-"#), sep="/")
+#write_xlsx(Output_Table,fileloc,format_headers = TRUE,col_names = TRUE)
+
+```
+
+# rename variables to have no confounding words by including a _ 
+
+```{r}
+Trial_events_A %<>% 
+  rename("Observation date" = "Observation_date",
+         "Observationtype" = "Observation_type",
+         "Image index" = "Image_index")
+
+```
+
+
+# clean unnecessary columns 
+
+```{r}
+# remove columns (Observation_date 2, Description 3, Observation_type 5, Source 6, FPS 8, Date 11, Time 12,Position 13, Site 15, Subject 19, Image_index 25)
+
+# add Behaviour type (state or Point event), and phase (silence beginning, interval, silence end)
+for (i in Trial_events_A) {
+  
+}
+Trial_events_B %>% 
+  select(-Observation_date,
+         -Description,
+         -Observation_type,
+         -Source,
+         -FPS,
+         -Date,
+         -Time,
+         -Position,
+         -Site,
+         -Image_index,
+         no_song,
+         no_chase,
+         no_flights)
+
+summary(Trial_events_B)
+
+```
+
+# for trial by event files
+
+#define phases as a) silence beginning, interval and silence end b) Habituation
+# c) dishabituation #remove unnecessary columns #for each file, calculate
+# 1 - duration of each state event type by phase \# 2 - number of point
+#events by type \# 3 - latency of vocal response in each phase \# 4 -
+#latency of first gaze at speaker in each phase \# 5 - transition from
+#one state to the next in each phase
+
+```{r}
+# calculate duration of state events by type and phase
+
+# caluculate number of point events occurrences by type, modifier and phase
+```
+
+
+# for time budget files
+
+#extract the total time investment of each Behaviour type (sate or point event) per individual
+#clean the files by removing unncessary columns listed above
+
+```{r}
+
+```
+
+
+#bind all files in one dataset 
+```{r}
+
+```
+
+
+
+## DFA
+
+```{r}
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to
+prevent printing of the R code that generated the plot.

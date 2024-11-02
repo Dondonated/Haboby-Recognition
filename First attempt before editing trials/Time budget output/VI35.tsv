@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Ass	Kin	1	744.48	744.48	NA	NA	NA	100.0
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Fllw	Kin	5	NA	NA	NA	0.0	0.0	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Mov	Away from speaker	7	94.599	13.514	12.453	NA	NA	12.7
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Mov	Towards speaker	2	29.479	14.74	12.36	NA	NA	4.0
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Dhb		1	244.4	244.4	NA	NA	NA	32.8
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Hab		1	272.76	272.76	NA	NA	NA	36.6
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Look	At speaker	48	NA	NA	NA	0.0	0.0	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Look	Away from speaker	116	NA	NA	NA	0.0	0.0	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Voc	Contact	25	NA	NA	NA	0.0	0.0	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	HSH		9	NA	NA	NA	0.0	0.0	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Htlt		5	NA	NA	NA	0.0	0.0	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	FVO	Distance	36	NA	NA	NA	0.0	0.0	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	FVO	Other	43	NA	NA	NA	0.0	0.0	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Eat	With kin	10	155.71	15.571	20.319	NA	NA	20.9
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Pre		0	NA	NA	NA	NA	NA	NA
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Rst	With kin	1	88.64	88.64	NA	NA	NA	11.9
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Vig	Mid neck	11	483.189	43.926	80.688	NA	NA	64.9
+VI35	2024-06-2623:00:23		Triton	FRP		2022-09-11T10:00:00	Outermost periphery	Overcast	KLF	Departure	2m	0.000	744.480	744.480	No focal subject	Vig	Long neck	1	16.919	16.919	NA	NA	NA	2.3

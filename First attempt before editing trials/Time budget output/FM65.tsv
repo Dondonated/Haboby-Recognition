@@ -1,0 +1,27 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Ass	Kin	2	783.0	391.5	299.332	NA	NA	94.9
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Fllw	Kin	7	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Agn	Towards other	4	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Mov	Away from speaker	15	147.513	9.834	5.137	NA	NA	17.9
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Mov	Towards speaker	3	19.638	6.546	2.934	NA	NA	2.4
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Dep	With kin	1	NA	NA	NA	NA	NA	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Dhb		1	251.16	251.16	NA	NA	NA	30.5
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Hab		1	249.16	249.16	NA	NA	NA	30.2
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Look	Away from speaker	119	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Look	At speaker	60	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Voc	Other	4	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Voc	Contact	16	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Voc	Recruitment	66	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Voc	Distance	4	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	HSH		33	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Htlt		5	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	FVO	Other	2	NA	NA	NA	0.0	NA	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	FVO	Departure	18	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	FVO	Distance	5	NA	NA	NA	0.0	0.0	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	FVO	Recruitment	1	NA	NA	NA	NA	NA	NA
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Eat	With kin	12	224.75	18.729	21.816	NA	NA	27.3
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Pre	With kin	2	10.718	5.359	2.715	NA	NA	1.3
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Rst	With kin	1	46.879	46.879	NA	NA	NA	5.7
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Vig	Mid neck	21	288.104	13.719	9.923	NA	NA	34.9
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Vig	Long neck	11	178.994	16.272	23.291	NA	NA	21.7
+FM65	2024-01-2820:37:35		Lupin	FRP		2022-09-11T10:00:00	 Outer periphery	 Sunny	KLF	Departure	1m	0.000	824.720	824.720	No focal subject	Vig	Short Neck	3	32.637	10.879	8.972	NA	NA	4.0

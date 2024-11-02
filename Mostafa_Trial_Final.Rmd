@@ -1,0 +1,134 @@
+---
+title: "Mostafa_Trial_Final"
+author: "Dina"
+date: "2024-11-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+
+```{r}
+library(tidyverse)
+library(dplyr)
+library(tidyr)
+library(lubridate)
+
+Trial_events_G <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_G.csv")
+
+# Convert Time_stamp to seconds
+convert_to_seconds <- function(time_str) {
+  if (is.na(time_str)) return(NA)
+  parts <- unlist(strsplit(time_str, ":"))
+  if (length(parts) != 2) return(NA)
+  as.numeric(parts[1]) * 60 + as.numeric(parts[2])
+}
+
+Phase_table <- Trial_events_G %>%group_by(Observation_id, Phase)  %>%
+  summarise(
+    Start_timestamp = min(Time_stamp),
+    End_timestamp = max(Time_stamp),
+    Duration = convert_to_seconds(End_timestamp) - convert_to_seconds(Start_timestamp)
+  )
+
+Trial_events_G_Filtered <- Trial_events_G %>% group_by(Observation_id, Behaviour, Modifier)%>% filter(Behaviour_type != "POINT" & Modifier != "NA")
+
+```
+
+
+```{r}
+start_stop_df <- Trial_events_G_Filtered %>%
+  filter(Behaviour_type %in% c("START", "STOP")) %>%  # Filter for relevant rows
+  group_by(Observation_id, Behaviour, Modifier) %>%
+  mutate(
+    event_id = cumsum(Behaviour_type == "START")  # Create an event ID for pairing starts and stops
+  ) %>%
+  filter(Behaviour_type == "START" | (Behaviour_type) == "STOP") %>%  # Keep only relevant rows
+  group_by(Observation_id, Behaviour, Modifier, event_id) %>%
+  summarise(
+    Start_timestamp = first(Time_stamp[Behaviour_type == "START"]),
+    End_timestamp = first(Time_stamp[(Behaviour_type) == "STOP"]),
+    .groups = 'drop'
+  )
+```
+
+```{r}
+
+output_df <- data.frame(
+  Observation_id = character(),
+  Phase = character(),
+  Behaviour = character(),
+  Modifier = character(),
+  Percentage = character()
+)
+
+for (i in 1:nrow(start_stop_df))
+{
+  obs_id <- start_stop_df$Observation_id[i]
+  behaviour <- start_stop_df$Behaviour[i]
+  modifier <- start_stop_df$Modifier[i]
+  bm_start_time <- start_stop_df$Start_timestamp[i]
+  bm_end_time <- start_stop_df$End_timestamp[i]
+  bm_duration <- convert_to_seconds(bm_end_time) - convert_to_seconds(bm_start_time)
+  percentage <- 0
+  
+  new_row <- data.frame(
+    Observation_id = obs_id,
+    Behaviour = behaviour,
+    Modifier = modifier,
+    Phase = "",
+    Percentage = ""
+  )
+  
+  filtered_phase_table <- Phase_table %>% filter(Observation_id == obs_id)
+  for(j in 1:nrow(filtered_phase_table))
+  {
+    phase_start_time <- filtered_phase_table$Start_timestamp[j]
+    phase_end_time <- filtered_phase_table$End_timestamp[j]
+    phase_duration <- filtered_phase_table$Duration[j]
+    new_row$Phase <- filtered_phase_table$Phase[j]
+    
+    if(bm_start_time >= phase_start_time & bm_end_time <= phase_end_time)
+    {
+      percentage = (bm_duration/phase_duration) * 100
+    }
+    else if(bm_start_time >= phase_start_time & bm_start_time <= phase_end_time & bm_end_time >= phase_end_time)
+    {
+      percentage = ((convert_to_seconds(phase_end_time) - convert_to_seconds(bm_start_time)) / phase_duration) * 100
+    }
+    else if(bm_start_time <= phase_start_time & bm_end_time <= phase_end_time & bm_end_time > phase_start_time)
+    {
+      percentage = ((convert_to_seconds(bm_end_time) - convert_to_seconds(phase_start_time)) / phase_duration) * 100
+    }
+    else if (bm_start_time <= phase_start_time & bm_end_time >= phase_end_time)
+    {
+      percentage = 100
+    }
+    else {
+      next
+    }
+    new_row$Percentage <- percentage
+    output_df <- rbind(output_df, new_row)
+    percentage = ""
+  }
+}
+```
+
+
+```{r}
+write_csv(output_df, "C:/Users/nofa2/Dropbox/PC/Downloads/Output.csv")
+```
+
+
+```{r}
+aggregated_outpt <- output_df %>%group_by(Observation_id, Behaviour, Modifier, Phase) %>% summarise(Total_Percentage = sum(Percentage), .groups = 'drop')
+```
+

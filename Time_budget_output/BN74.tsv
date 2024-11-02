@@ -1,0 +1,19 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Ass	Kin	1	758.88	758.88	NA	NA	NA	100.0
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Fllw		0	NA	NA	NA	NA	NA	NA
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Mov		0	0.0	NA	NA	NA	NA	0.0
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Dhb		1	243.84	243.84	NA	NA	NA	32.1
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Hab		1	254.16	254.16	NA	NA	NA	33.5
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Look	At speaker	19	NA	NA	NA	41.016	70.587	NA
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Look	Away from speaker	23	NA	NA	NA	30.507	76.085	NA
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Voc	Contact	1	NA	NA	NA	NA	NA	NA
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	HSH		3	NA	NA	NA	193.54	59.934	NA
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Htlt		0	NA	NA	NA	NA	NA	NA
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	FVO		0	NA	NA	NA	NA	NA	NA
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Eat		0	0.0	NA	NA	NA	NA	0.0
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Pre	With kin	4	728.477	182.119	169.058	10.134	6.002	96.0
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Rst		0	0.0	NA	NA	NA	NA	0.0
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Vig	Long neck	1	14.639	14.639	NA	NA	NA	1.9
+BN74	2023-12-3101:15:25.000	JB_FC_16102022_0944.MP4	JB	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	758.880	758.880	No focal subject	Vig	Mid neck	2	15.758	7.879	6.449	364.721	NA	2.1

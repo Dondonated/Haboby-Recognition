@@ -1,0 +1,25 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Ass	Kin	1	690.88	690.88	NA	NA	NA	99.6
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Fllw	Kin	3	NA	NA	NA	0.0	0.0	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Agn	Towards other	5	NA	NA	NA	0.0	0.0	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Mov	Away from speaker	9	288.997	32.111	20.005	NA	NA	41.7
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Mov	Towards speaker	1	34.239	34.239	NA	NA	NA	4.9
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Dep	With kin	1	NA	NA	NA	NA	NA	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Dhb		1	244.04	244.04	NA	NA	NA	35.2
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Hab		1	249.56	249.56	NA	NA	NA	36.0
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Look	Away from speaker	130	NA	NA	NA	0.0	0.0	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Look	At speaker	73	NA	NA	NA	0.0	0.0	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Voc	Contact	8	NA	NA	NA	0.0	0.0	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Voc	Recruitment	3	NA	NA	NA	0.0	0.0	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	HSH		36	NA	NA	NA	0.0	0.0	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Htlt		2	NA	NA	NA	0.0	NA	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	FVO	Other	2	NA	NA	NA	0.0	NA	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	FVO	Departure	23	NA	NA	NA	0.0	0.0	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	FVO	Recruitment	119	NA	NA	NA	0.0	0.0	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	FVO	Distance	41	NA	NA	NA	0.0	0.0	NA
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Eat	With kin	2	112.038	56.019	59.878	NA	NA	16.2
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Pre	With kin	4	16.956	4.239	2.276	NA	NA	2.4
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Rst	With kin	1	2.799	2.799	NA	NA	NA	0.4
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Vig	Short Neck	4	180.156	45.039	35.108	NA	NA	26.0
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Vig	Long neck	4	62.876	15.719	9.08	NA	NA	9.1
+VE59	2024-06-2422:53:39		Karolina	FRP		2022-09-11T10:00:00	Inner eriphery	Sunny	KLF	Departure	2m	0.000	693.360	693.360	No focal subject	Vig	Mid neck	7	311.513	44.502	61.718	NA	NA	44.9

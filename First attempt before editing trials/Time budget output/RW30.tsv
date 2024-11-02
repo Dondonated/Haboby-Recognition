@@ -1,0 +1,24 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Ass	Kin	1	604.6	604.6	NA	NA	NA	60.9
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Fllw	Kin	4	NA	NA	NA	0.0	0.0	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Mov	Away from speaker	3	154.28	51.427	32.383	NA	NA	15.5
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Mov	Towards speaker	1	18.079	18.079	NA	NA	NA	1.8
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Dhb		1	249.72	249.72	NA	NA	NA	25.2
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Hab		2	506.72	253.36	4.865	NA	NA	51.1
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Look	Away from speaker	91	NA	NA	NA	0.0	0.0	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Look	At speaker	111	NA	NA	NA	0.0	0.0	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Voc	Contact	15	NA	NA	NA	0.0	0.0	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Voc	Other	1	NA	NA	NA	NA	NA	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	HSH		5	NA	NA	NA	0.0	0.0	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Htlt		11	NA	NA	NA	0.0	0.0	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	FVO	Distance	22	NA	NA	NA	0.0	0.0	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	FVO	Recruitment	9	NA	NA	NA	0.0	0.0	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	FVO	Other	38	NA	NA	NA	0.0	0.0	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Eat		0	NA	NA	NA	NA	NA	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Pre	With kin	8	438.993	54.874	67.91	NA	NA	44.2
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Rst		0	NA	NA	NA	NA	NA	NA
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Vig	Long neck	3	319.277	106.426	114.28	NA	NA	32.2
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Vig	Mid neck	8	220.512	27.564	42.439	NA	NA	22.2
+RW30	2024-06-1216:29:14		Oberlix	FC		2022-09-11T10:00:00	Outer periphery	Sunny	KLF	Recruitment	2m	0.000	992.160	992.160	No focal subject	Vig	Short Neck	2	10.878	5.439	0.566	NA	NA	1.1

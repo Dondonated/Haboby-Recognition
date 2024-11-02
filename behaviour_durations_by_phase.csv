@@ -1,0 +1,2463 @@
+Observation_id,Behaviour,Modifier,Phase,Behaviour_duration_by_Phase
+Allegra_FC_17112022_1052,Dhb,NA,Dishabituation,256
+Allegra_FC_17112022_1052,Mov,Away from speaker,Dishabituation,79
+Allegra_FC_17112022_1052,Pre,With kin,Dishabituation,6
+Allegra_FC_17112022_1052,Rst,With kin,Dishabituation,25
+Allegra_FC_17112022_1052,Vig,Mid neck,Dishabituation,177
+Allegra_FC_17112022_1052,Vig,Short Neck,Dishabituation,81
+Allegra_FC_17112022_1052,Eat,With kin,Habituation,35
+Allegra_FC_17112022_1052,Mov,Away from speaker,Habituation,36
+Allegra_FC_17112022_1052,Vig,Mid neck,Habituation,54
+Allegra_FC_17112022_1052,Pre,With kin,Silence_3,28
+Allegra_FC_17112022_1052,Vig,Mid neck,Silence_3,9
+Allegra_FC_17112022_1052,Vig,Short Neck,Silence_3,14
+Allegra_FRF_20112022_0943,Dhb,NA,Dishabituation,246
+Allegra_FRF_20112022_0943,Pre,With kin,Dishabituation,68
+Allegra_FRF_20112022_0943,Rst,With kin,Dishabituation,108
+Allegra_FRF_20112022_0943,Vig,Short Neck,Dishabituation,64
+Allegra_FRF_20112022_0943,Hab,NA,Habituation,247
+Allegra_FRF_20112022_0943,Rst,With kin,Habituation,21
+Allegra_FRF_20112022_0943,Vig,Short Neck,Habituation,4
+Allegra_FRF_20112022_0943,Pre,With kin,Silence_1,2
+Allegra_FRF_20112022_0943,Rst,With kin,Silence_1,25
+Allegra_FRF_20112022_0943,Vig,Mid neck,Silence_1,10
+Allegra_FRF_20112022_0943,Vig,Short Neck,Silence_2,5
+Allegra_FRF_20112022_0943,Rst,With kin,Silence_3,62
+Allegra_PRF_08102022_0856,Pre,With kin,Dishabituation,59
+Allegra_PRF_08102022_0856,Vig,Mid neck,Dishabituation,18
+Allegra_PRF_08102022_0856,Pre,With kin,Habituation,9
+Allegra_PRF_08102022_0856,Rst,With kin,Habituation,20
+Allegra_PRF_08102022_0856,Vig,Mid neck,Habituation,4
+Allegra_PRF_08102022_0856,Vig,Short Neck,Habituation,12
+Allegra_PRF_08102022_0856,Pre,With kin,Silence_1,10
+Allegra_PRF_08102022_0856,Rst,With kin,Silence_1,14
+Allegra_PRF_08102022_0856,Vig,Short Neck,Silence_1,15
+Allegra_PRF_08102022_0856,Pre,With kin,Silence_3,65
+Allegra_PRF_08102022_0856,Vig,Mid neck,Silence_3,8
+Anthony_FC_08112022_0843,Dhb,NA,Dishabituation,245
+Anthony_FC_08112022_0843,Eat,With kin,Dishabituation,201
+Anthony_FC_08112022_0843,Mov,Away from speaker,Dishabituation,7
+Anthony_FC_08112022_0843,Vig,Mid neck,Dishabituation,20
+Anthony_FC_08112022_0843,Eat,With kin,Habituation,97
+Anthony_FC_08112022_0843,Mov,Away from speaker,Habituation,91
+Anthony_FC_08112022_0843,Mov,Towards speaker,Habituation,9
+Anthony_FC_08112022_0843,Vig,Mid neck,Habituation,126
+Anthony_FC_08112022_0843,Ass,Kin,Silence_1,60
+Anthony_FC_08112022_0843,Eat,With kin,Silence_1,37
+Anthony_FC_08112022_0843,Mov,Away from speaker,Silence_1,18
+Anthony_FC_08112022_0843,Mov,Towards speaker,Silence_1,20
+Anthony_FC_08112022_0843,Pre,Alone,Silence_1,10
+Anthony_FC_08112022_0843,Vig,Mid neck,Silence_1,56
+Anthony_FC_08112022_0843,Eat,With kin,Silence_2,37
+Anthony_FC_08112022_0843,Vig,Mid neck,Silence_2,3
+Anthony_FC_08112022_0843,Eat,With kin,Silence_3,3
+Anthony_FC_08112022_0843,Mov,Away from speaker,Silence_3,29
+Anthony_FC_08112022_0843,Vig,Mid neck,Silence_3,28
+Anthony_FC_12102022_0942,Dhb,NA,Dishabituation,244
+Anthony_FC_12102022_0942,Eat,Alone,Dishabituation,26
+Anthony_FC_12102022_0942,Eat,With kin,Dishabituation,81
+Anthony_FC_12102022_0942,Mov,Away from speaker,Dishabituation,5
+Anthony_FC_12102022_0942,Mov,Towards speaker,Dishabituation,2
+Anthony_FC_12102022_0942,Vig,Mid neck,Dishabituation,14
+Anthony_FC_12102022_0942,Eat,With kin,Habituation,116
+Anthony_FC_12102022_0942,Hab,NA,Habituation,254
+Anthony_FC_12102022_0942,Mov,Away from speaker,Habituation,2
+Anthony_FC_12102022_0942,Mov,Towards speaker,Habituation,67
+Anthony_FC_12102022_0942,Vig,Mid neck,Habituation,74
+Anthony_FC_12102022_0942,Eat,With kin,Silence_1,23
+Anthony_FC_12102022_0942,Mov,Away from speaker,Silence_1,20
+Anthony_FC_12102022_0942,Mov,Towards speaker,Silence_1,20
+Anthony_FC_12102022_0942,Pre,With kin,Silence_1,31
+Anthony_FC_12102022_0942,Vig,Long neck,Silence_1,86
+Anthony_FC_12102022_0942,Pre,With kin,Silence_3,5
+Anthony_FC_12102022_0942,Vig,Mid neck,Silence_3,69
+Anthony_FRF_21112022_0930,Dhb,NA,Dishabituation,246
+Anthony_FRF_21112022_0930,Pre,With kin,Dishabituation,40
+Anthony_FRF_21112022_0930,Rst,With kin,Dishabituation,74
+Anthony_FRF_21112022_0930,Vig,Mid neck,Dishabituation,92
+Anthony_FRF_21112022_0930,Vig,Short Neck,Dishabituation,10
+Anthony_FRF_21112022_0930,Hab,NA,Habituation,273
+Anthony_FRF_21112022_0930,Rst,With kin,Silence_1,18
+Anthony_FRF_21112022_0930,Vig,Mid neck,Silence_1,23
+Anthony_FRF_21112022_0930,Vig,Short Neck,Silence_1,5
+Anthony_FRF_25102022_0953,Mov,Away from speaker,Dishabituation,3
+Anthony_FRF_25102022_0953,Pre,With kin,Dishabituation,6
+Anthony_FRF_25102022_0953,Rst,With kin,Dishabituation,21
+Anthony_FRF_25102022_0953,Vig,Mid neck,Dishabituation,44
+Anthony_FRF_25102022_0953,Hab,NA,Habituation,90
+Anthony_FRF_25102022_0953,Pre,With kin,Habituation,49
+Anthony_FRF_25102022_0953,Rst,With kin,Habituation,106
+Anthony_FRF_25102022_0953,Vig,Short Neck,Habituation,138
+Anthony_FRF_25102022_0953,Pre,With kin,Silence_1,69
+Anthony_FRF_25102022_0953,Rst,With kin,Silence_2,13
+Anthony_FRF_25102022_0953,Vig,Mid neck,Silence_2,7
+Anthony_FRF_25102022_0953,Vig,Short Neck,Silence_2,12
+Anthony_FRF_25102022_0953,Rst,With kin,Silence_3,63
+Anthony_FRP_06112022_0945,Pre,With kin,Dishabituation,5
+Anthony_FRP_06112022_0945,Vig,Mid neck,Dishabituation,67
+Anthony_FRP_06112022_0945,Mov,Away from speaker,Silence_1,16
+Anthony_PRF_27102022_1108,Eat,With kin,Dishabituation,20
+Anthony_PRF_27102022_1108,Vig,Long neck,Dishabituation,4
+Anthony_PRF_27102022_1108,Hab,NA,Habituation,247
+Anthony_PRF_27102022_1108,Eat,With kin,Silence_2,22
+Anthony_PRF_27102022_1108,Mov,Away from speaker,Silence_2,15
+Anthony_PRF_27102022_1108,Vig,Mid neck,Silence_2,21
+Ballantine_FC_07112022_0855,Dhb,NA,Dishabituation,246
+Ballantine_FC_07112022_0855,Pre,With kin,Dishabituation,9
+Ballantine_FC_07112022_0855,Vig,Long neck,Dishabituation,9
+Ballantine_FC_07112022_0855,Vig,Mid neck,Dishabituation,29
+Ballantine_FC_07112022_0855,Vig,Long neck,Habituation,10
+Ballantine_FC_07112022_0855,Vig,Short Neck,Habituation,11
+Ballantine_FC_09102022_0930,Dhb,NA,Dishabituation,192
+Ballantine_FC_09102022_0930,Eat,With kin,Dishabituation,34
+Ballantine_FC_09102022_0930,Mov,Away from speaker,Dishabituation,16
+Ballantine_FC_09102022_0930,Rst,With kin,Dishabituation,3
+Ballantine_FC_09102022_0930,Vig,Long neck,Dishabituation,21
+Ballantine_FC_09102022_0930,Vig,Mid neck,Dishabituation,142
+Ballantine_FC_09102022_0930,Vig,Short Neck,Dishabituation,16
+Ballantine_FC_09102022_0930,Eat,With kin,Habituation,9
+Ballantine_FC_09102022_0930,Hab,NA,Habituation,248
+Ballantine_FC_09102022_0930,Rst,With kin,Habituation,33
+Ballantine_FC_09102022_0930,Vig,Mid neck,Habituation,50
+Ballantine_FRF_22112022_1026,Vig,Mid neck,Dishabituation,5
+Ballantine_FRF_22112022_1026,Eat,With kin,Habituation,80
+Ballantine_FRF_22112022_1026,Mov,Away from speaker,Habituation,6
+Ballantine_FRF_22112022_1026,Mov,Towards speaker,Habituation,28
+Ballantine_FRF_22112022_1026,Vig,Mid neck,Habituation,102
+Ballantine_FRF_22112022_1026,Eat,With kin,Silence_1,67
+Ballantine_FRF_22112022_1026,Mov,Away from speaker,Silence_1,9
+Ballantine_FRF_22112022_1026,Vig,Mid neck,Silence_1,16
+Ballantine_FRF_22112022_1026,Eat,With kin,Silence_3,65
+Ballantine_FRF_22112022_1026,Mov,Towards speaker,Silence_3,9
+Ballantine_FRF_22112022_1026,Vig,Mid neck,Silence_3,28
+Ballantine_FRF_26102022_0947,Pre,With kin,Dishabituation,100
+Ballantine_FRF_26102022_0947,Rst,With kin,Dishabituation,119
+Ballantine_FRF_26102022_0947,Vig,Long neck,Dishabituation,4
+Ballantine_FRF_26102022_0947,Vig,Mid neck,Dishabituation,17
+Ballantine_FRF_26102022_0947,Vig,Short Neck,Dishabituation,4
+Ballantine_FRF_26102022_0947,Pre,With kin,Habituation,33
+Ballantine_FRF_26102022_0947,Rst,With kin,Habituation,118
+Ballantine_FRF_26102022_0947,Vig,Mid neck,Habituation,27
+Ballantine_FRF_26102022_0947,Vig,Short Neck,Habituation,34
+Ballantine_FRF_26102022_0947,Pre,With kin,Silence_1,37
+Ballantine_FRF_26102022_0947,Vig,Short Neck,Silence_1,8
+Ballantine_FRF_26102022_0947,Rst,With kin,Silence_2,3
+Ballantine_FRF_26102022_0947,Vig,Mid neck,Silence_2,21
+Ballantine_FRF_26102022_0947,Pre,With kin,Silence_3,106
+Ballantine_FRP_23102022_0910,Eat,With kin,Dishabituation,213
+Ballantine_FRP_23102022_0910,Vig,Mid neck,Dishabituation,8
+Ballantine_FRP_23102022_0910,Eat,With kin,Habituation,61
+Ballantine_FRP_23102022_0910,Mov,Away from speaker,Habituation,89
+Ballantine_FRP_23102022_0910,Pre,With kin,Habituation,26
+Ballantine_FRP_23102022_0910,Vig,Mid neck,Habituation,115
+Ballantine_FRP_23102022_0910,Vig,Short Neck,Habituation,45
+Ballantine_FRP_23102022_0910,Eat,With kin,Silence_1,4
+Ballantine_FRP_23102022_0910,Mov,Away from speaker,Silence_1,5
+Ballantine_FRP_23102022_0910,Pre,With kin,Silence_1,78
+Ballantine_FRP_23102022_0910,Vig,Mid neck,Silence_1,49
+Ballantine_FRP_23102022_0910,Mov,Away from speaker,Silence_2,6
+Ballantine_FRP_23102022_0910,Pre,With kin,Silence_2,24
+Ballantine_FRP_23102022_0910,Vig,Mid neck,Silence_2,3
+Ballantine_FRP_23102022_0910,Vig,Short Neck,Silence_2,8
+Ballantine_FRP_23102022_0910,Eat,With kin,Silence_3,15
+Ballantine_FRP_23102022_0910,Mov,Away from speaker,Silence_3,13
+Ballantine_FRP_23102022_0910,Vig,Short Neck,Silence_3,41
+Ballantine_PRF_17112022_0947,Pre,With kin,Dishabituation,201
+Ballantine_PRF_17112022_0947,Vig,Short Neck,Dishabituation,9
+Ballantine_PRF_17112022_0947,Hab,NA,Habituation,14
+Ballantine_PRF_17112022_0947,Pre,With kin,Habituation,227
+Ballantine_PRF_17112022_0947,Vig,Mid neck,Habituation,8
+Ballantine_PRF_17112022_0947,Vig,Short Neck,Habituation,14
+Ballantine_PRF_17112022_0947,Pre,With kin,Silence_1,59
+Ballantine_PRF_17112022_0947,Vig,Short Neck,Silence_1,15
+Barbados_FC_09102022_1000,Dhb,NA,Dishabituation,242
+Barbados_FC_09102022_1000,Pre,With kin,Habituation,5
+Barbados_FC_09102022_1000,Pre,With kin,Silence_1,13
+Barbados_FC_09102022_1000,Rst,With kin,Silence_1,9
+Barbados_FRP_10102022_1741,Dhb,NA,Dishabituation,244
+Barbados_FRP_10102022_1741,Pre,Alone,Dishabituation,6
+Barbados_FRP_10102022_1741,Rst,Alone,Dishabituation,136
+Barbados_FRP_10102022_1741,Vig,Short Neck,Dishabituation,31
+Barbados_FRP_10102022_1741,Hab,NA,Habituation,232
+Barbados_FRP_10102022_1741,Pre,Alone,Habituation,4
+Barbados_FRP_10102022_1741,Vig,Long neck,Habituation,29
+Barbados_FRP_10102022_1741,Vig,Mid neck,Habituation,56
+Barbados_FRP_10102022_1741,Rst,Alone,Silence_2,12
+Barbados_FRP_10102022_1741,Pre,Alone,Silence_3,9
+Barbados_FRP_10102022_1741,Vig,Short Neck,Silence_3,46
+Batate_FC_12102022_1040,Dhb,NA,Dishabituation,242
+Batate_FC_12102022_1040,Eat,With other,Dishabituation,43
+Batate_FC_12102022_1040,Mov,Away from speaker,Dishabituation,47
+Batate_FC_12102022_1040,Pre,Alone,Dishabituation,43
+Batate_FC_12102022_1040,Pre,With other,Dishabituation,9
+Batate_FC_12102022_1040,Vig,Mid neck,Dishabituation,120
+Batate_FC_12102022_1040,Hab,NA,Habituation,244
+Batate_FC_12102022_1040,Mov,Away from speaker,Habituation,46
+Batate_FC_12102022_1040,Pre,With kin,Habituation,7
+Batate_FC_12102022_1040,Rst,With kin,Habituation,9
+Batate_FC_12102022_1040,Vig,Mid neck,Habituation,122
+Batate_FC_12102022_1040,Eat,With other,Silence_2,21
+Batate_FC_12102022_1040,Vig,Mid neck,Silence_2,3
+Batate_FC_12102022_1040,Pre,Alone,Silence_3,35
+Batate_FC_12102022_1040,Vig,Mid neck,Silence_3,16
+Batate_FRF_26102022_1001,Pre,With kin,Dishabituation,41
+Batate_FRF_26102022_1001,Rst,With kin,Dishabituation,152
+Batate_FRF_26102022_1001,Vig,Mid neck,Dishabituation,35
+Batate_FRF_26102022_1001,Hab,NA,Habituation,245
+Batate_FRF_26102022_1001,Pre,With kin,Habituation,11
+Batate_FRF_26102022_1001,Vig,Mid neck,Habituation,9
+Batate_FRF_26102022_1001,Pre,With kin,Silence_1,24
+Batate_FRF_26102022_1001,Vig,Mid neck,Silence_1,17
+Batate_FRF_26102022_1001,Vig,Long neck,Silence_2,10
+Batate_FRF_26102022_1001,Pre,With kin,Silence_3,65
+Batate_FRF_26102022_1001,Vig,Mid neck,Silence_3,14
+Batate_PRF_18102022_1045,Dhb,NA,Dishabituation,243
+Batate_PRF_18102022_1045,Eat,Alone,Dishabituation,50
+Batate_PRF_18102022_1045,Eat,With kin,Dishabituation,39
+Batate_PRF_18102022_1045,Mov,Away from speaker,Dishabituation,61
+Batate_PRF_18102022_1045,Mov,Towards speaker,Dishabituation,4
+Batate_PRF_18102022_1045,Pre,With kin,Dishabituation,27
+Batate_PRF_18102022_1045,Vig,Mid neck,Dishabituation,10
+Batate_PRF_18102022_1045,Vig,Short Neck,Dishabituation,37
+Batate_PRF_18102022_1045,Hab,NA,Habituation,244
+Batate_PRF_18102022_1045,Vig,Long neck,Silence_1,4
+Batate_PRF_18102022_1045,Vig,Mid neck,Silence_1,14
+Batate_PRF_18102022_1045,Vig,Short Neck,Silence_1,14
+Batate_PRF_18102022_1045,Mov,Away from speaker,Silence_3,37
+Batate_PRF_18102022_1045,Mov,Towards speaker,Silence_3,8
+Batate_PRF_18102022_1045,Vig,Mid neck,Silence_3,17
+Batate_PRF_18102022_1045,Vig,Short Neck,Silence_3,4
+Bayou_FC_09112022_1042,Pre,With kin,Habituation,1
+Bayou_FC_09112022_1042,Rst,With kin,Habituation,216
+Bayou_FC_09112022_1042,Vig,Short Neck,Habituation,9
+Bayou_FC_09112022_1042,Pre,With kin,Silence_1,4
+Bayou_FC_09112022_1042,Vig,Mid neck,Silence_1,30
+Bayou_FC_09112022_1042,Vig,Mid neck,Silence_2,4
+Bayou_FC_09112022_1042,Rst,With kin,Silence_3,8
+Bayou_FC_09112022_1042,Vig,Long neck,Silence_3,7
+Bayou_FC_09112022_1042,Vig,Mid neck,Silence_3,13
+Bayou_FC_09112022_1042,Vig,Short Neck,Silence_3,6
+Bayou_FRF_19112022_1507,Pre,With kin,Dishabituation,94
+Bayou_FRF_19112022_1507,Vig,Short Neck,Dishabituation,50
+Bayou_FRF_19112022_1507,Mov,Away from speaker,Habituation,44
+Bayou_FRF_19112022_1507,Pre,With kin,Habituation,57
+Bayou_FRF_19112022_1507,Vig,Mid neck,Habituation,88
+Bayou_FRF_19112022_1507,Vig,Short Neck,Habituation,9
+Bayou_FRF_19112022_1507,Pre,With kin,Silence_1,58
+Bayou_FRF_19112022_1507,Vig,Mid neck,Silence_1,22
+Bayou_FRF_19112022_1507,Pre,With kin,Silence_2,6
+Bayou_FRF_19112022_1507,Vig,Mid neck,Silence_2,23
+Bayou_FRF_19112022_1507,Pre,With kin,Silence_3,7
+Bayou_FRF_19112022_1507,Rst,With kin,Silence_3,31
+Bayou_FRF_19112022_1507,Vig,Short Neck,Silence_3,25
+Bayou_FRP_17112022_1000,Dhb,NA,Dishabituation,246
+Bayou_FRP_17112022_1000,Eat,With kin,Dishabituation,53
+Bayou_FRP_17112022_1000,Mov,Away from speaker,Dishabituation,40
+Bayou_FRP_17112022_1000,Pre,With kin,Dishabituation,13
+Bayou_FRP_17112022_1000,Vig,Mid neck,Dishabituation,118
+Bayou_FRP_17112022_1000,Hab,NA,Habituation,251
+Bayou_FRP_17112022_1000,Pre,With kin,Habituation,5
+Bayou_FRP_17112022_1000,Rst,With kin,Habituation,40
+Bayou_FRP_17112022_1000,Vig,Long neck,Habituation,11
+Bayou_FRP_17112022_1000,Vig,Short Neck,Habituation,4
+Bayou_FRP_17112022_1000,Vig,Mid neck,Silence_1,7
+Bayou_FRP_17112022_1000,Eat,With kin,Silence_3,23
+Bayou_FRP_17112022_1000,Vig,Mid neck,Silence_3,40
+Bernard_FC_09102022_0944,Dhb,NA,Dishabituation,244
+Bernard_FC_09102022_0944,Hab,NA,Habituation,243
+Bernard_FC_09102022_0944,Mov,Away from speaker,Silence_2,20
+Bernard_FC_09102022_0944,Pre,With kin,Silence_2,9
+Bernard_FC_09102022_0944,Vig,Short Neck,Silence_2,20
+Bernard_FC_11112022_0943,Dhb,NA,Dishabituation,246
+Bernard_FC_11112022_0943,Hab,NA,Habituation,267
+Bernard_FC_11112022_0943,Rst,With kin,Habituation,147
+Bernard_FC_11112022_0943,Vig,Mid neck,Habituation,10
+Bernard_FC_11112022_0943,Vig,Short Neck,Habituation,8
+Bernard_FRF_17112022_0922,Dhb,NA,Dishabituation,247
+Bernard_FRF_17112022_0922,Hab,NA,Habituation,247
+Bernard_FRF_17112022_0922,Mov,Away from speaker,Habituation,67
+Bernard_FRF_17112022_0922,Pre,With kin,Habituation,6
+Bernard_FRF_17112022_0922,Vig,Short Neck,Habituation,71
+Bernard_FRF_17112022_0922,Pre,With kin,Silence_1,21
+Bernard_FRF_17112022_0922,Rst,With kin,Silence_1,25
+Bernard_FRF_17112022_0922,Vig,Mid neck,Silence_1,35
+Bernard_FRF_27102022_0927,Eat,Alone,Dishabituation,33
+Bernard_FRF_27102022_0927,Mov,Away from speaker,Dishabituation,118
+Bernard_FRF_27102022_0927,Vig,Long neck,Dishabituation,22
+Bernard_FRF_27102022_0927,Vig,Mid neck,Dishabituation,157
+Bernard_FRF_27102022_0927,Vig,Short Neck,Dishabituation,9
+Bernard_FRF_27102022_0927,Eat,With kin,Habituation,86
+Bernard_FRF_27102022_0927,Pre,With kin,Habituation,17
+Bernard_FRF_27102022_0927,Vig,Mid neck,Habituation,29
+Bernard_FRF_27102022_0927,Vig,Short Neck,Habituation,47
+Bernard_FRF_27102022_0927,Eat,With kin,Silence_1,72
+Bernard_FRF_27102022_0927,Mov,Away from speaker,Silence_1,20
+Bernard_FRF_27102022_0927,Vig,Mid neck,Silence_1,35
+Bernard_FRF_27102022_0927,Eat,With kin,Silence_2,34
+Bernard_FRF_27102022_0927,Vig,Mid neck,Silence_2,6
+Bernard_FRF_27102022_0927,Mov,Away from speaker,Silence_3,2
+Bernard_FRF_27102022_0927,Pre,Alone,Silence_3,35
+Bernard_FRF_27102022_0927,Vig,Short Neck,Silence_3,11
+Bernard_FRP_13112022_0905,Dhb,NA,Dishabituation,247
+Bernard_FRP_13112022_0905,Eat,Alone,Dishabituation,23
+Bernard_FRP_13112022_0905,Eat,With other,Dishabituation,73
+Bernard_FRP_13112022_0905,Mov,Away from speaker,Dishabituation,105
+Bernard_FRP_13112022_0905,Mov,Towards speaker,Dishabituation,7
+Bernard_FRP_13112022_0905,Vig,Long neck,Dishabituation,90
+Bernard_FRP_13112022_0905,Vig,Mid neck,Dishabituation,7
+Bernard_FRP_13112022_0905,Eat,Alone,Habituation,21
+Bernard_FRP_13112022_0905,Eat,With other,Habituation,80
+Bernard_FRP_13112022_0905,Hab,NA,Habituation,245
+Bernard_FRP_13112022_0905,Mov,Away from speaker,Habituation,18
+Bernard_FRP_13112022_0905,Vig,Long neck,Habituation,31
+Bernard_FRP_13112022_0905,Eat,With other,Silence_1,44
+Bernard_FRP_13112022_0905,Vig,Long neck,Silence_1,24
+Bernard_FRP_13112022_0905,Eat,With other,Silence_2,16
+Bernard_FRP_13112022_0905,Mov,Away from speaker,Silence_2,7
+Bernard_FRP_13112022_0905,Eat,With kin,Silence_3,8
+Bernard_FRP_13112022_0905,Mov,Away from speaker,Silence_3,12
+Bernard_FRP_13112022_0905,Mov,Towards speaker,Silence_3,17
+Bernard_FRP_13112022_0905,Vig,Long neck,Silence_3,4
+Bernard_FRP_13112022_0905,Vig,Mid neck,Silence_3,47
+Bernard_PRF_23102022_0950,Dhb,NA,Dishabituation,249
+Bernard_PRF_23102022_0950,Eat,Alone,Dishabituation,12
+Bernard_PRF_23102022_0950,Mov,Away from speaker,Dishabituation,56
+Bernard_PRF_23102022_0950,Pre,Alone,Dishabituation,10
+Bernard_PRF_23102022_0950,Vig,Long neck,Dishabituation,171
+Bernard_PRF_23102022_0950,Vig,Mid neck,Dishabituation,50
+Bernard_PRF_23102022_0950,Mov,Away from speaker,Habituation,43
+Bernard_PRF_23102022_0950,Pre,Alone,Habituation,3
+Bernard_PRF_23102022_0950,Vig,Long neck,Habituation,16
+Bernard_PRF_23102022_0950,Vig,Mid neck,Habituation,94
+Bernard_PRF_23102022_0950,Vig,Short Neck,Habituation,82
+Bernard_PRF_23102022_0950,Mov,Away from speaker,Silence_1,20
+Bernard_PRF_23102022_0950,Pre,Alone,Silence_1,33
+Bernard_PRF_23102022_0950,Vig,Short Neck,Silence_1,35
+Bernard_PRF_23102022_0950,Mov,Away from speaker,Silence_2,13
+Bernard_PRF_23102022_0950,Eat,Alone,Silence_3,22
+Bernard_PRF_23102022_0950,Vig,Long neck,Silence_3,9
+Bernard_PRF_23102022_0950,Vig,Mid neck,Silence_3,1
+Besenstiel_FC_18102022_0932,Vig,Short Neck,Dishabituation,6
+Besenstiel_FC_18102022_0932,Vig,Mid neck,Habituation,31
+Besenstiel_FC_18102022_0932,Vig,Short Neck,Habituation,6
+Besenstiel_FC_18102022_0932,Pre,With kin,Silence_1,47
+Besenstiel_FC_18102022_0932,Vig,Mid neck,Silence_1,4
+Besenstiel_FC_18102022_0932,Vig,Short Neck,Silence_1,10
+Besenstiel_FC_18102022_0932,Vig,Long neck,Silence_3,27
+Besenstiel_FC_18102022_0932,Vig,Mid neck,Silence_3,3
+Besenstiel_FRF_26102022_1018,Dhb,NA,Dishabituation,270
+Besenstiel_FRF_26102022_1018,Mov,Away from speaker,Dishabituation,7
+Besenstiel_FRF_26102022_1018,Vig,Long neck,Dishabituation,186
+Besenstiel_FRF_26102022_1018,Vig,Mid neck,Dishabituation,4
+Besenstiel_FRF_26102022_1018,Eat,With kin,Habituation,51
+Besenstiel_FRF_26102022_1018,Hab,NA,Habituation,243
+Besenstiel_FRF_26102022_1018,Mov,Away from speaker,Habituation,64
+Besenstiel_FRF_26102022_1018,Vig,Mid neck,Habituation,86
+Besenstiel_FRF_26102022_1018,Mov,Away from speaker,Silence_1,57
+Besenstiel_FRF_26102022_1018,Mov,Towards speaker,Silence_1,15
+Besenstiel_FRF_26102022_1018,Pre,With kin,Silence_1,7
+Besenstiel_FRF_26102022_1018,Vig,Mid neck,Silence_1,27
+Besenstiel_FRF_26102022_1018,Vig,Short Neck,Silence_1,54
+Besenstiel_FRF_26102022_1018,Eat,With kin,Silence_2,42
+Besenstiel_FRF_26102022_1018,Vig,Mid neck,Silence_2,9
+Besenstiel_FRF_26102022_1018,Eat,With kin,Silence_3,20
+Besenstiel_FRF_26102022_1018,Vig,Mid neck,Silence_3,31
+Bruce Springsteen_FC_13112022_0918,Dhb,NA,Dishabituation,246
+Bruce Springsteen_FC_13112022_0918,Mov,Away from speaker,Dishabituation,60
+Bruce Springsteen_FC_13112022_0918,Pre,Alone,Dishabituation,71
+Bruce Springsteen_FC_13112022_0918,Pre,With kin,Dishabituation,54
+Bruce Springsteen_FC_13112022_0918,Vig,Long neck,Dishabituation,16
+Bruce Springsteen_FC_13112022_0918,Vig,Mid neck,Dishabituation,25
+Bruce Springsteen_FC_13112022_0918,Vig,Short Neck,Dishabituation,32
+Bruce Springsteen_FC_13112022_0918,Mov,Away from speaker,Habituation,217
+Bruce Springsteen_FC_13112022_0918,Mov,Away from speaker,Silence_1,32
+Bruce Springsteen_FC_13112022_0918,Mov,Towards speaker,Silence_1,4
+Bruce Springsteen_FC_13112022_0918,Pre,With kin,Silence_1,13
+Bruce Springsteen_FC_13112022_0918,Vig,Mid neck,Silence_1,78
+Bruce Springsteen_FC_13112022_0918,Pre,With kin,Silence_2,8
+Bruce Springsteen_FC_13112022_0918,Vig,Mid neck,Silence_2,9
+Bruce Springsteen_FRF_21112022_0913,Dhb,NA,Dishabituation,250
+Bruce Springsteen_FRF_21112022_0913,Pre,With kin,Dishabituation,26
+Bruce Springsteen_FRF_21112022_0913,Rst,With kin,Dishabituation,89
+Bruce Springsteen_FRF_21112022_0913,Vig,Long neck,Dishabituation,7
+Bruce Springsteen_FRF_21112022_0913,Vig,Mid neck,Dishabituation,27
+Bruce Springsteen_FRF_21112022_0913,Vig,Short Neck,Dishabituation,19
+Bruce Springsteen_FRF_21112022_0913,Hab,NA,Habituation,244
+Bruce Springsteen_FRF_21112022_0913,Pre,With kin,Habituation,18
+Bruce Springsteen_FRF_21112022_0913,Rst,With kin,Habituation,2
+Bruce Springsteen_FRF_21112022_0913,Vig,Mid neck,Habituation,16
+Bruce Springsteen_FRF_21112022_0913,Vig,Short Neck,Habituation,21
+Bruce Springsteen_FRF_21112022_0913,Rst,With kin,Silence_1,85
+Bruce Springsteen_FRF_21112022_0913,Vig,Long neck,Silence_1,13
+Bruce Springsteen_FRF_21112022_0913,Vig,Long neck,Silence_3,39
+Bruce Springsteen_PRF_09112022_0915,Dhb,NA,Dishabituation,244
+Bruce Springsteen_PRF_09112022_0915,Pre,With kin,Dishabituation,6
+Bruce Springsteen_PRF_09112022_0915,Vig,Mid neck,Dishabituation,6
+Bruce Springsteen_PRF_09112022_0915,Hab,NA,Habituation,251
+Bruce Springsteen_PRF_09112022_0915,Pre,With kin,Habituation,6
+Bruce Springsteen_PRF_09112022_0915,Vig,Short Neck,Habituation,18
+Bruce Springsteen_PRF_09112022_0915,Mov,Away from speaker,Silence_1,26
+Bruce Springsteen_PRF_09112022_0915,Vig,Short Neck,Silence_1,20
+Bruce Springsteen_PRF_09112022_0915,Hab,NA,Silence_3,55
+Diamante_FC_14112022_1008,Dhb,NA,Dishabituation,246
+Diamante_FC_14112022_1008,Mov,Away from speaker,Dishabituation,19
+Diamante_FC_14112022_1008,Rst,Alone,Dishabituation,97
+Diamante_FC_14112022_1008,Vig,Long neck,Dishabituation,6
+Diamante_FC_14112022_1008,Vig,Mid neck,Dishabituation,34
+Diamante_FC_14112022_1008,Vig,Short Neck,Dishabituation,3
+Diamante_FC_14112022_1008,Ass,Kin,Habituation,22
+Diamante_FC_14112022_1008,Hab,NA,Habituation,255
+Diamante_FC_14112022_1008,Mov,Away from speaker,Habituation,38
+Diamante_FC_14112022_1008,Rst,Alone,Habituation,13
+Diamante_FC_14112022_1008,Rst,With kin,Habituation,59
+Diamante_FC_14112022_1008,Vig,Mid neck,Habituation,12
+Diamante_FC_14112022_1008,Vig,Short Neck,Habituation,30
+Diamante_FC_14112022_1008,Rst,Alone,Silence_1,44
+Diamante_FC_14112022_1008,Ass,Kin,Silence_3,47
+Diamante_FC_14112022_1008,Rst,With kin,Silence_3,32
+Diamante_FC_14112022_1008,Vig,Short Neck,Silence_3,25
+Diamante_FC_31102022_0944,Dhb,NA,Dishabituation,242
+Diamante_FC_31102022_0944,Vig,Short Neck,Dishabituation,14
+Diamante_FC_31102022_0944,Eat,With kin,Habituation,27
+Diamante_FC_31102022_0944,Hab,NA,Habituation,248
+Diamante_FC_31102022_0944,Mov,Away from speaker,Habituation,56
+Diamante_FC_31102022_0944,Vig,Long neck,Habituation,30
+Diamante_FC_31102022_0944,Vig,Mid neck,Habituation,101
+Diamante_FC_31102022_0944,Vig,Short Neck,Habituation,19
+Diamante_FC_31102022_0944,Eat,With kin,Silence_1,80
+Diamante_FC_31102022_0944,Mov,Away from speaker,Silence_1,16
+Diamante_FC_31102022_0944,Pre,Alone,Silence_2,7
+Diamante_FC_31102022_0944,Vig,Short Neck,Silence_2,14
+Diamante_FC_31102022_0944,Rst,With kin,Silence_3,28
+Diamante_FC_31102022_0944,Vig,Short Neck,Silence_3,4
+Diamante_FRF_19112022_0917,Dhb,NA,Dishabituation,245
+Diamante_FRF_19112022_0917,Eat,With kin,Dishabituation,96
+Diamante_FRF_19112022_0917,Mov,Away from speaker,Dishabituation,34
+Diamante_FRF_19112022_0917,Pre,With kin,Dishabituation,18
+Diamante_FRF_19112022_0917,Vig,Mid neck,Dishabituation,23
+Diamante_FRF_19112022_0917,Hab,NA,Habituation,253
+Diamante_FRF_19112022_0917,Mov,Away from speaker,Habituation,14
+Diamante_FRF_19112022_0917,Rst,With kin,Habituation,11
+Diamante_FRF_19112022_0917,Vig,Mid neck,Habituation,10
+Diamante_FRF_19112022_0917,Vig,Short Neck,Habituation,113
+Diamante_FRF_19112022_0917,Rst,With kin,Silence_1,38
+Diamante_FRF_19112022_0917,Eat,With kin,Silence_3,10
+Diamante_FRF_19112022_0917,Mov,Away from speaker,Silence_3,44
+Diamante_FRF_28102022_0944,Dhb,NA,Dishabituation,243
+Diamante_FRF_28102022_0944,Pre,With kin,Dishabituation,38
+Diamante_FRF_28102022_0944,Rst,With kin,Dishabituation,115
+Diamante_FRF_28102022_0944,Vig,Short Neck,Dishabituation,35
+Diamante_FRF_28102022_0944,Hab,NA,Habituation,244
+Diamante_FRF_28102022_0944,Rst,With kin,Silence_1,77
+Diamante_FRF_28102022_0944,Vig,Short Neck,Silence_1,6
+Diamante_FRP_13112022_0831,Mov,Away from speaker,Dishabituation,21
+Diamante_FRP_13112022_0831,Mov,Towards speaker,Dishabituation,16
+Diamante_FRP_13112022_0831,Eat,Alone,Habituation,25
+Diamante_FRP_13112022_0831,Hab,NA,Habituation,245
+Diamante_FRP_13112022_0831,Mov,Away from speaker,Habituation,97
+Diamante_FRP_13112022_0831,Vig,Short Neck,Habituation,4
+Diamante_FRP_13112022_0831,Mov,Away from speaker,Silence_1,36
+Diamante_FRP_13112022_0831,Pre,Alone,Silence_1,2
+Diamante_FRP_13112022_0831,Vig,Short Neck,Silence_1,4
+Diamante_FRP_13112022_0831,Mov,Away from speaker,Silence_3,22
+Diamante_PRF_30102022_0932,Dhb,NA,Dishabituation,244
+Diamante_PRF_30102022_0932,Rst,With kin,Dishabituation,138
+Diamante_PRF_30102022_0932,Vig,Mid neck,Dishabituation,5
+Diamante_PRF_30102022_0932,Vig,Short Neck,Dishabituation,69
+Diamante_PRF_30102022_0932,Eat,With kin,Habituation,7
+Diamante_PRF_30102022_0932,Hab,NA,Habituation,262
+Diamante_PRF_30102022_0932,Rst,With kin,Habituation,78
+Diamante_PRF_30102022_0932,Vig,Long neck,Habituation,88
+Diamante_PRF_30102022_0932,Vig,Mid neck,Habituation,12
+Diamante_PRF_30102022_0932,Vig,Short Neck,Habituation,54
+Diamante_PRF_30102022_0932,Mov,Away from speaker,Silence_1,13
+Diamante_PRF_30102022_0932,Vig,Mid neck,Silence_1,4
+Diamante_PRF_30102022_0932,Vig,Short Neck,Silence_1,68
+Diamante_PRF_30102022_0932,Vig,Long neck,Silence_2,14
+Diamante_PRF_30102022_0932,Mov,Away from speaker,Silence_3,11
+Diamante_PRF_30102022_0932,Rst,With kin,Silence_3,18
+Diamante_PRF_30102022_0932,Vig,Long neck,Silence_3,9
+Diamante_PRF_30102022_0932,Vig,Mid neck,Silence_3,26
+Diamante_PRF_30102022_0932,Vig,Short Neck,Silence_3,3
+Dorothea_FC_08112022_0950,Dhb,NA,Dishabituation,245
+Dorothea_FRF_19112022_0904,Dhb,NA,Dishabituation,253
+Dorothea_FRF_19112022_0904,Eat,With kin,Dishabituation,29
+Dorothea_FRF_19112022_0904,Mov,Away from speaker,Dishabituation,87
+Dorothea_FRF_19112022_0904,Mov,Towards speaker,Dishabituation,11
+Dorothea_FRF_19112022_0904,Vig,Mid neck,Dishabituation,108
+Dorothea_FRF_19112022_0904,Mov,Away from speaker,Habituation,34
+Dorothea_FRF_19112022_0904,Pre,With kin,Habituation,104
+Dorothea_FRF_19112022_0904,Rst,With kin,Habituation,58
+Dorothea_FRF_19112022_0904,Vig,Long neck,Habituation,15
+Dorothea_FRF_19112022_0904,Vig,Mid neck,Habituation,16
+Dorothea_FRF_19112022_0904,Rst,With kin,Silence_1,4
+Dorothea_FRF_19112022_0904,Mov,Away from speaker,Silence_3,61
+Dorothea_FRP_02112022_0859,Dhb,NA,Dishabituation,246
+Dorothea_FRP_02112022_0859,Hab,NA,Habituation,245
+Eastwood_FC_15112022_0846,Dhb,NA,Dishabituation,246
+Eastwood_FC_15112022_0846,Eat,With kin,Dishabituation,132
+Eastwood_FC_15112022_0846,Mov,Away from speaker,Dishabituation,2
+Eastwood_FC_15112022_0846,Mov,Towards speaker,Dishabituation,25
+Eastwood_FC_15112022_0846,Vig,Mid neck,Dishabituation,69
+Eastwood_FC_15112022_0846,Vig,Short Neck,Dishabituation,23
+Eastwood_FC_15112022_0846,Eat,With kin,Habituation,117
+Eastwood_FC_15112022_0846,Hab,NA,Habituation,255
+Eastwood_FC_15112022_0846,Mov,Away from speaker,Habituation,49
+Eastwood_FC_15112022_0846,Mov,Towards speaker,Habituation,7
+Eastwood_FC_15112022_0846,Pre,With kin,Habituation,12
+Eastwood_FC_15112022_0846,Vig,Mid neck,Habituation,14
+Eastwood_FC_15112022_0846,Vig,Short Neck,Habituation,51
+Eastwood_FC_15112022_0846,Eat,With kin,Silence_1,87
+Eastwood_FC_15112022_0846,Vig,Mid neck,Silence_1,29
+Eastwood_FC_15112022_0846,Mov,Away from speaker,Silence_3,40
+Eastwood_FC_15112022_0846,Vig,Short Neck,Silence_3,33
+Eastwood_FRF_20112022_1008,Dhb,NA,Dishabituation,244
+Eastwood_FRF_20112022_1008,Vig,Long neck,Dishabituation,19
+Eastwood_FRF_20112022_1008,Vig,Mid neck,Dishabituation,7
+Eastwood_FRF_20112022_1008,Hab,NA,Habituation,253
+Eastwood_FRF_20112022_1008,Vig,Long neck,Habituation,17
+Eastwood_FRF_20112022_1008,Pre,With kin,Silence_2,7
+Eastwood_FRF_20112022_1008,Vig,Short Neck,Silence_2,11
+Eastwood_PRF_12112022_0945,Dhb,NA,Dishabituation,245
+Eastwood_PRF_12112022_0945,Mov,Away from speaker,Dishabituation,8
+Eastwood_PRF_12112022_0945,Mov,Towards speaker,Dishabituation,9
+Eastwood_PRF_12112022_0945,Vig,Long neck,Dishabituation,10
+Eastwood_PRF_12112022_0945,Vig,Short Neck,Dishabituation,45
+Eastwood_PRF_12112022_0945,Hab,NA,Habituation,246
+Eastwood_PRF_12112022_0945,Vig,Long neck,Habituation,23
+Eastwood_PRF_12112022_0945,Vig,Short Neck,Silence_2,8
+Einstein_FC_12102022_1050,Dhb,NA,Dishabituation,244
+Einstein_FC_12102022_1050,Eat,Alone,Dishabituation,11
+Einstein_FC_12102022_1050,Eat,With kin,Dishabituation,197
+Einstein_FC_12102022_1050,Vig,Mid neck,Dishabituation,12
+Einstein_FC_12102022_1050,Vig,Short Neck,Dishabituation,3
+Einstein_FC_12102022_1050,Ass,Kin,Habituation,61
+Einstein_FC_12102022_1050,Eat,Alone,Habituation,7
+Einstein_FC_12102022_1050,Eat,With kin,Habituation,68
+Einstein_FC_12102022_1050,Hab,NA,Habituation,263
+Einstein_FC_12102022_1050,Mov,Away from speaker,Habituation,26
+Einstein_FC_12102022_1050,Vig,Mid neck,Habituation,59
+Einstein_FC_12102022_1050,Eat,Alone,Silence_1,55
+Einstein_FC_12102022_1050,Mov,Away from speaker,Silence_1,17
+Einstein_FC_12102022_1050,Vig,Long neck,Silence_1,28
+Einstein_FC_12102022_1050,Eat,With kin,Silence_2,30
+Einstein_FC_12102022_1050,Vig,Short Neck,Silence_2,2
+Einstein_FC_12102022_1050,Ass,Kin,Silence_3,84
+Einstein_FC_12102022_1050,Eat,With kin,Silence_3,55
+Einstein_FC_12102022_1050,Mov,Away from speaker,Silence_3,6
+Einstein_FC_12102022_1050,Vig,Mid neck,Silence_3,27
+Einstein_FC_12102022_1050,Vig,Short Neck,Silence_3,4
+Einstein_FRF_23102022_0936,Dhb,NA,Dishabituation,244
+Einstein_FRF_23102022_0936,Mov,Away from speaker,Dishabituation,26
+Einstein_FRF_23102022_0936,Pre,With kin,Dishabituation,16
+Einstein_FRF_23102022_0936,Vig,Mid neck,Dishabituation,3
+Einstein_FRF_23102022_0936,Vig,Short Neck,Dishabituation,4
+Einstein_FRF_23102022_0936,Hab,NA,Habituation,244
+Einstein_FRF_23102022_0936,Mov,Towards speaker,Habituation,9
+Einstein_FRF_23102022_0936,Vig,Long neck,Habituation,41
+Einstein_FRF_23102022_0936,Vig,Mid neck,Habituation,4
+Einstein_FRF_23102022_0936,Eat,Alone,Silence_1,4
+Einstein_FRF_23102022_0936,Mov,Away from speaker,Silence_1,17
+Einstein_FRF_23102022_0936,Vig,Long neck,Silence_1,8
+Einstein_FRF_23102022_0936,Vig,Mid neck,Silence_1,11
+Einstein_FRF_23102022_0936,Vig,Long neck,Silence_2,33
+Einstein_FRF_23102022_0936,Pre,With kin,Silence_3,61
+Einstein_FRF_23102022_0936,Vig,Short Neck,Silence_3,4
+Einstein_PRF_18102022_1023,Dhb,NA,Dishabituation,245
+Einstein_PRF_18102022_1023,Mov,Away from speaker,Dishabituation,9
+Einstein_PRF_18102022_1023,Pre,With kin,Dishabituation,16
+Einstein_PRF_18102022_1023,Vig,Mid neck,Dishabituation,34
+Einstein_PRF_18102022_1023,Vig,Short Neck,Dishabituation,15
+Einstein_PRF_18102022_1023,Hab,NA,Habituation,259
+Einstein_PRF_18102022_1023,Mov,Away from speaker,Habituation,8
+Einstein_PRF_18102022_1023,Pre,Alone,Habituation,81
+Einstein_PRF_18102022_1023,Rst,Alone,Habituation,5
+Einstein_PRF_18102022_1023,Vig,Long neck,Habituation,54
+Einstein_PRF_18102022_1023,Vig,Mid neck,Habituation,46
+Einstein_PRF_18102022_1023,Vig,Short Neck,Habituation,40
+Einstein_PRF_18102022_1023,Mov,Away from speaker,Silence_1,76
+Einstein_PRF_18102022_1023,Mov,Towards speaker,Silence_1,8
+Einstein_PRF_18102022_1023,Pre,Alone,Silence_1,23
+Einstein_PRF_18102022_1023,Vig,Long neck,Silence_1,31
+Einstein_PRF_18102022_1023,Vig,Mid neck,Silence_1,44
+Einstein_PRF_18102022_1023,Rst,With kin,Silence_2,3
+Einstein_PRF_18102022_1023,Vig,Short Neck,Silence_2,9
+Emu_FC_14102022_1022,Dhb,NA,Dishabituation,242
+Emu_FC_14102022_1022,Eat,With kin,Dishabituation,44
+Emu_FC_14102022_1022,Mov,Away from speaker,Dishabituation,29
+Emu_FC_14102022_1022,Mov,Towards speaker,Dishabituation,20
+Emu_FC_14102022_1022,Pre,With kin,Dishabituation,9
+Emu_FC_14102022_1022,Vig,Mid neck,Dishabituation,111
+Emu_FC_14102022_1022,Vig,Short Neck,Dishabituation,40
+Emu_FC_14102022_1022,Eat,With kin,Habituation,137
+Emu_FC_14102022_1022,Hab,NA,Habituation,263
+Emu_FC_14102022_1022,Mov,Away from speaker,Habituation,9
+Emu_FC_14102022_1022,Vig,Mid neck,Habituation,56
+Emu_FC_14102022_1022,Vig,Short Neck,Habituation,4
+Emu_FC_14102022_1022,Mov,Away from speaker,Silence_1,25
+Emu_FC_14102022_1022,Vig,Mid neck,Silence_1,83
+Emu_FC_14102022_1022,Vig,Short Neck,Silence_1,10
+Emu_FC_14102022_1022,Eat,With kin,Silence_2,11
+Emu_FC_14102022_1022,Mov,Away from speaker,Silence_2,16
+Emu_FC_14102022_1022,Vig,Short Neck,Silence_2,20
+Emu_FRF_23102022_1040,Dhb,NA,Dishabituation,243
+Emu_FRF_23102022_1040,Eat,With kin,Habituation,18
+Emu_FRF_23102022_1040,Hab,NA,Habituation,249
+Emu_FRF_23102022_1040,Pre,With kin,Habituation,114
+Emu_FRF_23102022_1040,Vig,Long neck,Habituation,5
+Emu_FRF_23102022_1040,Vig,Mid neck,Habituation,2
+Emu_FRF_23102022_1040,Vig,Short Neck,Habituation,15
+Emu_FRF_23102022_1040,Pre,Alone,Silence_1,87
+Emu_PRF_20102022_1052,Dhb,NA,Dishabituation,250
+Emu_PRF_20102022_1052,Mov,Away from speaker,Dishabituation,4
+Emu_PRF_20102022_1052,Pre,Alone,Dishabituation,152
+Emu_PRF_20102022_1052,Vig,Mid neck,Dishabituation,55
+Emu_PRF_20102022_1052,Ass,Kin,Habituation,19
+Emu_PRF_20102022_1052,Eat,Alone,Habituation,61
+Emu_PRF_20102022_1052,Hab,NA,Habituation,244
+Emu_PRF_20102022_1052,Mov,Away from speaker,Habituation,90
+Emu_PRF_20102022_1052,Mov,Towards speaker,Habituation,12
+Emu_PRF_20102022_1052,Pre,Alone,Habituation,16
+Emu_PRF_20102022_1052,Vig,Mid neck,Habituation,67
+Emu_PRF_20102022_1052,Ass,Kin,Silence_1,52
+Emu_PRF_20102022_1052,Eat,Alone,Silence_1,2
+Emu_PRF_20102022_1052,Mov,Away from speaker,Silence_1,38
+Emu_PRF_20102022_1052,Mov,Towards speaker,Silence_1,19
+Emu_PRF_20102022_1052,Pre,Alone,Silence_1,22
+Emu_PRF_20102022_1052,Pre,With kin,Silence_1,31
+Emu_PRF_20102022_1052,Vig,Mid neck,Silence_1,88
+Emu_PRF_20102022_1052,Vig,Short Neck,Silence_1,34
+Emu_PRF_20102022_1052,Mov,Away from speaker,Silence_2,26
+Emu_PRF_20102022_1052,Pre,Alone,Silence_3,15
+Emu_PRF_20102022_1052,Vig,Short Neck,Silence_3,20
+Hera_FC_12112022_0924,Dhb,NA,Dishabituation,245
+Hera_FC_12112022_0924,Pre,With kin,Dishabituation,31
+Hera_FC_12112022_0924,Rst,With kin,Dishabituation,141
+Hera_FC_12112022_0924,Vig,Short Neck,Dishabituation,25
+Hera_FC_12112022_0924,Hab,NA,Habituation,247
+Hera_FC_12112022_0924,Mov,Away from speaker,Habituation,3
+Hera_FC_12112022_0924,Pre,With kin,Habituation,135
+Hera_FC_12112022_0924,Vig,Mid neck,Habituation,63
+Hera_FC_12112022_0924,Vig,Short Neck,Habituation,38
+Hera_FC_12112022_0924,Pre,With kin,Silence_1,67
+Hera_FC_12112022_0924,Vig,Short Neck,Silence_1,13
+Hera_FC_12112022_0924,Pre,With kin,Silence_2,23
+Hera_FC_12112022_0924,Vig,Short Neck,Silence_2,5
+Hera_FC_12112022_0924,Vig,Mid neck,Silence_3,2
+Hera_FC_13102022_1030,Dhb,NA,Dishabituation,248
+Hera_FC_13102022_1030,Eat,With kin,Dishabituation,4
+Hera_FC_13102022_1030,Mov,Away from speaker,Dishabituation,23
+Hera_FC_13102022_1030,Pre,With kin,Dishabituation,151
+Hera_FC_13102022_1030,Eat,With kin,Habituation,126
+Hera_FC_13102022_1030,Hab,NA,Habituation,249
+Hera_FC_13102022_1030,Mov,Away from speaker,Habituation,10
+Hera_FC_13102022_1030,Pre,With kin,Habituation,35
+Hera_FC_13102022_1030,Vig,Mid neck,Habituation,14
+Hera_FC_13102022_1030,Eat,With kin,Silence_1,11
+Hera_FC_13102022_1030,Mov,Away from speaker,Silence_1,24
+Hera_FC_13102022_1030,Pre,With kin,Silence_1,22
+Hera_FC_13102022_1030,Vig,Mid neck,Silence_1,3
+Hera_FC_13102022_1030,Pre,With kin,Silence_2,2
+Hera_FRF_19102022_1050,Mov,Away from speaker,Dishabituation,3
+Hera_FRF_19102022_1050,Pre,With kin,Dishabituation,135
+Hera_FRF_19102022_1050,Vig,Long neck,Dishabituation,52
+Hera_FRF_19102022_1050,Vig,Mid neck,Dishabituation,15
+Hera_FRF_19102022_1050,Eat,With kin,Habituation,41
+Hera_FRF_19102022_1050,Hab,NA,Habituation,247
+Hera_FRF_19102022_1050,Mov,Away from speaker,Habituation,30
+Hera_FRF_19102022_1050,Mov,Towards speaker,Habituation,18
+Hera_FRF_19102022_1050,Pre,With kin,Habituation,130
+Hera_FRF_19102022_1050,Eat,With kin,Silence_1,44
+Hera_FRF_19102022_1050,Mov,Away from speaker,Silence_1,8
+Hera_FRF_19102022_1050,Eat,With kin,Silence_2,4
+Hera_FRF_19102022_1050,Mov,Away from speaker,Silence_2,32
+Hera_FRF_19102022_1050,Eat,With kin,Silence_3,6
+Hera_FRF_19102022_1050,Mov,Towards speaker,Silence_3,28
+Hera_FRF_19102022_1050,Pre,With kin,Silence_3,10
+Hera_FRF_19102022_1050,Vig,Mid neck,Silence_3,18
+Hera_FRF_23112022_1126,Dhb,NA,Dishabituation,245
+Hera_FRF_23112022_1126,Eat,With kin,Dishabituation,64
+Hera_FRF_23112022_1126,Mov,Away from speaker,Dishabituation,67
+Hera_FRF_23112022_1126,Pre,With kin,Dishabituation,13
+Hera_FRF_23112022_1126,Vig,Long neck,Dishabituation,43
+Hera_FRF_23112022_1126,Vig,Mid neck,Dishabituation,36
+Hera_FRF_23112022_1126,Vig,Short Neck,Dishabituation,81
+Hera_FRF_23112022_1126,Eat,With kin,Habituation,169
+Hera_FRF_23112022_1126,Hab,NA,Habituation,263
+Hera_FRF_23112022_1126,Mov,Away from speaker,Habituation,14
+Hera_FRF_23112022_1126,Mov,Towards speaker,Habituation,14
+Hera_FRF_23112022_1126,Pre,With kin,Habituation,8
+Hera_FRF_23112022_1126,Vig,Mid neck,Habituation,75
+Hera_FRF_23112022_1126,Eat,With kin,Silence_1,90
+Hera_FRF_23112022_1126,Mov,Away from speaker,Silence_1,2
+Hera_FRF_23112022_1126,Eat,With kin,Silence_2,8
+Hera_FRF_23112022_1126,Pre,With kin,Silence_2,5
+Hera_FRF_23112022_1126,Vig,Long neck,Silence_2,3
+Hera_FRF_23112022_1126,Vig,Mid neck,Silence_2,5
+Hera_FRF_23112022_1126,Mov,Away from speaker,Silence_3,33
+Hera_FRF_23112022_1126,Mov,Towards speaker,Silence_3,6
+Hera_FRF_23112022_1126,Vig,Mid neck,Silence_3,59
+Hera_FRP_09112022_0950,Dhb,NA,Dishabituation,247
+Hera_FRP_09112022_0950,Eat,With kin,Dishabituation,49
+Hera_FRP_09112022_0950,Pre,With kin,Dishabituation,5
+Hera_FRP_09112022_0950,Vig,Long neck,Dishabituation,48
+Hera_FRP_09112022_0950,Vig,Mid neck,Dishabituation,62
+Hera_FRP_09112022_0950,Eat,Alone,Habituation,17
+Hera_FRP_09112022_0950,Eat,With kin,Habituation,110
+Hera_FRP_09112022_0950,Hab,NA,Habituation,247
+Hera_FRP_09112022_0950,Mov,Away from speaker,Habituation,50
+Hera_FRP_09112022_0950,Pre,Alone,Habituation,2
+Hera_FRP_09112022_0950,Vig,Long neck,Habituation,5
+Hera_FRP_09112022_0950,Vig,Mid neck,Habituation,51
+Hera_FRP_09112022_0950,Eat,Alone,Silence_1,43
+Hera_FRP_09112022_0950,Mov,Away from speaker,Silence_1,19
+Hera_FRP_09112022_0950,Vig,Mid neck,Silence_1,10
+Hera_FRP_09112022_0950,Eat,With kin,Silence_2,14
+Hera_FRP_09112022_0950,Vig,Mid neck,Silence_2,8
+Hera_FRP_09112022_0950,Eat,With kin,Silence_3,5
+Hera_FRP_09112022_0950,Mov,Away from speaker,Silence_3,6
+Hera_FRP_09112022_0950,Vig,Mid neck,Silence_3,14
+Hera_FRP_24102022_1044,Dhb,NA,Dishabituation,245
+Hera_FRP_24102022_1044,Pre,With kin,Dishabituation,20
+Hera_FRP_24102022_1044,Rst,With kin,Dishabituation,58
+Hera_FRP_24102022_1044,Vig,Long neck,Dishabituation,24
+Hera_FRP_24102022_1044,Vig,Mid neck,Dishabituation,39
+Hera_FRP_24102022_1044,Hab,NA,Habituation,256
+Hera_FRP_24102022_1044,Rst,With kin,Silence_1,95
+Hera_FRP_24102022_1044,Rst,With kin,Silence_3,12
+Hera_FRP_24102022_1044,Vig,Mid neck,Silence_3,9
+Idgie_FC_021120222_0828,Dhb,NA,Dishabituation,248
+Idgie_FC_021120222_0828,Ass,Kin,Habituation,72
+Idgie_FC_021120222_0828,Eat,Alone,Habituation,79
+Idgie_FC_021120222_0828,Hab,NA,Habituation,245
+Idgie_FC_021120222_0828,Mov,Away from speaker,Habituation,117
+Idgie_FC_021120222_0828,Vig,Long neck,Habituation,7
+Idgie_FC_021120222_0828,Mov,Away from speaker,Silence_1,29
+Idgie_FC_021120222_0828,Pre,With kin,Silence_1,16
+Idgie_FC_021120222_0828,Vig,Long neck,Silence_2,10
+Idgie_FC_021120222_0828,Vig,Mid neck,Silence_2,14
+Idgie_FRF_20112022_0916,Dhb,NA,Dishabituation,252
+Idgie_FRF_20112022_0916,Eat,With kin,Dishabituation,45
+Idgie_FRF_20112022_0916,Mov,Away from speaker,Dishabituation,8
+Idgie_FRF_20112022_0916,Hab,NA,Habituation,252
+Idgie_FRF_20112022_0916,Mov,Away from speaker,Habituation,14
+Idgie_FRF_20112022_0916,Mov,Towards speaker,Habituation,6
+Idgie_FRF_20112022_0916,Vig,Long neck,Habituation,19
+Idgie_FRP_08112022_0934,Dhb,NA,Dishabituation,245
+Idgie_FRP_08112022_0934,Vig,Short Neck,Dishabituation,6
+Idgie_FRP_08112022_0934,Hab,NA,Habituation,244
+Idgie_FRP_08112022_0934,Eat,With kin,Silence_3,35
+Idgie_FRP_08112022_0934,Mov,Away from speaker,Silence_3,21
+Idgie_FRP_08112022_0934,Vig,Mid neck,Silence_3,23
+JB_FC_15112022_1022,Dhb,NA,Dishabituation,244
+JB_FC_15112022_1022,Mov,Away from speaker,Dishabituation,174
+JB_FC_15112022_1022,Vig,Mid neck,Dishabituation,39
+JB_FC_15112022_1022,Vig,Short Neck,Dishabituation,17
+JB_FC_15112022_1022,Hab,NA,Habituation,261
+JB_FC_15112022_1022,Mov,Away from speaker,Habituation,161
+JB_FC_15112022_1022,Vig,Long neck,Habituation,16
+JB_FC_15112022_1022,Vig,Mid neck,Habituation,97
+JB_FC_15112022_1022,Mov,Away from speaker,Silence_1,13
+JB_FC_15112022_1022,Vig,Mid neck,Silence_1,74
+JB_FC_15112022_1022,Pre,Alone,Silence_3,38
+JB_FC_15112022_1022,Vig,Short Neck,Silence_3,4
+JB_FC_16102022_0944,Dhb,NA,Dishabituation,243
+JB_FC_16102022_0944,Hab,NA,Habituation,254
+JB_FC_16102022_0944,Vig,Mid neck,Habituation,12
+JB_FC_16102022_0944,Pre,With kin,Silence_1,27
+JB_FC_16102022_0944,Vig,Long neck,Silence_1,14
+JB_FC_16102022_0944,Pre,With kin,Silence_3,49
+JB_FC_16102022_0944,Vig,Mid neck,Silence_3,3
+JB_FRF_19102022_1130,Eat,Alone,Dishabituation,16
+JB_FRF_19102022_1130,Mov,Away from speaker,Dishabituation,111
+JB_FRF_19102022_1130,Pre,Alone,Dishabituation,3
+JB_FRF_19102022_1130,Pre,With kin,Dishabituation,3
+JB_FRF_19102022_1130,Vig,Mid neck,Dishabituation,57
+JB_FRF_19102022_1130,Vig,Short Neck,Dishabituation,15
+JB_FRF_19102022_1130,Eat,Alone,Habituation,87
+JB_FRF_19102022_1130,Hab,NA,Habituation,244
+JB_FRF_19102022_1130,Mov,Away from speaker,Habituation,55
+JB_FRF_19102022_1130,Vig,Long neck,Habituation,5
+JB_FRF_19102022_1130,Vig,Mid neck,Habituation,15
+JB_FRF_19102022_1130,Vig,Short Neck,Habituation,19
+JB_FRF_19102022_1130,Pre,With kin,Silence_2,2
+JB_FRF_19102022_1130,Vig,Short Neck,Silence_2,13
+JB_FRF_19102022_1130,Pre,With kin,Silence_3,50
+JB_FRF_19102022_1130,Vig,Short Neck,Silence_3,3
+JB_FRF_22112022_1040,Dhb,NA,Dishabituation,244
+JB_FRF_22112022_1040,Eat,With kin,Dishabituation,73
+JB_FRF_22112022_1040,Vig,Mid neck,Dishabituation,50
+JB_FRF_22112022_1040,Eat,Alone,Habituation,78
+JB_FRF_22112022_1040,Hab,NA,Habituation,257
+JB_FRF_22112022_1040,Mov,Away from speaker,Habituation,59
+JB_FRF_22112022_1040,Mov,Towards speaker,Habituation,6
+JB_FRF_22112022_1040,Vig,Mid neck,Habituation,41
+JB_FRF_22112022_1040,Eat,With kin,Silence_3,12
+JB_FRF_22112022_1040,Mov,Away from speaker,Silence_3,3
+JB_FRF_22112022_1040,Mov,Towards speaker,Silence_3,5
+JB_FRF_22112022_1040,Pre,With kin,Silence_3,2
+JB_FRF_22112022_1040,Vig,Mid neck,Silence_3,10
+JB_FRP_27102022_1130,Dhb,NA,Dishabituation,243
+JB_FRP_27102022_1130,Eat,Alone,Dishabituation,107
+JB_FRP_27102022_1130,Mov,Away from speaker,Dishabituation,93
+JB_FRP_27102022_1130,Pre,With kin,Dishabituation,4
+JB_FRP_27102022_1130,Vig,Mid neck,Dishabituation,96
+JB_FRP_27102022_1130,Eat,With other,Habituation,208
+JB_FRP_27102022_1130,Hab,NA,Habituation,245
+JB_FRP_27102022_1130,Mov,Away from speaker,Habituation,7
+JB_FRP_27102022_1130,Mov,Towards speaker,Habituation,4
+JB_FRP_27102022_1130,Vig,Short Neck,Habituation,9
+JB_FRP_27102022_1130,Eat,With kin,Silence_1,88
+JB_FRP_27102022_1130,Vig,Mid neck,Silence_1,3
+JB_FRP_27102022_1130,Eat,With kin,Silence_3,33
+JB_FRP_27102022_1130,Pre,With kin,Silence_3,26
+JB_FRP_27102022_1130,Vig,Mid neck,Silence_3,5
+JB_PRF_13112022_1044,Dhb,NA,Dishabituation,255
+JB_PRF_13112022_1044,Eat,With kin,Dishabituation,38
+JB_PRF_13112022_1044,Mov,Away from speaker,Dishabituation,31
+JB_PRF_13112022_1044,Vig,Mid neck,Dishabituation,105
+JB_PRF_13112022_1044,Vig,Short Neck,Dishabituation,5
+JB_PRF_13112022_1044,Hab,NA,Habituation,246
+JB_PRF_13112022_1044,Pre,With kin,Habituation,36
+JB_PRF_13112022_1044,Vig,Short Neck,Habituation,38
+JB_PRF_13112022_1044,Eat,With kin,Silence_1,26
+JB_PRF_13112022_1044,Vig,Mid neck,Silence_1,43
+JB_PRF_13112022_1044,Vig,Short Neck,Silence_2,11
+Jafar_FC_12102022_1000,Dhb,NA,Dishabituation,236
+Jafar_FC_12102022_1000,Pre,With kin,Dishabituation,57
+Jafar_FC_12102022_1000,Rst,With kin,Dishabituation,18
+Jafar_FC_12102022_1000,Eat,Alone,Habituation,4
+Jafar_FC_12102022_1000,Eat,With kin,Habituation,42
+Jafar_FC_12102022_1000,Hab,NA,Habituation,243
+Jafar_FC_12102022_1000,Mov,Away from speaker,Habituation,143
+Jafar_FC_12102022_1000,Vig,Mid neck,Habituation,17
+Jafar_FC_12102022_1000,Eat,Alone,Silence_1,6
+Jafar_FC_12102022_1000,Mov,Away from speaker,Silence_1,37
+Jafar_FC_12102022_1000,Vig,Mid neck,Silence_1,68
+Jafar_FRF_28102022_0923,Dhb,NA,Dishabituation,243
+Jafar_FRF_28102022_0923,Mov,Away from speaker,Dishabituation,88
+Jafar_FRF_28102022_0923,Pre,Alone,Dishabituation,44
+Jafar_FRF_28102022_0923,Vig,Mid neck,Dishabituation,27
+Jafar_FRF_28102022_0923,Hab,NA,Habituation,269
+Jafar_FRF_28102022_0923,Mov,Away from speaker,Habituation,180
+Jafar_FRF_28102022_0923,Vig,Long neck,Habituation,32
+Jafar_FRF_28102022_0923,Vig,Mid neck,Habituation,7
+Jafar_FRF_28102022_0923,Pre,With kin,Silence_1,86
+Jafar_FRF_28102022_0923,Vig,Long neck,Silence_1,3
+Jafar_FRF_28102022_0923,Vig,Mid neck,Silence_1,22
+Jafar_PRF_19102022_1035,Dhb,NA,Dishabituation,243
+Jafar_PRF_19102022_1035,Hab,NA,Habituation,260
+Jafar_PRF_19102022_1035,Pre,Alone,Habituation,58
+Jafar_PRF_19102022_1035,Vig,Short Neck,Habituation,27
+Jafar_PRF_19102022_1035,Pre,Alone,Silence_1,76
+Jafar_PRF_19102022_1035,Rst,Alone,Silence_1,2
+Jafar_PRF_19102022_1035,Vig,Mid neck,Silence_1,35
+Janosch_FC_17112022_1015,Dhb,NA,Dishabituation,246
+Janosch_FC_17112022_1015,Rst,With kin,Dishabituation,70
+Janosch_FC_17112022_1015,Vig,Long neck,Dishabituation,20
+Janosch_FC_17112022_1015,Vig,Mid neck,Dishabituation,53
+Janosch_FC_17112022_1015,Vig,Short Neck,Dishabituation,40
+Janosch_FC_17112022_1015,Eat,With kin,Habituation,47
+Janosch_FC_17112022_1015,Mov,Away from speaker,Habituation,88
+Janosch_FC_17112022_1015,Rst,With kin,Habituation,49
+Janosch_FC_17112022_1015,Vig,Long neck,Habituation,26
+Janosch_FC_17112022_1015,Vig,Mid neck,Habituation,67
+Janosch_FC_17112022_1015,Vig,Short Neck,Habituation,3
+Janosch_FC_17112022_1015,Eat,With kin,Silence_1,12
+Janosch_FC_17112022_1015,Mov,Away from speaker,Silence_1,10
+Janosch_FC_17112022_1015,Vig,Mid neck,Silence_1,32
+Janosch_FC_17112022_1015,Rst,With kin,Silence_2,4
+Janosch_FC_17112022_1015,Vig,Short Neck,Silence_2,13
+Janosch_FC_17112022_1015,Mov,Away from speaker,Silence_3,19
+Janosch_FC_17112022_1015,Pre,With kin,Silence_3,3
+Janosch_FC_17112022_1015,Rst,With kin,Silence_3,15
+Janosch_FC_17112022_1015,Vig,Mid neck,Silence_3,39
+Janosch_FRF_23112022_0948,Dhb,NA,Dishabituation,245
+Janosch_FRF_23112022_0948,Eat,Alone,Dishabituation,69
+Janosch_FRF_23112022_0948,Mov,Away from speaker,Dishabituation,55
+Janosch_FRF_23112022_0948,Vig,Mid neck,Dishabituation,22
+Janosch_FRF_23112022_0948,Vig,Short Neck,Dishabituation,98
+Janosch_FRF_23112022_0948,Eat,Alone,Habituation,138
+Janosch_FRF_23112022_0948,Hab,NA,Habituation,246
+Janosch_FRF_23112022_0948,Mov,Away from speaker,Habituation,33
+Janosch_FRF_23112022_0948,Mov,Towards speaker,Habituation,7
+Janosch_FRF_23112022_0948,Vig,Mid neck,Habituation,50
+Janosch_FRF_23112022_0948,Eat,Alone,Silence_1,62
+Janosch_FRF_23112022_0948,Mov,Away from speaker,Silence_1,2
+Janosch_FRF_23112022_0948,Vig,Mid neck,Silence_1,12
+Janosch_FRF_23112022_0948,Pre,Alone,Silence_3,5
+Janosch_PRF_03112022_0929,Dhb,NA,Dishabituation,236
+Janosch_PRF_03112022_0929,Pre,Alone,Dishabituation,85
+Janosch_PRF_03112022_0929,Vig,Mid neck,Dishabituation,56
+Janosch_PRF_03112022_0929,Hab,NA,Habituation,295
+Janosch_PRF_03112022_0929,Mov,Away from speaker,Habituation,112
+Janosch_PRF_03112022_0929,Pre,Alone,Habituation,265
+Janosch_PRF_03112022_0929,Pre,With kin,Habituation,9
+Janosch_PRF_03112022_0929,Vig,Long neck,Habituation,9
+Janosch_PRF_03112022_0929,Vig,Mid neck,Habituation,152
+Janosch_PRF_03112022_0929,Vig,Short Neck,Habituation,31
+Janosch_PRF_03112022_0929,Pre,Alone,Silence_2,16
+Janosch_PRF_03112022_0929,Vig,Mid neck,Silence_2,12
+Jessica_FC_07112022_0911,Dhb,NA,Dishabituation,245
+Jessica_FC_07112022_0911,Rst,With kin,Dishabituation,83
+Jessica_FC_07112022_0911,Vig,Mid neck,Dishabituation,7
+Jessica_FC_07112022_0911,Vig,Short Neck,Dishabituation,13
+Jessica_FC_07112022_0911,Hab,NA,Habituation,247
+Jessica_FC_07112022_0911,Rst,With kin,Habituation,92
+Jessica_FC_07112022_0911,Vig,Short Neck,Habituation,47
+Jessica_FC_07112022_0911,Vig,Short Neck,Silence_1,77
+Jessica_FC_15102022_1559,Dhb,NA,Dishabituation,244
+Jessica_FC_15102022_1559,Hab,NA,Habituation,247
+Jessica_FC_15102022_1559,Mov,Away from speaker,Habituation,15
+Jessica_FC_15102022_1559,Pre,Alone,Habituation,7
+Jessica_FC_15102022_1559,Pre,With kin,Habituation,36
+Jessica_FC_15102022_1559,Rst,Alone,Habituation,21
+Jessica_FC_15102022_1559,Rst,With kin,Habituation,22
+Jessica_FC_15102022_1559,Vig,Mid neck,Habituation,75
+Jessica_FC_15102022_1559,Vig,Short Neck,Habituation,60
+Jessica_FC_15102022_1559,Pre,With kin,Silence_1,58
+Jessica_FC_15102022_1559,Rst,With kin,Silence_1,8
+Jessica_FC_15102022_1559,Vig,Mid neck,Silence_1,18
+Jessica_FRF_17112022_1027,Dhb,NA,Dishabituation,246
+Jessica_FRF_17112022_1027,Eat,With kin,Dishabituation,47
+Jessica_FRF_17112022_1027,Vig,Long neck,Dishabituation,9
+Jessica_FRF_17112022_1027,Vig,Mid neck,Dishabituation,4
+Jessica_FRF_17112022_1027,Eat,With kin,Habituation,26
+Jessica_FRF_17112022_1027,Mov,Away from speaker,Habituation,118
+Jessica_FRF_17112022_1027,Vig,Mid neck,Habituation,3
+Jessica_FRF_17112022_1027,Mov,Away from speaker,Silence_1,22
+Jessica_FRF_17112022_1027,Eat,With kin,Silence_2,24
+Jessica_FRF_17112022_1027,Vig,Mid neck,Silence_2,4
+Jessica_FRF_17112022_1027,Eat,With kin,Silence_3,51
+Jessica_FRF_17112022_1027,Vig,Long neck,Silence_3,1
+Jessica_FRF_17112022_1027,Vig,Mid neck,Silence_3,2
+Jessica_FRF_17112022_1027,Vig,Short Neck,Silence_3,3
+Jessica_FRF_23102022_0924,Dhb,NA,Dishabituation,314
+Jessica_FRF_23102022_0924,Pre,With kin,Dishabituation,13
+Jessica_FRF_23102022_0924,Rst,With kin,Dishabituation,213
+Jessica_FRF_23102022_0924,Vig,Short Neck,Dishabituation,39
+Jessica_FRF_23102022_0924,Hab,NA,Habituation,245
+Jessica_FRF_23102022_0924,Pre,With kin,Silence_2,10
+Jessica_FRF_23102022_0924,Vig,Mid neck,Silence_2,21
+Jessica_FRP_03112022_1015,Dhb,NA,Dishabituation,248
+Jessica_FRP_03112022_1015,Pre,With kin,Dishabituation,146
+Jessica_FRP_03112022_1015,Vig,Mid neck,Dishabituation,30
+Jessica_FRP_03112022_1015,Vig,Short Neck,Dishabituation,21
+Jessica_FRP_03112022_1015,Hab,NA,Habituation,246
+Jessica_FRP_03112022_1015,Pre,With kin,Habituation,57
+Jessica_FRP_03112022_1015,Vig,Mid neck,Habituation,23
+Jessica_FRP_03112022_1015,Vig,Short Neck,Habituation,22
+Jessica_FRP_03112022_1015,Pre,With kin,Silence_1,23
+Jessica_FRP_03112022_1015,Vig,Short Neck,Silence_1,3
+Jessica_FRP_03112022_1015,Vig,Mid neck,Silence_2,7
+Jessica_FRP_03112022_1015,Mov,Away from speaker,Silence_3,7
+Jessica_FRP_03112022_1015,Rst,With kin,Silence_3,4
+Jessica_FRP_03112022_1015,Vig,Short Neck,Silence_3,30
+Jessica_PRF_24102022_0953,Dhb,NA,Dishabituation,250
+Jessica_PRF_24102022_0953,Vig,Mid neck,Habituation,13
+Jessica_PRF_24102022_0953,Mov,Away from speaker,Silence_1,7
+Jessica_PRF_24102022_0953,Vig,Mid neck,Silence_1,5
+Jessica_PRF_24102022_0953,Vig,Short Neck,Silence_1,59
+Joe_FC_11112022_0930,Dhb,NA,Dishabituation,247
+Joe_FC_11112022_0930,Eat,With kin,Dishabituation,23
+Joe_FC_11112022_0930,Mov,Away from speaker,Dishabituation,78
+Joe_FC_11112022_0930,Pre,With kin,Dishabituation,20
+Joe_FC_11112022_0930,Vig,Mid neck,Dishabituation,93
+Joe_FC_11112022_0930,Vig,Short Neck,Dishabituation,31
+Joe_FC_11112022_0930,Eat,With kin,Habituation,222
+Joe_FC_11112022_0930,Hab,NA,Habituation,250
+Joe_FC_11112022_0930,Vig,Mid neck,Habituation,17
+Joe_FC_11112022_0930,Eat,With kin,Silence_1,72
+Joe_FC_11112022_0930,Vig,Mid neck,Silence_1,4
+Joe_FC_11112022_0930,Vig,Mid neck,Silence_2,2
+Joe_FC_20102022_0922,Dhb,NA,Dishabituation,242
+Joe_FC_20102022_0922,Pre,With kin,Dishabituation,33
+Joe_FC_20102022_0922,Vig,Mid neck,Dishabituation,7
+Joe_FC_20102022_0922,Hab,NA,Habituation,266
+Joe_FC_20102022_0922,Mov,Away from speaker,Silence_1,67
+Joe_FC_20102022_0922,Pre,With kin,Silence_1,53
+Joe_FC_20102022_0922,Vig,Long neck,Silence_1,7
+Joe_FRF_22112022_1013,Dhb,NA,Dishabituation,245
+Joe_FRF_22112022_1013,Vig,Mid neck,Dishabituation,5
+Joe_FRF_22112022_1013,Hab,NA,Habituation,246
+Joe_FRF_22112022_1013,Pre,With kin,Habituation,40
+Joe_FRF_22112022_1013,Vig,Short Neck,Habituation,7
+Joe_FRF_22112022_1013,Pre,With kin,Silence_2,30
+Joe_FRF_22112022_1013,Vig,Short Neck,Silence_2,13
+Joe_FRF_26102022_1035,Dhb,NA,Dishabituation,244
+Joe_FRF_26102022_1035,Pre,With kin,Dishabituation,28
+Joe_FRF_26102022_1035,Rst,With kin,Dishabituation,6
+Joe_FRF_26102022_1035,Hab,NA,Habituation,272
+Joe_FRF_26102022_1035,Pre,With kin,Habituation,182
+Joe_FRF_26102022_1035,Rst,With kin,Habituation,8
+Joe_FRF_26102022_1035,Pre,With kin,Silence_1,97
+Joe_FRP_09112022_0908,Dhb,NA,Dishabituation,245
+Joe_FRP_09112022_0908,Pre,With kin,Silence_2,10
+Joe_FRP_09112022_0908,Vig,Short Neck,Silence_2,27
+Joe_PRF_24102022_1058,Dhb,NA,Dishabituation,244
+Joe_PRF_24102022_1058,Eat,Alone,Dishabituation,59
+Joe_PRF_24102022_1058,Eat,With kin,Dishabituation,9
+Joe_PRF_24102022_1058,Mov,Away from speaker,Dishabituation,76
+Joe_PRF_24102022_1058,Vig,Mid neck,Dishabituation,104
+Joe_PRF_24102022_1058,Eat,Alone,Habituation,124
+Joe_PRF_24102022_1058,Eat,With kin,Habituation,10
+Joe_PRF_24102022_1058,Hab,NA,Habituation,418
+Joe_PRF_24102022_1058,Mov,Away from speaker,Habituation,84
+Joe_PRF_24102022_1058,Mov,Towards speaker,Habituation,12
+Joe_PRF_24102022_1058,Vig,Mid neck,Habituation,233
+Joe_PRF_24102022_1058,Vig,Short Neck,Habituation,28
+Joe_PRF_24102022_1058,Eat,With kin,Silence_1,14
+Joe_PRF_24102022_1058,Mov,Away from speaker,Silence_1,1
+Joe_PRF_24102022_1058,Pre,With kin,Silence_1,6
+Joe_PRF_24102022_1058,Rst,With kin,Silence_1,10
+Joe_PRF_24102022_1058,Vig,Long neck,Silence_1,18
+Joe_PRF_24102022_1058,Vig,Mid neck,Silence_1,42
+Joe_PRF_24102022_1058,Vig,Short Neck,Silence_1,4
+Joe_PRF_24102022_1058,Eat,With kin,Silence_2,15
+Joe_PRF_24102022_1058,Mov,Away from speaker,Silence_2,5
+Joe_PRF_24102022_1058,Vig,Short Neck,Silence_2,23
+Joe_PRF_24102022_1058,Eat,With kin,Silence_3,21
+Joe_PRF_24102022_1058,Mov,Away from speaker,Silence_3,19
+Joe_PRF_24102022_1058,Vig,Long neck,Silence_3,17
+Joe_PRF_24102022_1058,Vig,Short Neck,Silence_3,11
+Jumper_FC_02112022_0911,Dhb,NA,Dishabituation,241
+Jumper_FC_02112022_0911,Eat,With kin,Dishabituation,34
+Jumper_FC_02112022_0911,Mov,Away from speaker,Dishabituation,74
+Jumper_FC_02112022_0911,Vig,Mid neck,Dishabituation,40
+Jumper_FC_02112022_0911,Vig,Short Neck,Dishabituation,70
+Jumper_FC_02112022_0911,Hab,NA,Habituation,244
+Jumper_FC_02112022_0911,Mov,Away from speaker,Silence_1,9
+Jumper_FC_02112022_0911,Vig,Long neck,Silence_1,4
+Jumper_FC_02112022_0911,Vig,Mid neck,Silence_1,9
+Jumper_FC_02112022_0911,Vig,Short Neck,Silence_1,18
+Jumper_FC_02112022_0911,Rst,With kin,Silence_3,26
+Jumper_FC_13102022_0941,Dhb,NA,Dishabituation,243
+Jumper_FC_13102022_0941,Eat,With kin,Dishabituation,28
+Jumper_FC_13102022_0941,Pre,With kin,Dishabituation,15
+Jumper_FC_13102022_0941,Rst,With kin,Dishabituation,106
+Jumper_FC_13102022_0941,Vig,Short Neck,Dishabituation,57
+Jumper_FC_13102022_0941,Eat,With kin,Habituation,211
+Jumper_FC_13102022_0941,Hab,NA,Habituation,260
+Jumper_FC_13102022_0941,Vig,Short Neck,Habituation,44
+Jumper_FC_13102022_0941,Eat,With kin,Silence_1,15
+Jumper_FC_13102022_0941,Mov,Towards speaker,Silence_1,5
+Jumper_FC_13102022_0941,Vig,Mid neck,Silence_1,45
+Jumper_FC_13102022_0941,Vig,Short Neck,Silence_1,18
+Jumper_FC_13102022_0941,Vig,Short Neck,Silence_2,26
+Jumper_FC_13102022_0941,Eat,With kin,Silence_3,33
+Jumper_FC_13102022_0941,Rst,With kin,Silence_3,10
+Jumper_FC_13102022_0941,Vig,Mid neck,Silence_3,13
+Jumper_FC_13102022_0941,Vig,Short Neck,Silence_3,15
+Jumper_FRF_20102022_1014,Dhb,NA,Dishabituation,242
+Jumper_FRF_20102022_1014,Mov,Away from speaker,Dishabituation,15
+Jumper_FRF_20102022_1014,Pre,With kin,Dishabituation,17
+Jumper_FRF_20102022_1014,Rst,With kin,Dishabituation,62
+Jumper_FRF_20102022_1014,Vig,Mid neck,Dishabituation,37
+Jumper_FRF_20102022_1014,Vig,Short Neck,Dishabituation,37
+Jumper_FRF_20102022_1014,Hab,NA,Habituation,243
+Jumper_FRF_20102022_1014,Pre,With kin,Habituation,35
+Jumper_FRF_20102022_1014,Rst,With kin,Habituation,167
+Jumper_FRF_20102022_1014,Vig,Long neck,Habituation,11
+Jumper_FRF_20102022_1014,Vig,Mid neck,Habituation,9
+Jumper_FRF_20102022_1014,Vig,Mid neck,Silence_2,5
+Jumper_FRF_23112022_1058,Mov,Away from speaker,Dishabituation,13
+Jumper_FRF_23112022_1058,Pre,With kin,Dishabituation,17
+Jumper_FRF_23112022_1058,Rst,With kin,Dishabituation,29
+Jumper_FRF_23112022_1058,Vig,Mid neck,Dishabituation,51
+Jumper_FRF_23112022_1058,Vig,Short Neck,Dishabituation,96
+Jumper_FRF_23112022_1058,Eat,With kin,Habituation,25
+Jumper_FRF_23112022_1058,Hab,NA,Habituation,289
+Jumper_FRF_23112022_1058,Mov,Away from speaker,Habituation,91
+Jumper_FRF_23112022_1058,Rst,With kin,Habituation,18
+Jumper_FRF_23112022_1058,Vig,Mid neck,Habituation,97
+Jumper_FRF_23112022_1058,Vig,Short Neck,Habituation,7
+Jumper_FRF_23112022_1058,Ass,Kin,Silence_3,37
+Jumper_FRF_23112022_1058,Mov,Away from speaker,Silence_3,21
+Jumper_FRF_23112022_1058,Vig,Short Neck,Silence_3,28
+Jumper_FRP_15112022_1049,Ass,Kin,Dishabituation,7
+Jumper_FRP_15112022_1049,Mov,Away from speaker,Dishabituation,48
+Jumper_FRP_15112022_1049,Mov,Towards speaker,Dishabituation,3
+Jumper_FRP_15112022_1049,Pre,Alone,Dishabituation,9
+Jumper_FRP_15112022_1049,Vig,Mid neck,Dishabituation,66
+Jumper_FRP_15112022_1049,Vig,Short Neck,Dishabituation,35
+Jumper_FRP_15112022_1049,Hab,NA,Habituation,253
+Jumper_FRP_15112022_1049,Rst,Alone,Silence_3,57
+Jumper_FRP_27102022_0952,Dhb,NA,Dishabituation,243
+Jumper_FRP_27102022_0952,Pre,With kin,Dishabituation,174
+Jumper_FRP_27102022_0952,Vig,Long neck,Dishabituation,11
+Jumper_FRP_27102022_0952,Vig,Mid neck,Dishabituation,19
+Jumper_FRP_27102022_0952,Vig,Short Neck,Dishabituation,17
+Jumper_FRP_27102022_0952,Hab,NA,Habituation,251
+Jumper_FRP_27102022_0952,Pre,With kin,Habituation,33
+Jumper_FRP_27102022_0952,Vig,Short Neck,Habituation,8
+Jumper_FRP_27102022_0952,Vig,Mid neck,Silence_2,6
+Jumper_FRP_27102022_0952,Pre,With kin,Silence_3,51
+Jumper_FRP_27102022_0952,Rst,With kin,Silence_3,6
+Jumper_FRP_27102022_0952,Vig,Short Neck,Silence_3,2
+Jurek_FC_12112022_1021,Dhb,NA,Dishabituation,247
+Jurek_FC_12112022_1021,Mov,Away from speaker,Dishabituation,96
+Jurek_FC_12112022_1021,Vig,Long neck,Dishabituation,72
+Jurek_FC_12112022_1021,Vig,Mid neck,Dishabituation,39
+Jurek_FC_12112022_1021,Vig,Short Neck,Dishabituation,91
+Jurek_FC_12112022_1021,Hab,NA,Habituation,251
+Jurek_FC_12112022_1021,Rst,With kin,Habituation,87
+Jurek_FC_12112022_1021,Vig,Mid neck,Habituation,11
+Jurek_FC_12112022_1021,Vig,Short Neck,Habituation,146
+Jurek_FC_12112022_1021,Mov,Away from speaker,Silence_1,18
+Jurek_FC_12112022_1021,Pre,With kin,Silence_1,20
+Jurek_FC_12112022_1021,Vig,Short Neck,Silence_1,49
+Jurek_FC_12112022_1021,Rst,With kin,Silence_2,21
+Jurek_FC_13102022_1047,Dhb,NA,Dishabituation,245
+Jurek_FC_13102022_1047,Pre,With kin,Dishabituation,59
+Jurek_FC_13102022_1047,Vig,Mid neck,Dishabituation,93
+Jurek_FC_13102022_1047,Eat,With kin,Habituation,62
+Jurek_FC_13102022_1047,Hab,NA,Habituation,252
+Jurek_FC_13102022_1047,Mov,Away from speaker,Habituation,126
+Jurek_FC_13102022_1047,Vig,Mid neck,Habituation,100
+Jurek_FC_13102022_1047,Vig,Short Neck,Habituation,11
+Jurek_FC_13102022_1047,Pre,With kin,Silence_1,45
+Jurek_FC_13102022_1047,Vig,Mid neck,Silence_1,18
+Jurek_FC_13102022_1047,Vig,Short Neck,Silence_1,14
+Jurek_FC_13102022_1047,Eat,With kin,Silence_2,5
+Jurek_FC_13102022_1047,Vig,Long neck,Silence_2,42
+Jurek_FC_13102022_1047,Rst,With kin,Silence_3,7
+Jurek_FRF_21112022_0946,Dhb,NA,Dishabituation,246
+Jurek_FRF_21112022_0946,Mov,Away from speaker,Dishabituation,154
+Jurek_FRF_21112022_0946,Vig,Mid neck,Dishabituation,12
+Jurek_FRF_21112022_0946,Vig,Short Neck,Dishabituation,114
+Jurek_FRF_21112022_0946,Eat,With kin,Habituation,36
+Jurek_FRF_21112022_0946,Hab,NA,Habituation,245
+Jurek_FRF_21112022_0946,Mov,Away from speaker,Habituation,88
+Jurek_FRF_21112022_0946,Pre,With kin,Habituation,18
+Jurek_FRF_21112022_0946,Vig,Long neck,Habituation,90
+Jurek_FRF_21112022_0946,Vig,Mid neck,Habituation,91
+Jurek_FRF_21112022_0946,Eat,With kin,Silence_1,29
+Jurek_FRF_21112022_0946,Mov,Away from speaker,Silence_1,11
+Jurek_FRF_21112022_0946,Vig,Mid neck,Silence_1,19
+Jurek_FRF_21112022_0946,Mov,Away from speaker,Silence_2,30
+Jurek_FRF_21112022_0946,Vig,Mid neck,Silence_3,4
+Jurek_FRF_25102022_1054,Dhb,NA,Dishabituation,244
+Jurek_FRF_25102022_1054,Vig,Short Neck,Dishabituation,1
+Jurek_FRF_25102022_1054,Hab,NA,Habituation,249
+Jurek_FRF_25102022_1054,Pre,With kin,Habituation,23
+Jurek_FRF_25102022_1054,Rst,With kin,Habituation,63
+Jurek_FRF_25102022_1054,Vig,Long neck,Habituation,7
+Jurek_FRF_25102022_1054,Vig,Mid neck,Habituation,8
+Jurek_FRF_25102022_1054,Vig,Short Neck,Habituation,12
+Jurek_FRF_25102022_1054,Rst,With kin,Silence_1,42
+Jurek_FRF_25102022_1054,Vig,Mid neck,Silence_1,46
+Jurek_FRP_06112022_0833,Dhb,NA,Dishabituation,242
+Jurek_FRP_06112022_0833,Mov,Away from speaker,Dishabituation,4
+Jurek_FRP_06112022_0833,Mov,Towards speaker,Dishabituation,2
+Jurek_FRP_06112022_0833,Hab,NA,Habituation,251
+Jurek_FRP_06112022_0833,Mov,Away from speaker,Habituation,128
+Jurek_FRP_06112022_0833,Vig,Mid neck,Habituation,155
+Jurek_FRP_06112022_0833,Mov,Away from speaker,Silence_1,63
+Jurek_FRP_06112022_0833,Mov,Towards speaker,Silence_1,15
+Jurek_FRP_06112022_0833,Pre,With kin,Silence_1,5
+Jurek_FRP_06112022_0833,Vig,Mid neck,Silence_1,3
+Jurek_FRP_06112022_0833,Vig,Short Neck,Silence_1,75
+Jurek_FRP_06112022_0833,Mov,Away from speaker,Silence_3,13
+Jurek_FRP_06112022_0833,Vig,Long neck,Silence_3,31
+Jurek_FRP_06112022_0833,Vig,Short Neck,Silence_3,5
+Jurek_PRF_25102022_1106,Dhb,NA,Dishabituation,245
+Jurek_PRF_25102022_1106,Pre,With kin,Dishabituation,2
+Jurek_PRF_25102022_1106,Vig,Mid neck,Dishabituation,12
+Jurek_PRF_25102022_1106,Hab,NA,Habituation,244
+Jurek_PRF_25102022_1106,Pre,With kin,Habituation,87
+Jurek_PRF_25102022_1106,Vig,Long neck,Habituation,19
+Jurek_PRF_25102022_1106,Vig,Mid neck,Habituation,54
+Jurek_PRF_25102022_1106,Vig,Short Neck,Habituation,7
+Jurek_PRF_25102022_1106,Rst,With kin,Silence_1,70
+Jurek_PRF_25102022_1106,Pre,With kin,Silence_3,6
+Jurek_PRF_25102022_1106,Rst,With kin,Silence_3,50
+Jurek_PRF_25102022_1106,Vig,Long neck,Silence_3,4
+Jurek_PRF_25102022_1106,Vig,Mid neck,Silence_3,2
+Karolina_FC_15102022_1627,Dhb,NA,Dishabituation,243
+Karolina_FC_15102022_1627,Eat,With kin,Dishabituation,30
+Karolina_FC_15102022_1627,Mov,Away from speaker,Dishabituation,12
+Karolina_FC_15102022_1627,Mov,Towards speaker,Dishabituation,14
+Karolina_FC_15102022_1627,Pre,With kin,Dishabituation,7
+Karolina_FC_15102022_1627,Vig,Long neck,Dishabituation,20
+Karolina_FC_15102022_1627,Vig,Mid neck,Dishabituation,148
+Karolina_FC_15102022_1627,Eat,With kin,Habituation,144
+Karolina_FC_15102022_1627,Hab,NA,Habituation,247
+Karolina_FC_15102022_1627,Mov,Away from speaker,Habituation,14
+Karolina_FC_15102022_1627,Pre,With kin,Habituation,16
+Karolina_FC_15102022_1627,Vig,Long neck,Habituation,4
+Karolina_FC_15102022_1627,Vig,Mid neck,Habituation,61
+Karolina_FC_15102022_1627,Mov,Away from speaker,Silence_1,78
+Karolina_FC_15102022_1627,Pre,With kin,Silence_1,11
+Karolina_FC_15102022_1627,Vig,Mid neck,Silence_1,91
+Karolina_FC_15102022_1627,Eat,With kin,Silence_2,29
+Karolina_FC_15102022_1627,Mov,Away from speaker,Silence_2,15
+Karolina_FC_15112022_0917,Pre,With kin,Dishabituation,3
+Karolina_FC_15112022_0917,Rst,With kin,Dishabituation,119
+Karolina_FC_15112022_0917,Vig,Short Neck,Dishabituation,77
+Karolina_FC_15112022_0917,Hab,NA,Habituation,257
+Karolina_FC_15112022_0917,Rst,With kin,Habituation,186
+Karolina_FC_15112022_0917,Vig,Short Neck,Habituation,11
+Karolina_FC_15112022_0917,Vig,Mid neck,Silence_1,64
+Karolina_FC_15112022_0917,Rst,With kin,Silence_2,7
+Karolina_FC_15112022_0917,Vig,Short Neck,Silence_2,20
+Karolina_FRF_24112022_1114,Dhb,NA,Dishabituation,247
+Karolina_FRF_24112022_1114,Hab,NA,Habituation,252
+Karolina_FRF_24112022_1114,Mov,Away from speaker,Habituation,9
+Karolina_FRF_24112022_1114,Pre,With kin,Habituation,27
+Karolina_FRF_24112022_1114,Rst,With kin,Silence_1,66
+Karolina_FRF_24112022_1114,Vig,Short Neck,Silence_1,2
+Karolina_FRF_24112022_1114,Rst,With kin,Silence_3,54
+Karolina_FRF_24112022_1114,Vig,Long neck,Silence_3,5
+Karolina_FRF_24112022_1114,Vig,Mid neck,Silence_3,4
+Karolina_FRF_24112022_1114,Vig,Short Neck,Silence_3,37
+Karolina_FRF_25102022_1039,Dhb,NA,Dishabituation,245
+Karolina_FRF_25102022_1039,Rst,With kin,Dishabituation,53
+Karolina_FRF_25102022_1039,Vig,Mid neck,Dishabituation,57
+Karolina_FRF_25102022_1039,Hab,NA,Habituation,255
+Karolina_FRF_25102022_1039,Vig,Long neck,Habituation,49
+Karolina_FRF_25102022_1039,Vig,Mid neck,Habituation,85
+Karolina_FRF_25102022_1039,Rst,With kin,Silence_1,48
+Karolina_FRF_25102022_1039,Vig,Long neck,Silence_1,35
+Karolina_FRF_25102022_1039,Vig,Short Neck,Silence_1,1
+Karolina_FRF_25102022_1039,Vig,Long neck,Silence_2,14
+Karolina_FRF_25102022_1039,Vig,Mid neck,Silence_2,25
+Karolina_FRF_25102022_1039,Mov,Away from speaker,Silence_3,10
+Karolina_FRF_25102022_1039,Mov,Towards speaker,Silence_3,4
+Karolina_FRF_25102022_1039,Vig,Long neck,Silence_3,27
+Karolina_FRF_25102022_1039,Vig,Mid neck,Silence_3,12
+Karolina_FRP_17102022_1045,Dhb,NA,Dishabituation,244
+Karolina_FRP_17102022_1045,Eat,With kin,Dishabituation,13
+Karolina_FRP_17102022_1045,Mov,Away from speaker,Dishabituation,95
+Karolina_FRP_17102022_1045,Pre,With kin,Dishabituation,4
+Karolina_FRP_17102022_1045,Vig,Mid neck,Dishabituation,188
+Karolina_FRP_17102022_1045,Eat,With kin,Habituation,99
+Karolina_FRP_17102022_1045,Hab,NA,Habituation,250
+Karolina_FRP_17102022_1045,Mov,Away from speaker,Habituation,107
+Karolina_FRP_17102022_1045,Pre,With kin,Habituation,7
+Karolina_FRP_17102022_1045,Vig,Long neck,Habituation,33
+Karolina_FRP_17102022_1045,Vig,Mid neck,Habituation,63
+Karolina_FRP_17102022_1045,Vig,Short Neck,Habituation,18
+Karolina_FRP_17102022_1045,Mov,Away from speaker,Silence_1,10
+Karolina_FRP_17102022_1045,Pre,With kin,Silence_1,2
+Karolina_FRP_17102022_1045,Rst,With kin,Silence_1,2
+Karolina_FRP_17102022_1045,Vig,Short Neck,Silence_1,32
+Karolina_FRP_17102022_1045,Mov,Towards speaker,Silence_2,34
+Karolina_FRP_17102022_1045,Pre,With kin,Silence_2,3
+Karolina_PRF_13112022_1059,Dhb,NA,Dishabituation,245
+Karolina_PRF_13112022_1059,Mov,Away from speaker,Dishabituation,78
+Karolina_PRF_13112022_1059,Eat,With kin,Habituation,21
+Karolina_PRF_13112022_1059,Hab,NA,Habituation,245
+Karolina_PRF_13112022_1059,Mov,Away from speaker,Habituation,126
+Karolina_PRF_13112022_1059,Mov,Towards speaker,Habituation,11
+Karolina_PRF_13112022_1059,Vig,Short Neck,Habituation,111
+Karolina_PRF_13112022_1059,Mov,Away from speaker,Silence_1,48
+Karolina_PRF_13112022_1059,Vig,Short Neck,Silence_1,13
+Karolina_PRF_13112022_1059,Eat,With kin,Silence_2,10
+Karolina_PRF_13112022_1059,Mov,Away from speaker,Silence_2,10
+Karolina_PRF_13112022_1059,Vig,Short Neck,Silence_2,24
+Kendo_FC_12112022_1010,Dhb,NA,Dishabituation,244
+Kendo_FC_12112022_1010,Hab,NA,Habituation,252
+Kendo_FRF_17112022_0934,Dhb,NA,Dishabituation,245
+Kendo_FRF_17112022_0934,Eat,With kin,Dishabituation,4
+Kendo_FRF_17112022_0934,Mov,Away from speaker,Dishabituation,35
+Kendo_FRF_17112022_0934,Mov,Towards speaker,Dishabituation,11
+Kendo_FRF_17112022_0934,Pre,With kin,Dishabituation,26
+Kendo_FRF_17112022_0934,Vig,Mid neck,Dishabituation,35
+Kendo_FRF_17112022_0934,Vig,Short Neck,Dishabituation,125
+Kendo_FRF_17112022_0934,Eat,Alone,Habituation,93
+Kendo_FRF_17112022_0934,Mov,Away from speaker,Habituation,44
+Kendo_FRF_17112022_0934,Mov,Towards speaker,Habituation,7
+Kendo_FRF_17112022_0934,Vig,Mid neck,Habituation,129
+Kendo_FRF_17112022_0934,Ass,Kin,Silence_1,61
+Kendo_FRF_17112022_0934,Pre,Alone,Silence_1,29
+Kendo_FRF_17112022_0934,Pre,With kin,Silence_1,60
+Kendo_FRF_17112022_0934,Vig,Short Neck,Silence_1,10
+Kendo_FRF_17112022_0934,Pre,With kin,Silence_3,55
+Kendo_FRF_17112022_0934,Vig,Short Neck,Silence_3,8
+Kendo_PRF_09112022_0932,Dhb,NA,Dishabituation,246
+Kendo_PRF_09112022_0932,Hab,NA,Habituation,254
+Kendo_PRF_09112022_0932,Mov,Away from speaker,Silence_1,28
+Kendo_PRF_09112022_0932,Vig,Short Neck,Silence_1,30
+Kendo_PRF_09112022_0932,Vig,Mid neck,Silence_2,6
+Koarl_FC_14102022_1035,Eat,With kin,Dishabituation,100
+Koarl_FC_14102022_1035,Mov,Away from speaker,Dishabituation,29
+Koarl_FC_14102022_1035,Vig,Long neck,Dishabituation,140
+Koarl_FC_14102022_1035,Vig,Mid neck,Dishabituation,19
+Koarl_FC_14102022_1035,Eat,With kin,Habituation,88
+Koarl_FC_14102022_1035,Hab,NA,Habituation,260
+Koarl_FC_14102022_1035,Vig,Long neck,Habituation,93
+Koarl_FC_14102022_1035,Eat,Alone,Silence_1,16
+Koarl_FC_14102022_1035,Vig,Long neck,Silence_1,49
+Koarl_FC_14102022_1035,Eat,With kin,Silence_3,5
+Koarl_FC_14102022_1035,Mov,Away from speaker,Silence_3,63
+Koarl_FRF_26102022_1049,Dhb,NA,Dishabituation,242
+Koarl_FRF_26102022_1049,Eat,Alone,Habituation,18
+Koarl_FRF_26102022_1049,Hab,NA,Habituation,251
+Koarl_FRF_26102022_1049,Mov,Away from speaker,Habituation,31
+Koarl_FRF_26102022_1049,Pre,With kin,Habituation,4
+Koarl_FRF_26102022_1049,Vig,Long neck,Habituation,7
+Koarl_FRF_26102022_1049,Vig,Mid neck,Habituation,39
+Koarl_FRF_26102022_1049,Vig,Short Neck,Habituation,38
+Koarl_FRF_26102022_1049,Eat,Alone,Silence_2,38
+Koarl_FRF_26102022_1049,Mov,Towards speaker,Silence_2,21
+Koarl_FRF_26102022_1049,Vig,Mid neck,Silence_2,11
+Koarl_PRF_28102022_0957,Dhb,NA,Dishabituation,250
+Koarl_PRF_28102022_0957,Pre,With kin,Dishabituation,44
+Koarl_PRF_28102022_0957,Vig,Short Neck,Dishabituation,31
+Koarl_PRF_28102022_0957,Hab,NA,Habituation,244
+Koarl_PRF_28102022_0957,Vig,Short Neck,Habituation,3
+Koarl_PRF_28102022_0957,Mov,Away from speaker,Silence_1,12
+Koarl_PRF_28102022_0957,Vig,Long neck,Silence_1,27
+Koarl_PRF_28102022_0957,Vig,Mid neck,Silence_1,9
+Koarl_PRF_28102022_0957,Vig,Short Neck,Silence_1,26
+Krummel_FC_15102022_1613,Dhb,NA,Dishabituation,243
+Krummel_FC_15102022_1613,Hab,NA,Habituation,242
+Krummel_FC_15102022_1613,Eat,With kin,Silence_1,4
+Krummel_FC_15102022_1613,Mov,Away from speaker,Silence_1,3
+Krummel_FC_15102022_1613,Pre,With kin,Silence_1,24
+Krummel_FRF_29102022_1014,Dhb,NA,Dishabituation,243
+Krummel_FRF_29102022_1014,Pre,With kin,Dishabituation,7
+Krummel_FRF_29102022_1014,Rst,With kin,Dishabituation,149
+Krummel_FRF_29102022_1014,Vig,Mid neck,Dishabituation,1
+Krummel_FRF_29102022_1014,Vig,Short Neck,Dishabituation,8
+Krummel_FRF_29102022_1014,Hab,NA,Habituation,244
+Krummel_FRF_29102022_1014,Vig,Mid neck,Silence_1,5
+Krummel_FRF_29102022_1014,Pre,With kin,Silence_3,25
+Krummel_FRF_29102022_1014,Rst,With kin,Silence_3,23
+Krummel_FRF_29102022_1014,Vig,Mid neck,Silence_3,17
+Krummel_FRF_29102022_1014,Vig,Short Neck,Silence_3,5
+Krummel_FRP_24102022_1027,Dhb,NA,Dishabituation,302
+Krummel_FRP_24102022_1027,Mov,Away from speaker,Dishabituation,36
+Krummel_FRP_24102022_1027,Pre,With kin,Dishabituation,11
+Krummel_FRP_24102022_1027,Rst,With kin,Dishabituation,43
+Krummel_FRP_24102022_1027,Vig,Long neck,Dishabituation,35
+Krummel_FRP_24102022_1027,Vig,Mid neck,Dishabituation,86
+Krummel_FRP_24102022_1027,Vig,Short Neck,Dishabituation,45
+Krummel_FRP_24102022_1027,Hab,NA,Habituation,245
+Krummel_FRP_24102022_1027,Pre,With kin,Habituation,40
+Krummel_FRP_24102022_1027,Vig,Short Neck,Habituation,36
+Krummel_FRP_24102022_1027,Mov,Away from speaker,Silence_1,96
+Krummel_FRP_24102022_1027,Pre,With kin,Silence_1,10
+Krummel_FRP_24102022_1027,Vig,Long neck,Silence_1,15
+Krummel_FRP_24102022_1027,Vig,Mid neck,Silence_1,53
+Krummel_FRP_24102022_1027,Vig,Short Neck,Silence_1,72
+L'amour_FC_09112022_1028,Dhb,NA,Dishabituation,246
+L'amour_FC_09112022_1028,Eat,With kin,Dishabituation,135
+L'amour_FC_09112022_1028,Vig,Mid neck,Dishabituation,11
+L'amour_FC_09112022_1028,Eat,With kin,Habituation,136
+L'amour_FC_09112022_1028,Hab,NA,Habituation,246
+L'amour_FC_09112022_1028,Mov,Away from speaker,Habituation,17
+L'amour_FC_09112022_1028,Mov,Towards speaker,Habituation,3
+L'amour_FC_09112022_1028,Vig,Long neck,Habituation,11
+L'amour_FC_09112022_1028,Vig,Mid neck,Habituation,55
+L'amour_FC_09112022_1028,Eat,With kin,Silence_1,56
+L'amour_FC_09112022_1028,Vig,Mid neck,Silence_1,10
+L'amour_FC_09112022_1028,Vig,Mid neck,Silence_2,5
+L'amour_FC_09112022_1028,Eat,With kin,Silence_3,57
+L'amour_FC_09112022_1028,Vig,Long neck,Silence_3,9
+L'amour_FC_09112022_1028,Vig,Mid neck,Silence_3,3
+L'amour_FRF_20112022_0955,Dhb,NA,Dishabituation,249
+L'amour_FRF_20112022_0955,Mov,Away from speaker,Dishabituation,20
+L'amour_FRF_20112022_0955,Pre,With kin,Dishabituation,9
+L'amour_FRF_20112022_0955,Rst,With kin,Dishabituation,115
+L'amour_FRF_20112022_0955,Vig,Long neck,Dishabituation,44
+L'amour_FRF_20112022_0955,Vig,Mid neck,Dishabituation,5
+L'amour_FRF_20112022_0955,Vig,Short Neck,Dishabituation,13
+L'amour_FRF_20112022_0955,Hab,NA,Habituation,247
+L'amour_FRF_20112022_0955,Pre,With kin,Habituation,97
+L'amour_FRF_20112022_0955,Rst,With kin,Habituation,64
+L'amour_FRF_20112022_0955,Vig,Mid neck,Habituation,9
+L'amour_FRF_20112022_0955,Vig,Short Neck,Habituation,18
+L'amour_FRF_20112022_0955,Pre,With kin,Silence_1,14
+L'amour_FRF_20112022_0955,Rst,With kin,Silence_1,7
+L'amour_FRF_20112022_0955,Vig,Mid neck,Silence_1,11
+L'amour_FRF_20112022_0955,Vig,Short Neck,Silence_1,25
+L'amour_FRF_20112022_0955,Pre,With kin,Silence_3,7
+L'amour_PRF_11112022_0915,Dhb,NA,Dishabituation,246
+L'amour_PRF_11112022_0915,Eat,With kin,Dishabituation,63
+L'amour_PRF_11112022_0915,Mov,Towards speaker,Dishabituation,5
+L'amour_PRF_11112022_0915,Vig,Mid neck,Dishabituation,66
+L'amour_PRF_11112022_0915,Vig,Short Neck,Dishabituation,29
+L'amour_PRF_11112022_0915,Hab,NA,Habituation,245
+L'amour_PRF_11112022_0915,Pre,With kin,Habituation,61
+L'amour_PRF_11112022_0915,Vig,Mid neck,Habituation,31
+L'amour_PRF_11112022_0915,Vig,Short Neck,Habituation,17
+L'amour_PRF_11112022_0915,Pre,With kin,Silence_1,11
+L'amour_PRF_11112022_0915,Vig,Short Neck,Silence_1,19
+L'amour_PRF_11112022_0915,Mov,Away from speaker,Silence_2,4
+L'amour_PRF_11112022_0915,Pre,With kin,Silence_2,11
+L'amour_PRF_11112022_0915,Vig,Long neck,Silence_2,7
+L'amour_PRF_11112022_0915,Vig,Mid neck,Silence_2,13
+L'amour_PRF_11112022_0915,Eat,With kin,Silence_3,30
+L'amour_PRF_11112022_0915,Vig,Mid neck,Silence_3,5
+Lando_FC_12112022_0911,Mov,Away from speaker,Dishabituation,43
+Lando_FC_12112022_0911,Pre,Alone,Dishabituation,15
+Lando_FC_12112022_0911,Rst,Alone,Dishabituation,162
+Lando_FC_12112022_0911,Vig,Short Neck,Dishabituation,9
+Lando_FC_12112022_0911,Mov,Away from speaker,Habituation,13
+Lando_FC_12112022_0911,Pre,Alone,Habituation,129
+Lando_FC_12112022_0911,Vig,Mid neck,Habituation,6
+Lando_FC_12112022_0911,Vig,Short Neck,Habituation,41
+Lando_FC_12112022_0911,Pre,Alone,Silence_1,50
+Lando_FC_12112022_0911,Vig,Mid neck,Silence_1,15
+Lando_FC_12112022_0911,Vig,Short Neck,Silence_1,3
+Lando_FC_12112022_0911,Pre,Alone,Silence_2,42
+Lando_FC_12112022_0911,Vig,Mid neck,Silence_2,4
+Lando_FC_12112022_0911,Pre,With kin,Silence_3,8
+Lando_FC_12112022_0911,Rst,With kin,Silence_3,46
+Lando_FC_12112022_0911,Vig,Short Neck,Silence_3,6
+Lando_FC_14102022_1049,Dhb,NA,Dishabituation,243
+Lando_FC_14102022_1049,Vig,Short Neck,Dishabituation,15
+Lando_FC_14102022_1049,Hab,NA,Habituation,243
+Lando_FRF_24112022_1041,Dhb,NA,Dishabituation,245
+Lando_FRF_24112022_1041,Mov,Away from speaker,Dishabituation,50
+Lando_FRF_24112022_1041,Mov,Towards speaker,Dishabituation,30
+Lando_FRF_24112022_1041,Pre,With kin,Dishabituation,13
+Lando_FRF_24112022_1041,Rst,With kin,Dishabituation,12
+Lando_FRF_24112022_1041,Vig,Long neck,Dishabituation,10
+Lando_FRF_24112022_1041,Vig,Mid neck,Dishabituation,9
+Lando_FRF_24112022_1041,Vig,Short Neck,Dishabituation,91
+Lando_FRF_24112022_1041,Hab,NA,Habituation,259
+Lando_FRF_24112022_1041,Rst,With kin,Habituation,160
+Lando_FRF_24112022_1041,Vig,Short Neck,Habituation,2
+Lando_FRF_24112022_1041,Pre,With kin,Silence_1,49
+Lando_FRF_24112022_1041,Vig,Mid neck,Silence_1,29
+Lando_FRF_24112022_1041,Eat,With kin,Silence_3,17
+Lando_FRF_24112022_1041,Vig,Short Neck,Silence_3,23
+Lando_FRF_25102022_1007,Dhb,NA,Dishabituation,245
+Lando_FRF_25102022_1007,Vig,Long neck,Dishabituation,102
+Lando_FRF_25102022_1007,Vig,Mid neck,Dishabituation,23
+Lando_FRF_25102022_1007,Hab,NA,Habituation,244
+Lando_FRF_25102022_1007,Mov,Away from speaker,Habituation,3
+Lando_FRF_25102022_1007,Pre,With kin,Habituation,6
+Lando_FRF_25102022_1007,Rst,With kin,Habituation,90
+Lando_FRF_25102022_1007,Vig,Long neck,Habituation,6
+Lando_FRF_25102022_1007,Vig,Mid neck,Habituation,46
+Lando_FRF_25102022_1007,Vig,Short Neck,Habituation,77
+Lando_FRF_25102022_1007,Pre,With kin,Silence_1,26
+Lando_FRF_25102022_1007,Vig,Mid neck,Silence_1,3
+Lando_FRF_25102022_1007,Vig,Mid neck,Silence_2,7
+Lando_FRF_25102022_1007,Pre,With kin,Silence_3,24
+Lando_FRF_25102022_1007,Vig,Mid neck,Silence_3,13
+Lando_FRP_11112022_1013,Dhb,NA,Dishabituation,246
+Lando_FRP_11112022_1013,Vig,Mid neck,Dishabituation,6
+Lando_FRP_11112022_1013,Hab,NA,Habituation,250
+Lando_FRP_28102022_1040,Dhb,NA,Dishabituation,254
+Lando_FRP_28102022_1040,Vig,Mid neck,Dishabituation,17
+Lando_FRP_28102022_1040,Hab,NA,Habituation,252
+Lando_FRP_28102022_1040,Pre,With kin,Habituation,4
+Lando_FRP_28102022_1040,Vig,Mid neck,Habituation,20
+Lando_FRP_28102022_1040,Vig,Short Neck,Habituation,1
+Lauffuss_FC_19102022_1145,Dhb,NA,Dishabituation,244
+Lauffuss_FC_19102022_1145,Hab,NA,Habituation,244
+Lauffuss_FC_19102022_1145,Vig,Short Neck,Habituation,2
+Lauffuss_FC_19102022_1145,Pre,With kin,Silence_1,20
+Lauffuss_FC_19102022_1145,Rst,With kin,Silence_1,2
+Lauffuss_FC_19102022_1145,Vig,Mid neck,Silence_1,20
+Lauffuss_FRF_31102022_0842,Dhb,NA,Dishabituation,246
+Lauffuss_FRF_31102022_0842,Mov,Away from speaker,Dishabituation,14
+Lauffuss_FRF_31102022_0842,Vig,Long neck,Dishabituation,18
+Lauffuss_FRF_31102022_0842,Vig,Mid neck,Dishabituation,31
+Lauffuss_FRF_31102022_0842,Hab,NA,Habituation,249
+Lauffuss_FRF_31102022_0842,Mov,Away from speaker,Habituation,4
+Lauffuss_FRF_31102022_0842,Pre,With kin,Habituation,14
+Lauffuss_FRF_31102022_0842,Rst,With kin,Habituation,9
+Lauffuss_FRF_31102022_0842,Vig,Mid neck,Habituation,49
+Lauffuss_FRF_31102022_0842,Vig,Short Neck,Habituation,18
+Lauffuss_FRF_31102022_0842,Pre,With kin,Silence_1,84
+Lauffuss_FRF_31102022_0842,Vig,Mid neck,Silence_1,17
+Laufuss_PRF_30102022_0959,Dhb,NA,Dishabituation,246
+Laufuss_PRF_30102022_0959,Rst,Alone,Dishabituation,19
+Laufuss_PRF_30102022_0959,Rst,With kin,Dishabituation,76
+Laufuss_PRF_30102022_0959,Vig,Mid neck,Dishabituation,46
+Laufuss_PRF_30102022_0959,Hab,NA,Habituation,246
+Laufuss_PRF_30102022_0959,Rst,With kin,Habituation,25
+Laufuss_PRF_30102022_0959,Vig,Long neck,Habituation,39
+Laufuss_PRF_30102022_0959,Vig,Mid neck,Habituation,122
+Laufuss_PRF_30102022_0959,Vig,Mid neck,Silence_1,38
+Laufuss_PRF_30102022_0959,Rst,Alone,Silence_2,7
+Laufuss_PRF_30102022_0959,Mov,Away from speaker,Silence_3,16
+Laufuss_PRF_30102022_0959,Vig,Long neck,Silence_3,52
+Lausbursch_FC_14112022_0901,Dhb,NA,Dishabituation,249
+Lausbursch_FC_14112022_0901,Eat,Alone,Dishabituation,56
+Lausbursch_FC_14112022_0901,Eat,With kin,Dishabituation,51
+Lausbursch_FC_14112022_0901,Vig,Mid neck,Dishabituation,74
+Lausbursch_FC_14112022_0901,Hab,NA,Habituation,248
+Lausbursch_FC_14112022_0901,Mov,Towards speaker,Habituation,11
+Lausbursch_FC_14112022_0901,Eat,With kin,Silence_1,43
+Lausbursch_FC_14112022_0901,Mov,Away from speaker,Silence_1,5
+Lausbursch_FC_14112022_0901,Vig,Mid neck,Silence_1,36
+Lausbursch_FC_14112022_0901,Mov,Away from speaker,Silence_2,8
+Lausbursch_FC_14112022_0901,Eat,With kin,Silence_3,75
+Lausbursch_FC_14112022_0901,Vig,Mid neck,Silence_3,12
+Lausbursch_FC_19102022_1021,Dhb,NA,Dishabituation,244
+Lausbursch_FC_19102022_1021,Pre,With kin,Dishabituation,58
+Lausbursch_FC_19102022_1021,Vig,Mid neck,Dishabituation,59
+Lausbursch_FC_19102022_1021,Vig,Short Neck,Dishabituation,21
+Lausbursch_FC_19102022_1021,Hab,NA,Habituation,253
+Lausbursch_FC_19102022_1021,Pre,With kin,Habituation,14
+Lausbursch_FC_19102022_1021,Vig,Long neck,Habituation,13
+Lausbursch_FC_19102022_1021,Rst,With kin,Silence_1,25
+Lausbursch_FC_19102022_1021,Vig,Short Neck,Silence_1,19
+Lausbursch_FRF_20112022_0903,Dhb,NA,Dishabituation,250
+Lausbursch_FRF_20112022_0903,Mov,Away from speaker,Dishabituation,6
+Lausbursch_FRF_20112022_0903,Vig,Mid neck,Dishabituation,26
+Lausbursch_FRF_20112022_0903,Hab,NA,Habituation,247
+Lausbursch_FRF_20112022_0903,Pre,With kin,Habituation,59
+Lausbursch_FRF_20112022_0903,Vig,Mid neck,Habituation,24
+Lausbursch_FRF_20112022_0903,Pre,With kin,Silence_1,54
+Lausbursch_FRF_20112022_0903,Vig,Mid neck,Silence_1,21
+Lausbursch_FRF_23102022_1000,Dhb,NA,Dishabituation,247
+Lausbursch_FRF_23102022_1000,Eat,With kin,Habituation,13
+Lausbursch_FRF_23102022_1000,Hab,NA,Habituation,263
+Lausbursch_FRF_23102022_1000,Mov,Away from speaker,Habituation,96
+Lausbursch_FRF_23102022_1000,Mov,Towards speaker,Habituation,6
+Lausbursch_FRF_23102022_1000,Pre,With kin,Habituation,22
+Lausbursch_FRF_23102022_1000,Vig,Mid neck,Habituation,30
+Lausbursch_FRF_23102022_1000,Vig,Short Neck,Habituation,10
+Lausbursch_FRF_23102022_1000,Eat,With kin,Silence_1,22
+Lausbursch_FRF_23102022_1000,Mov,Away from speaker,Silence_1,35
+Lausbursch_FRF_23102022_1000,Pre,With kin,Silence_1,27
+Lausbursch_FRF_23102022_1000,Vig,Long neck,Silence_1,10
+Lausbursch_FRF_23102022_1000,Vig,Mid neck,Silence_1,56
+Lausbursch_FRF_23102022_1000,Rst,With kin,Silence_3,78
+Lausbursch_PRF_12112022_0957,Dhb,NA,Dishabituation,246
+Lausbursch_PRF_12112022_0957,Eat,Alone,Habituation,73
+Lausbursch_PRF_12112022_0957,Hab,NA,Habituation,247
+Lausbursch_PRF_12112022_0957,Mov,Away from speaker,Habituation,49
+Lausbursch_PRF_12112022_0957,Mov,Towards speaker,Habituation,6
+Lausbursch_PRF_12112022_0957,Pre,Alone,Habituation,8
+Lausbursch_PRF_12112022_0957,Pre,With kin,Habituation,3
+Lausbursch_PRF_12112022_0957,Vig,Mid neck,Habituation,120
+Lausbursch_PRF_12112022_0957,Eat,Alone,Silence_1,30
+Lausbursch_PRF_12112022_0957,Vig,Mid neck,Silence_1,37
+Lausbursch_PRF_12112022_0957,Vig,Short Neck,Silence_2,4
+Lausbursch_PRF_17102022_0950,Dhb,NA,Dishabituation,242
+Lausbursch_PRF_17102022_0950,Mov,Away from speaker,Dishabituation,21
+Lausbursch_PRF_17102022_0950,Pre,With kin,Dishabituation,20
+Lausbursch_PRF_17102022_0950,Rst,With kin,Dishabituation,8
+Lausbursch_PRF_17102022_0950,Vig,Mid neck,Dishabituation,1
+Lausbursch_PRF_17102022_0950,Hab,NA,Habituation,260
+Lausbursch_PRF_17102022_0950,Pre,With kin,Habituation,45
+Lausbursch_PRF_17102022_0950,Vig,Mid neck,Habituation,10
+Leia_FC_06112022_0905,Dhb,NA,Dishabituation,244
+Leia_FC_06112022_0905,Eat,Alone,Dishabituation,17
+Leia_FC_06112022_0905,Eat,With kin,Dishabituation,55
+Leia_FC_06112022_0905,Mov,Away from speaker,Dishabituation,62
+Leia_FC_06112022_0905,Pre,Alone,Dishabituation,8
+Leia_FC_06112022_0905,Pre,With kin,Dishabituation,20
+Leia_FC_06112022_0905,Vig,Mid neck,Dishabituation,108
+Leia_FC_06112022_0905,Eat,With kin,Habituation,127
+Leia_FC_06112022_0905,Hab,NA,Habituation,247
+Leia_FC_06112022_0905,Pre,With kin,Habituation,7
+Leia_FC_06112022_0905,Vig,Short Neck,Habituation,2
+Leia_FC_06112022_0905,Eat,With kin,Silence_1,44
+Leia_FC_06112022_0905,Pre,With kin,Silence_1,8
+Leia_FC_06112022_0905,Vig,Mid neck,Silence_1,7
+Leia_FC_06112022_0905,Vig,Short Neck,Silence_1,3
+Leia_FC_06112022_0905,Eat,With kin,Silence_2,9
+Leia_FC_06112022_0905,Vig,Mid neck,Silence_2,3
+Leia_FC_06112022_0905,Pre,With kin,Silence_3,55
+Leia_FC_06112022_0905,Vig,Mid neck,Silence_3,7
+Leia_FC_20102022_0940,Dhb,NA,Dishabituation,245
+Leia_FC_20102022_0940,Vig,Long neck,Dishabituation,5
+Leia_FC_20102022_0940,Hab,NA,Habituation,253
+Leia_FC_20102022_0940,Pre,With kin,Habituation,6
+Leia_FC_20102022_0940,Vig,Long neck,Habituation,18
+Leia_FC_20102022_0940,Vig,Mid neck,Habituation,7
+Leia_FRF_22102022_1753,Dhb,NA,Dishabituation,243
+Leia_FRF_22102022_1753,Eat,With kin,Dishabituation,210
+Leia_FRF_22102022_1753,Vig,Mid neck,Dishabituation,14
+Leia_FRF_22102022_1753,Hab,NA,Habituation,250
+Leia_FRF_22102022_1753,Eat,With kin,Silence_3,28
+Leia_FRF_22102022_1753,Vig,Short Neck,Silence_3,6
+Leia_FRF_24112022_1144,Dhb,NA,Dishabituation,245
+Leia_FRF_24112022_1144,Hab,NA,Habituation,250
+Leia_FRF_24112022_1144,Pre,With kin,Habituation,113
+Leia_FRF_24112022_1144,Vig,Mid neck,Habituation,87
+Leia_FRF_24112022_1144,Vig,Short Neck,Habituation,3
+Leia_FRF_24112022_1144,Pre,With kin,Silence_1,54
+Leia_FRF_24112022_1144,Vig,Mid neck,Silence_1,22
+Leia_FRF_24112022_1144,Pre,With kin,Silence_2,24
+Leia_FRF_24112022_1144,Vig,Short Neck,Silence_2,6
+Leia_FRP_28102022_1026,Dhb,NA,Dishabituation,243
+Leia_FRP_28102022_1026,Hab,NA,Habituation,249
+Leia_FRP_28102022_1026,Pre,With kin,Habituation,32
+Leia_FRP_28102022_1026,Vig,Mid neck,Habituation,31
+Leia_FRP_28102022_1026,Vig,Short Neck,Habituation,10
+Leia_PRF_02112022_0927,Dhb,NA,Dishabituation,245
+Leia_PRF_02112022_0927,Rst,With kin,Dishabituation,80
+Leia_PRF_02112022_0927,Vig,Mid neck,Dishabituation,21
+Leia_PRF_02112022_0927,Hab,NA,Habituation,276
+Leia_PRF_02112022_0927,Rst,With kin,Habituation,6
+Leia_PRF_02112022_0927,Vig,Mid neck,Habituation,85
+Leia_PRF_02112022_0927,Vig,Mid neck,Silence_1,12
+Leia_PRF_02112022_0927,Rst,With kin,Silence_2,13
+Lindy Hop_ FRF_22112022_0959,Dhb,NA,Dishabituation,245
+Lindy Hop_ FRF_22112022_0959,Hab,NA,Habituation,247
+Lindy Hop_ FRF_22112022_0959,Rst,With kin,Habituation,17
+Lindy Hop_ FRF_22112022_0959,Vig,Mid neck,Habituation,10
+Lindy Hop_ FRF_22112022_0959,Vig,Short Neck,Habituation,76
+Lindy Hop_ FRF_22112022_0959,Rst,With kin,Silence_3,102
+Lindy Hop_ FRF_22112022_0959,Vig,Short Neck,Silence_3,13
+Lindy Hop_FC_11112022_0956,Dhb,NA,Dishabituation,246
+Lindy Hop_FC_11112022_0956,Vig,Mid neck,Dishabituation,11
+Lindy Hop_FC_11112022_0956,Hab,NA,Habituation,252
+Lindy Hop_PRF_12112022_0858,Dhb,NA,Dishabituation,245
+Lindy Hop_PRF_12112022_0858,Eat,With kin,Dishabituation,62
+Lindy Hop_PRF_12112022_0858,Mov,Away from speaker,Dishabituation,84
+Lindy Hop_PRF_12112022_0858,Mov,Towards speaker,Dishabituation,34
+Lindy Hop_PRF_12112022_0858,Pre,With kin,Dishabituation,16
+Lindy Hop_PRF_12112022_0858,Vig,Short Neck,Dishabituation,7
+Lindy Hop_PRF_12112022_0858,Eat,Alone,Habituation,5
+Lindy Hop_PRF_12112022_0858,Hab,NA,Habituation,256
+Lindy Hop_PRF_12112022_0858,Mov,Away from speaker,Habituation,131
+Lindy Hop_PRF_12112022_0858,Mov,Towards speaker,Habituation,11
+Lindy Hop_PRF_12112022_0858,Vig,Long neck,Habituation,48
+Lindy Hop_PRF_12112022_0858,Vig,Short Neck,Habituation,77
+Lindy Hop_PRF_12112022_0858,Mov,Away from speaker,Silence_2,6
+Lindy Hop_PRF_12112022_0858,Mov,Away from speaker,Silence_3,4
+Lindy Hop_PRF_12112022_0858,Pre,With kin,Silence_3,68
+Longshanks_FC_09112022_0849,Dhb,NA,Dishabituation,246
+Longshanks_FC_09112022_0849,Hab,NA,Habituation,254
+Longshanks_FC_09112022_0849,Vig,Long neck,Silence_2,7
+Longshanks_FC_09112022_0849,Pre,With kin,Silence_3,13
+Longshanks_FC_09112022_0849,Vig,Mid neck,Silence_3,12
+Longshanks_FC_14102022_0958,Dhb,NA,Dishabituation,243
+Longshanks_FC_14102022_0958,Eat,With kin,Dishabituation,4
+Longshanks_FC_14102022_0958,Rst,With kin,Dishabituation,72
+Longshanks_FC_14102022_0958,Vig,Mid neck,Dishabituation,75
+Longshanks_FC_14102022_0958,Eat,With kin,Habituation,64
+Longshanks_FC_14102022_0958,Hab,NA,Habituation,243
+Longshanks_FC_14102022_0958,Mov,Away from speaker,Habituation,85
+Longshanks_FC_14102022_0958,Vig,Long neck,Habituation,63
+Longshanks_FC_14102022_0958,Vig,Mid neck,Habituation,93
+Longshanks_FC_14102022_0958,Eat,With kin,Silence_1,21
+Longshanks_FC_14102022_0958,Mov,Away from speaker,Silence_1,43
+Longshanks_FC_14102022_0958,Vig,Long neck,Silence_1,3
+Longshanks_FC_14102022_0958,Vig,Mid neck,Silence_1,60
+Longshanks_FC_14102022_0958,Mov,Away from speaker,Silence_3,10
+Longshanks_FC_14102022_0958,Vig,Long neck,Silence_3,12
+Longshanks_FC_14102022_0958,Vig,Mid neck,Silence_3,44
+Longshanks_FRF_23112022_1004,Dhb,NA,Dishabituation,245
+Longshanks_FRF_23112022_1004,Hab,NA,Habituation,249
+Longshanks_FRF_23112022_1004,Mov,Away from speaker,Habituation,19
+Longshanks_FRF_23112022_1004,Mov,Towards speaker,Habituation,3
+Longshanks_FRF_23112022_1004,Vig,Short Neck,Habituation,38
+Longshanks_FRF_23112022_1004,Pre,With kin,Silence_1,2
+Longshanks_FRF_23112022_1004,Rst,With kin,Silence_1,10
+Longshanks_FRF_23112022_1004,Vig,Mid neck,Silence_1,78
+Longshanks_FRF_31102022_0828,Dhb,NA,Dishabituation,247
+Longshanks_FRF_31102022_0828,Hab,NA,Habituation,252
+Longshanks_FRF_31102022_0828,Pre,With kin,Habituation,56
+Longshanks_FRF_31102022_0828,Rst,With kin,Habituation,68
+Longshanks_FRF_31102022_0828,Vig,Mid neck,Habituation,68
+Longshanks_FRF_31102022_0828,Pre,With kin,Silence_1,42
+Longshanks_FRF_31102022_0828,Vig,Mid neck,Silence_1,39
+Longshanks_FRF_31102022_0828,Rst,With kin,Silence_3,53
+Longshanks_FRP_14112022_0938,Dhb,NA,Dishabituation,245
+Longshanks_FRP_14112022_0938,Pre,With kin,Dishabituation,6
+Longshanks_FRP_14112022_0938,Vig,Short Neck,Dishabituation,7
+Longshanks_FRP_14112022_0938,Hab,NA,Habituation,245
+Longshanks_FRP_14112022_0938,Vig,Short Neck,Habituation,6
+Longshanks_FRP_23102022_1023,Dhb,NA,Dishabituation,245
+Longshanks_FRP_23102022_1023,Hab,NA,Habituation,231
+Longshanks_FRP_23102022_1023,Mov,Away from speaker,Habituation,37
+Longshanks_FRP_23102022_1023,Mov,Towards speaker,Habituation,10
+Longshanks_FRP_23102022_1023,Pre,With kin,Habituation,8
+Longshanks_FRP_23102022_1023,Rst,With kin,Habituation,193
+Longshanks_FRP_23102022_1023,Vig,Long neck,Habituation,22
+Longshanks_FRP_23102022_1023,Vig,Mid neck,Habituation,11
+Longshanks_FRP_23102022_1023,Vig,Short Neck,Habituation,21
+Longshanks_FRP_23102022_1023,Mov,Away from speaker,Silence_1,98
+Longshanks_FRP_23102022_1023,Pre,With kin,Silence_1,19
+Longshanks_FRP_23102022_1023,Vig,Mid neck,Silence_1,64
+Longshanks_FRP_23102022_1023,Vig,Short Neck,Silence_1,3
+Lotta_FC_19112022_1441,Dhb,NA,Dishabituation,236
+Lotta_FC_19112022_1441,Eat,With kin,Dishabituation,136
+Lotta_FC_19112022_1441,Vig,Mid neck,Dishabituation,8
+Lotta_FC_19112022_1441,Mov,Away from speaker,Habituation,193
+Lotta_FC_19112022_1441,Mov,Away from speaker,Silence_1,65
+Lotta_FC_19112022_1441,Pre,Alone,Silence_1,60
+Lotta_FC_19112022_1441,Vig,Mid neck,Silence_1,89
+Lotta_FC_19112022_1441,Mov,Away from speaker,Silence_2,15
+Lotta_FRF_21112022_1005,Dhb,NA,Dishabituation,245
+Lotta_FRF_21112022_1005,Pre,With kin,Dishabituation,31
+Lotta_FRF_21112022_1005,Vig,Mid neck,Dishabituation,19
+Lotta_FRF_21112022_1005,Eat,Alone,Habituation,5
+Lotta_FRF_21112022_1005,Eat,With kin,Habituation,26
+Lotta_FRF_21112022_1005,Hab,NA,Habituation,245
+Lotta_FRF_21112022_1005,Mov,Away from speaker,Habituation,90
+Lotta_FRF_21112022_1005,Vig,Long neck,Habituation,4
+Lotta_FRF_21112022_1005,Vig,Mid neck,Habituation,66
+Lotta_FRF_21112022_1005,Eat,Alone,Silence_1,24
+Lotta_FRF_21112022_1005,Vig,Long neck,Silence_1,23
+Lotta_FRF_21112022_1005,Vig,Mid neck,Silence_1,24
+Lotta_PRF_17112022_1039,Dhb,NA,Dishabituation,246
+Lotta_PRF_17112022_1039,Eat,With kin,Dishabituation,147
+Lotta_PRF_17112022_1039,Pre,With kin,Dishabituation,8
+Lotta_PRF_17112022_1039,Vig,Mid neck,Dishabituation,29
+Lotta_PRF_17112022_1039,Eat,With kin,Habituation,116
+Lotta_PRF_17112022_1039,Hab,NA,Habituation,252
+Lotta_PRF_17112022_1039,Mov,Towards speaker,Habituation,4
+Lotta_PRF_17112022_1039,Vig,Long neck,Habituation,19
+Lotta_PRF_17112022_1039,Vig,Mid neck,Habituation,68
+Lotta_PRF_17112022_1039,Eat,With kin,Silence_3,59
+Lotta_PRF_17112022_1039,Vig,Mid neck,Silence_3,8
+Lukka_FC_02112022_0841,Dhb,NA,Dishabituation,246
+Lukka_FC_02112022_0841,Pre,With kin,Dishabituation,11
+Lukka_FC_02112022_0841,Vig,Mid neck,Dishabituation,36
+Lukka_FC_02112022_0841,Hab,NA,Habituation,243
+Lukka_FC_02112022_0841,Pre,With kin,Habituation,56
+Lukka_FC_02112022_0841,Vig,Mid neck,Habituation,19
+Lukka_FC_02112022_0841,Mov,Away from speaker,Silence_3,31
+Lukka_FC_02112022_0841,Vig,Long neck,Silence_3,23
+Lukka_FC_02112022_0841,Vig,Mid neck,Silence_3,15
+Lukka_FC_02112022_0841,Vig,Short Neck,Silence_3,5
+Lukka_FC_12102022_1012,Dhb,NA,Dishabituation,244
+Lukka_FC_12102022_1012,Pre,With kin,Dishabituation,23
+Lukka_FC_12102022_1012,Rst,With kin,Dishabituation,122
+Lukka_FC_12102022_1012,Vig,Mid neck,Dishabituation,51
+Lukka_FC_12102022_1012,Vig,Short Neck,Dishabituation,29
+Lukka_FC_12102022_1012,Hab,NA,Habituation,247
+Lukka_FC_12102022_1012,Pre,With kin,Habituation,131
+Lukka_FC_12102022_1012,Vig,Mid neck,Habituation,10
+Lukka_FC_12102022_1012,Vig,Short Neck,Habituation,68
+Lukka_FC_12102022_1012,Pre,With kin,Silence_1,31
+Lukka_FC_12102022_1012,Vig,Mid neck,Silence_1,7
+Lukka_FC_12102022_1012,Vig,Short Neck,Silence_2,4
+Lukka_FC_12102022_1012,Pre,With kin,Silence_3,33
+Lukka_FC_12102022_1012,Vig,Mid neck,Silence_3,8
+Lukka_FC_12102022_1012,Vig,Short Neck,Silence_3,3
+Lukka_FRF_24112022_1129,Dhb,NA,Dishabituation,255
+Lukka_FRF_24112022_1129,Mov,Away from speaker,Habituation,2
+Lukka_FRF_24112022_1129,Pre,With kin,Habituation,12
+Lukka_FRF_24112022_1129,Vig,Mid neck,Habituation,4
+Lukka_FRF_24112022_1129,Vig,Short Neck,Habituation,30
+Lukka_FRF_24112022_1129,Mov,Away from speaker,Silence_2,28
+Lukka_FRF_24112022_1129,Vig,Short Neck,Silence_2,4
+Lukka_FRF_24112022_1129,Mov,Away from speaker,Silence_3,4
+Lukka_FRF_24112022_1129,Pre,With kin,Silence_3,6
+Lukka_FRF_24112022_1129,Vig,Short Neck,Silence_3,19
+Lukka_FRF_28102022_1052,Pre,With kin,Dishabituation,204
+Lukka_FRF_28102022_1052,Vig,Mid neck,Dishabituation,27
+Lukka_FRF_28102022_1052,Vig,Short Neck,Dishabituation,7
+Lukka_FRF_28102022_1052,Hab,NA,Habituation,246
+Lukka_FRF_28102022_1052,Pre,With kin,Habituation,184
+Lukka_FRF_28102022_1052,Vig,Mid neck,Habituation,40
+Lukka_FRF_28102022_1052,Vig,Short Neck,Habituation,6
+Lukka_FRF_28102022_1052,Pre,With kin,Silence_1,53
+Lukka_FRF_28102022_1052,Vig,Mid neck,Silence_1,31
+Lukka_FRF_28102022_1052,Vig,Mid neck,Silence_2,7
+Lukka_FRF_28102022_1052,Mov,Away from speaker,Silence_3,73
+Lukka_FRF_28102022_1052,Pre,With kin,Silence_3,24
+Lukka_FRF_28102022_1052,Vig,Long neck,Silence_3,78
+Lukka_FRF_28102022_1052,Vig,Mid neck,Silence_3,56
+Lukka_FRP_03112022_1002,Dhb,NA,Dishabituation,246
+Lukka_FRP_03112022_1002,Vig,Short Neck,Dishabituation,26
+Lukka_FRP_03112022_1002,Hab,NA,Habituation,253
+Lukka_FRP_03112022_1002,Vig,Mid neck,Habituation,13
+Lukka_FRP_03112022_1002,Vig,Mid neck,Silence_1,64
+Lukka_FRP_03112022_1002,Vig,Short Neck,Silence_1,25
+Lukka_FRP_03112022_1002,Vig,Mid neck,Silence_2,40
+Lukka_PRF_24102022_1115,Dhb,NA,Dishabituation,193
+Lukka_PRF_24102022_1115,Eat,Alone,Dishabituation,23
+Lukka_PRF_24102022_1115,Mov,Away from speaker,Dishabituation,91
+Lukka_PRF_24102022_1115,Pre,With kin,Dishabituation,29
+Lukka_PRF_24102022_1115,Vig,Long neck,Dishabituation,61
+Lukka_PRF_24102022_1115,Vig,Mid neck,Dishabituation,4
+Lukka_PRF_24102022_1115,Hab,NA,Habituation,244
+Lukka_PRF_24102022_1115,Pre,With kin,Habituation,4
+Lukka_PRF_24102022_1115,Vig,Mid neck,Habituation,82
+Lukka_PRF_24102022_1115,Pre,With kin,Silence_1,6
+Lukka_PRF_24102022_1115,Vig,Mid neck,Silence_1,43
+Lukka_PRF_24102022_1115,Pre,With kin,Silence_2,16
+Luna_FC_13102022_1015,Dhb,NA,Dishabituation,242
+Luna_FC_13102022_1015,Vig,Long neck,Dishabituation,2
+Luna_FC_13102022_1015,Hab,NA,Habituation,259
+Luna_FC_13102022_1015,Vig,Mid neck,Habituation,2
+Luna_FC_13102022_1015,Eat,With kin,Silence_1,22
+Luna_FC_13102022_1015,Mov,Away from speaker,Silence_1,37
+Luna_FC_13102022_1015,Mov,Towards speaker,Silence_1,22
+Luna_FC_13102022_1015,Vig,Long neck,Silence_1,96
+Luna_FC_13102022_1015,Vig,Mid neck,Silence_1,6
+Luna_FC_13102022_1015,Eat,With kin,Silence_3,38
+Luna_FC_13102022_1015,Vig,Mid neck,Silence_3,5
+Luna_FRF_20102022_0952,Vig,Mid neck,Dishabituation,7
+Luna_FRF_20102022_0952,Hab,NA,Habituation,249
+Luna_FRF_20102022_0952,Pre,With kin,Habituation,52
+Luna_FRF_20102022_0952,Rst,With kin,Habituation,93
+Luna_FRF_20102022_0952,Vig,Mid neck,Habituation,41
+Luna_FRF_20102022_0952,Vig,Short Neck,Habituation,22
+Luna_FRF_20102022_0952,Rst,With kin,Silence_2,7
+Luna_FRF_20102022_0952,Vig,Mid neck,Silence_2,3
+Luna_PRF_27102022_1006,Dhb,NA,Dishabituation,245
+Luna_PRF_27102022_1006,Hab,NA,Habituation,243
+Luna_PRF_27102022_1006,Pre,With kin,Silence_1,31
+Luna_PRF_27102022_1006,Vig,Short Neck,Silence_1,12
+Lupin_FC_06112022_0931,Dhb,NA,Dishabituation,245
+Lupin_FC_06112022_0931,Rst,With kin,Dishabituation,26
+Lupin_FC_06112022_0931,Vig,Short Neck,Dishabituation,57
+Lupin_FC_06112022_0931,Hab,NA,Habituation,256
+Lupin_FC_06112022_0931,Pre,With kin,Habituation,51
+Lupin_FC_06112022_0931,Rst,With kin,Habituation,23
+Lupin_FC_06112022_0931,Vig,Long neck,Habituation,20
+Lupin_FC_06112022_0931,Vig,Mid neck,Habituation,145
+Lupin_FC_06112022_0931,Vig,Long neck,Silence_1,41
+Lupin_FC_06112022_0931,Vig,Mid neck,Silence_1,43
+Lupin_FC_06112022_0931,Vig,Short Neck,Silence_1,5
+Lupin_FC_06112022_0931,Vig,Mid neck,Silence_3,9
+Lupin_FC_14102022_1010,Mov,Away from speaker,Dishabituation,43
+Lupin_FC_14102022_1010,Mov,Towards speaker,Dishabituation,15
+Lupin_FC_14102022_1010,Pre,With kin,Dishabituation,24
+Lupin_FC_14102022_1010,Vig,Long neck,Dishabituation,69
+Lupin_FC_14102022_1010,Vig,Mid neck,Dishabituation,35
+Lupin_FC_14102022_1010,Vig,Short Neck,Dishabituation,23
+Lupin_FC_14102022_1010,Eat,Alone,Habituation,18
+Lupin_FC_14102022_1010,Mov,Away from speaker,Habituation,40
+Lupin_FC_14102022_1010,Mov,Towards speaker,Habituation,7
+Lupin_FC_14102022_1010,Vig,Long neck,Habituation,62
+Lupin_FC_14102022_1010,Vig,Mid neck,Habituation,102
+Lupin_FC_14102022_1010,Vig,Short Neck,Habituation,24
+Lupin_FC_14102022_1010,Eat,With kin,Silence_1,38
+Lupin_FC_14102022_1010,Mov,Away from speaker,Silence_1,66
+Lupin_FC_14102022_1010,Vig,Long neck,Silence_1,134
+Lupin_FC_14102022_1010,Vig,Mid neck,Silence_1,67
+Lupin_FC_14102022_1010,Ass,Kin,Silence_2,12
+Lupin_FC_14102022_1010,Mov,Away from speaker,Silence_2,14
+Lupin_FC_14102022_1010,Ass,Kin,Silence_3,25
+Lupin_FC_14102022_1010,Eat,Alone,Silence_3,5
+Lupin_FC_14102022_1010,Eat,With kin,Silence_3,27
+Lupin_FC_14102022_1010,Mov,Away from speaker,Silence_3,4
+Lupin_FC_14102022_1010,Mov,Towards speaker,Silence_3,1
+Lupin_FC_14102022_1010,Vig,Mid neck,Silence_3,9
+Lupin_FRF_24102022_0926,Dhb,NA,Dishabituation,242
+Lupin_FRF_24102022_0926,Eat,Alone,Dishabituation,18
+Lupin_FRF_24102022_0926,Mov,Away from speaker,Dishabituation,40
+Lupin_FRF_24102022_0926,Mov,Towards speaker,Dishabituation,28
+Lupin_FRF_24102022_0926,Vig,Mid neck,Dishabituation,11
+Lupin_FRF_24102022_0926,Vig,Short Neck,Dishabituation,61
+Lupin_FRF_24102022_0926,Eat,Alone,Habituation,55
+Lupin_FRF_24102022_0926,Eat,With kin,Habituation,99
+Lupin_FRF_24102022_0926,Hab,NA,Habituation,262
+Lupin_FRF_24102022_0926,Vig,Long neck,Habituation,8
+Lupin_FRF_24102022_0926,Vig,Mid neck,Habituation,45
+Lupin_FRF_24102022_0926,Vig,Long neck,Silence_1,102
+Lupin_FRF_24102022_0926,Eat,Alone,Silence_2,19
+Lupin_FRF_24102022_0926,Mov,Away from speaker,Silence_2,7
+Lupin_FRF_24102022_0926,Vig,Long neck,Silence_2,4
+Lupin_FRF_24102022_0926,Vig,Mid neck,Silence_2,4
+Lupin_FRF_24112022_1056,Dhb,NA,Dishabituation,244
+Lupin_FRF_24112022_1056,Eat,With kin,Dishabituation,101
+Lupin_FRF_24112022_1056,Mov,Away from speaker,Dishabituation,36
+Lupin_FRF_24112022_1056,Vig,Long neck,Dishabituation,27
+Lupin_FRF_24112022_1056,Vig,Mid neck,Dishabituation,44
+Lupin_FRF_24112022_1056,Vig,Short Neck,Dishabituation,8
+Lupin_FRF_24112022_1056,Eat,With kin,Habituation,29
+Lupin_FRF_24112022_1056,Hab,NA,Habituation,257
+Lupin_FRF_24112022_1056,Mov,Away from speaker,Habituation,4
+Lupin_FRF_24112022_1056,Pre,With kin,Habituation,43
+Lupin_FRF_24112022_1056,Vig,Long neck,Habituation,15
+Lupin_FRF_24112022_1056,Vig,Mid neck,Habituation,20
+Lupin_FRF_24112022_1056,Vig,Short Neck,Habituation,33
+Lupin_FRF_24112022_1056,Pre,With kin,Silence_1,82
+Lupin_FRF_24112022_1056,Vig,Mid neck,Silence_1,20
+Lupin_FRF_24112022_1056,Vig,Short Neck,Silence_1,9
+Lupin_FRF_24112022_1056,Eat,With kin,Silence_2,6
+Lupin_FRF_24112022_1056,Vig,Mid neck,Silence_2,9
+Lupin_FRF_24112022_1056,Vig,Short Neck,Silence_2,9
+Lupin_FRF_24112022_1056,Eat,With kin,Silence_3,3
+Lupin_FRF_24112022_1056,Mov,Away from speaker,Silence_3,23
+Lupin_FRF_24112022_1056,Mov,Towards speaker,Silence_3,4
+Lupin_FRF_24112022_1056,Vig,Long neck,Silence_3,23
+Lupin_FRF_24112022_1056,Vig,Mid neck,Silence_3,25
+Lupin_FRP_23102022_1054,Eat,With kin,Dishabituation,91
+Lupin_FRP_23102022_1054,Mov,Away from speaker,Dishabituation,23
+Lupin_FRP_23102022_1054,Mov,Towards speaker,Dishabituation,7
+Lupin_FRP_23102022_1054,Vig,Long neck,Dishabituation,82
+Lupin_FRP_23102022_1054,Vig,Mid neck,Dishabituation,38
+Lupin_FRP_23102022_1054,Eat,With kin,Habituation,118
+Lupin_FRP_23102022_1054,Hab,NA,Habituation,249
+Lupin_FRP_23102022_1054,Mov,Away from speaker,Habituation,54
+Lupin_FRP_23102022_1054,Mov,Towards speaker,Habituation,11
+Lupin_FRP_23102022_1054,Pre,With kin,Habituation,8
+Lupin_FRP_23102022_1054,Vig,Long neck,Habituation,16
+Lupin_FRP_23102022_1054,Vig,Mid neck,Habituation,84
+Lupin_FRP_23102022_1054,Vig,Short Neck,Habituation,3
+Lupin_FRP_23102022_1054,Vig,Long neck,Silence_1,6
+Lupin_FRP_23102022_1054,Vig,Mid neck,Silence_1,23
+Lupin_FRP_23102022_1054,Vig,Short Neck,Silence_1,21
+Lupin_FRP_23102022_1054,Eat,With kin,Silence_2,6
+Lupin_FRP_23102022_1054,Mov,Away from speaker,Silence_2,16
+Lupin_FRP_23102022_1054,Pre,With kin,Silence_2,4
+Lupin_FRP_23102022_1054,Vig,Mid neck,Silence_2,14
+Lupin_FRP_23102022_1054,Vig,Short Neck,Silence_2,8
+Lupin_FRP_23102022_1054,Eat,With kin,Silence_3,10
+Lupin_FRP_23102022_1054,Mov,Away from speaker,Silence_3,32
+Lupin_FRP_23102022_1054,Vig,Long neck,Silence_3,77
+Lupin_FRP_23102022_1054,Vig,Mid neck,Silence_3,67
+Lupin_PRF_07112022_0950,Dhb,NA,Dishabituation,245
+Lupin_PRF_07112022_0950,Rst,With kin,Dishabituation,124
+Lupin_PRF_07112022_0950,Vig,Short Neck,Dishabituation,70
+Lupin_PRF_07112022_0950,Hab,NA,Habituation,248
+Lupin_PRF_07112022_0950,Vig,Long neck,Habituation,189
+Lupin_PRF_07112022_0950,Vig,Mid neck,Habituation,35
+Lupin_PRF_07112022_0950,Vig,Short Neck,Silence_2,12
+Lupin_PRF_07112022_0950,Rst,With kin,Silence_3,13
+Lupin_PRF_07112022_0950,Vig,Short Neck,Silence_3,36
+Natalie_FC_13102022_1005,Dhb,NA,Dishabituation,244
+Natalie_FC_13102022_1005,Eat,Alone,Dishabituation,4
+Natalie_FC_13102022_1005,Pre,Alone,Dishabituation,5
+Natalie_FC_13102022_1005,Rst,Alone,Dishabituation,50
+Natalie_FC_13102022_1005,Vig,Mid neck,Dishabituation,126
+Natalie_FC_13102022_1005,Ass,Kin,Habituation,114
+Natalie_FC_13102022_1005,Eat,Alone,Habituation,17
+Natalie_FC_13102022_1005,Eat,With kin,Habituation,64
+Natalie_FC_13102022_1005,Hab,NA,Habituation,251
+Natalie_FC_13102022_1005,Mov,Away from speaker,Habituation,51
+Natalie_FC_13102022_1005,Mov,Towards speaker,Habituation,2
+Natalie_FC_13102022_1005,Pre,Alone,Habituation,30
+Natalie_FC_13102022_1005,Pre,With kin,Habituation,5
+Natalie_FC_13102022_1005,Rst,Alone,Habituation,11
+Natalie_FC_13102022_1005,Vig,Long neck,Habituation,17
+Natalie_FC_13102022_1005,Vig,Mid neck,Habituation,26
+Natalie_FC_13102022_1005,Vig,Short Neck,Habituation,13
+Natalie_FC_13102022_1005,Ass,Kin,Silence_1,23
+Natalie_FC_13102022_1005,Eat,With kin,Silence_1,4
+Natalie_FC_13102022_1005,Mov,Towards speaker,Silence_1,64
+Natalie_FC_13102022_1005,Vig,Mid neck,Silence_1,41
+Natalie_FRF_19102022_1035,Dhb,NA,Dishabituation,244
+Natalie_FRF_19102022_1035,Hab,NA,Habituation,244
+Natalie_FRP_27102022_1034,Dhb,NA,Dishabituation,245
+Natalie_FRP_27102022_1034,Pre,With kin,Dishabituation,1
+Natalie_FRP_27102022_1034,Vig,Mid neck,Dishabituation,206
+Natalie_FRP_27102022_1034,Eat,With kin,Habituation,3
+Natalie_FRP_27102022_1034,Hab,NA,Habituation,334
+Natalie_FRP_27102022_1034,Pre,With kin,Habituation,14
+Natalie_FRP_27102022_1034,Vig,Long neck,Habituation,161
+Natalie_FRP_27102022_1034,Vig,Mid neck,Habituation,49
+Natalie_FRP_27102022_1034,Eat,With kin,Silence_1,3
+Natalie_FRP_27102022_1034,Vig,Mid neck,Silence_1,88
+Natalie_FRP_27102022_1034,Eat,With kin,Silence_2,6
+Natalie_FRP_27102022_1034,Pre,With kin,Silence_3,49
+Natalie_FRP_27102022_1034,Vig,Mid neck,Silence_3,14
+Oberlix_FC_15112022_0859,Mov,Away from speaker,Dishabituation,87
+Oberlix_FC_15112022_0859,Pre,With kin,Dishabituation,20
+Oberlix_FC_15112022_0859,Vig,Long neck,Dishabituation,2
+Oberlix_FC_15112022_0859,Vig,Mid neck,Dishabituation,116
+Oberlix_FC_15112022_0859,Vig,Short Neck,Dishabituation,5
+Oberlix_FC_15112022_0859,Vig,Long neck,Habituation,229
+Oberlix_FC_15112022_0859,Vig,Mid neck,Habituation,10
+Oberlix_FC_15112022_0859,Mov,Towards speaker,Silence_2,18
+Oberlix_FC_18102022_0956,Dhb,NA,Dishabituation,255
+Oberlix_FC_18102022_0956,Mov,Away from speaker,Dishabituation,50
+Oberlix_FC_18102022_0956,Pre,With kin,Dishabituation,137
+Oberlix_FC_18102022_0956,Vig,Long neck,Dishabituation,9
+Oberlix_FC_18102022_0956,Vig,Mid neck,Dishabituation,47
+Oberlix_FC_18102022_0956,Vig,Short Neck,Dishabituation,32
+Oberlix_FC_18102022_0956,Hab,NA,Habituation,243
+Oberlix_FC_18102022_0956,Vig,Long neck,Habituation,10
+Oberlix_FC_18102022_0956,Vig,Mid neck,Habituation,11
+Oberlix_FC_18102022_0956,Pre,With kin,Silence_1,69
+Oberlix_FC_18102022_0956,Vig,Mid neck,Silence_1,8
+Oberlix_FC_18102022_0956,Vig,Mid neck,Silence_2,2
+Oberlix_FC_18102022_0956,Eat,With kin,Silence_3,7
+Oberlix_FC_18102022_0956,Mov,Away from speaker,Silence_3,24
+Oberlix_FC_18102022_0956,Vig,Long neck,Silence_3,3
+Oberlix_FC_18102022_0956,Vig,Mid neck,Silence_3,58
+Oberlix_FRF_23112022_1024,Dhb,NA,Dishabituation,247
+Oberlix_FRF_23112022_1024,Eat,With kin,Dishabituation,167
+Oberlix_FRF_23112022_1024,Vig,Mid neck,Dishabituation,24
+Oberlix_FRF_23112022_1024,Vig,Short Neck,Dishabituation,13
+Oberlix_FRF_23112022_1024,Eat,With kin,Habituation,211
+Oberlix_FRF_23112022_1024,Hab,NA,Habituation,246
+Oberlix_FRF_23112022_1024,Mov,Away from speaker,Habituation,26
+Oberlix_FRF_23112022_1024,Vig,Long neck,Habituation,3
+Oberlix_FRF_23112022_1024,Vig,Mid neck,Habituation,18
+Oberlix_FRF_23112022_1024,Eat,With kin,Silence_1,18
+Oberlix_FRF_23112022_1024,Mov,Away from speaker,Silence_1,45
+Oberlix_FRF_23112022_1024,Mov,Towards speaker,Silence_1,5
+Oberlix_FRF_23112022_1024,Pre,With kin,Silence_1,5
+Oberlix_FRF_23112022_1024,Vig,Long neck,Silence_1,21
+Oberlix_FRF_23112022_1024,Vig,Mid neck,Silence_1,45
+Oberlix_FRF_23112022_1024,Vig,Short Neck,Silence_1,19
+Oberlix_FRF_23112022_1024,Eat,With kin,Silence_2,10
+Oberlix_FRF_23112022_1024,Mov,Away from speaker,Silence_2,2
+Oberlix_FRF_23112022_1024,Vig,Long neck,Silence_2,43
+Oberlix_FRF_23112022_1024,Vig,Mid neck,Silence_2,22
+Oberlix_FRF_23112022_1024,Eat,With kin,Silence_3,39
+Oberlix_FRF_23112022_1024,Mov,Away from speaker,Silence_3,5
+Oberlix_FRF_23112022_1024,Vig,Mid neck,Silence_3,13
+Oberlix_FRF_31102022_0813,Dhb,NA,Dishabituation,243
+Oberlix_FRF_31102022_0813,Eat,With kin,Dishabituation,22
+Oberlix_FRF_31102022_0813,Pre,With kin,Dishabituation,87
+Oberlix_FRF_31102022_0813,Vig,Mid neck,Dishabituation,48
+Oberlix_FRF_31102022_0813,Hab,NA,Habituation,245
+Oberlix_FRF_31102022_0813,Mov,Away from speaker,Habituation,5
+Oberlix_FRF_31102022_0813,Vig,Long neck,Habituation,5
+Oberlix_FRF_31102022_0813,Vig,Mid neck,Habituation,11
+Oberlix_FRF_31102022_0813,Pre,With kin,Silence_2,23
+Oberlix_FRF_31102022_0813,Vig,Mid neck,Silence_2,11
+Oberlix_FRF_31102022_0813,Pre,With kin,Silence_3,6
+Oberlix_FRF_31102022_0813,Vig,Mid neck,Silence_3,3
+Oberlix_PRF_08112022_0912,Dhb,NA,Dishabituation,273
+Oberlix_PRF_08112022_0912,Pre,With kin,Dishabituation,127
+Oberlix_PRF_08112022_0912,Vig,Long neck,Dishabituation,9
+Oberlix_PRF_08112022_0912,Vig,Mid neck,Dishabituation,86
+Oberlix_PRF_08112022_0912,Hab,NA,Habituation,270
+Oberlix_PRF_08112022_0912,Mov,Away from speaker,Habituation,27
+Oberlix_PRF_08112022_0912,Pre,With kin,Habituation,153
+Oberlix_PRF_08112022_0912,Vig,Long neck,Habituation,7
+Oberlix_PRF_08112022_0912,Vig,Mid neck,Habituation,95
+Oberlix_PRF_08112022_0912,Vig,Short Neck,Habituation,2
+Oberlix_PRF_08112022_0912,Pre,With kin,Silence_1,27
+Oberlix_PRF_08112022_0912,Vig,Long neck,Silence_1,9
+Oberlix_PRF_08112022_0912,Vig,Mid neck,Silence_1,37
+Oberlix_PRF_08112022_0912,Vig,Mid neck,Silence_2,2
+Oberlix_PRF_08112022_0912,Pre,With kin,Silence_3,47
+Oberlix_PRF_08112022_0912,Vig,Mid neck,Silence_3,10
+Oberlix_PRF_28102022_1012,Dhb,NA,Dishabituation,243
+Oberlix_PRF_28102022_1012,Pre,With kin,Dishabituation,90
+Oberlix_PRF_28102022_1012,Vig,Long neck,Dishabituation,5
+Oberlix_PRF_28102022_1012,Vig,Mid neck,Dishabituation,33
+Oberlix_PRF_28102022_1012,Pre,With kin,Habituation,167
+Oberlix_PRF_28102022_1012,Vig,Long neck,Habituation,12
+Oberlix_PRF_28102022_1012,Vig,Mid neck,Habituation,59
+Oberlix_PRF_28102022_1012,Mov,Away from speaker,Silence_1,40
+Oberlix_PRF_28102022_1012,Pre,With kin,Silence_1,26
+Oberlix_PRF_28102022_1012,Rst,With kin,Silence_1,7
+Oberlix_PRF_28102022_1012,Vig,Long neck,Silence_1,26
+Oberlix_PRF_28102022_1012,Vig,Mid neck,Silence_1,21
+Oberlix_PRF_28102022_1012,Vig,Short Neck,Silence_1,22
+Oberlix_PRF_28102022_1012,Vig,Long neck,Silence_2,3
+Oberlix_PRF_28102022_1012,Pre,With kin,Silence_3,36
+Oberlix_PRF_28102022_1012,Vig,Mid neck,Silence_3,10
+Olga_FC_20102022_0909,Dhb,NA,Dishabituation,247
+Olga_FC_20102022_0909,Eat,Alone,Dishabituation,149
+Olga_FC_20102022_0909,Mov,Away from speaker,Dishabituation,10
+Olga_FC_20102022_0909,Mov,Towards speaker,Dishabituation,3
+Olga_FC_20102022_0909,Pre,Alone,Dishabituation,4
+Olga_FC_20102022_0909,Vig,Long neck,Dishabituation,12
+Olga_FC_20102022_0909,Vig,Mid neck,Dishabituation,7
+Olga_FC_20102022_0909,Vig,Short Neck,Dishabituation,5
+Olga_FC_20102022_0909,Eat,Alone,Habituation,110
+Olga_FC_20102022_0909,Hab,NA,Habituation,255
+Olga_FC_20102022_0909,Mov,Towards speaker,Habituation,11
+Olga_FC_20102022_0909,Pre,Alone,Habituation,5
+Olga_FC_20102022_0909,Vig,Long neck,Habituation,79
+Olga_FC_20102022_0909,Vig,Mid neck,Habituation,55
+Olga_FC_20102022_0909,Mov,Away from speaker,Silence_1,40
+Olga_FC_20102022_0909,Vig,Long neck,Silence_1,41
+Olga_FC_20102022_0909,Pre,Alone,Silence_2,9
+Olga_FC_20102022_0909,Vig,Mid neck,Silence_2,6
+Olga_FC_20102022_0909,Ass,Kin,Silence_3,18
+Olga_FC_20102022_0909,Vig,Long neck,Silence_3,33
+Olga_FC_20102022_0909,Vig,Mid neck,Silence_3,11
+Olga_FRF_29102022_0940,Ass,Kin,Dishabituation,14
+Olga_FRF_29102022_0940,Eat,Alone,Dishabituation,62
+Olga_FRF_29102022_0940,Mov,Away from speaker,Dishabituation,99
+Olga_FRF_29102022_0940,Mov,Towards speaker,Dishabituation,7
+Olga_FRF_29102022_0940,Vig,Long neck,Dishabituation,34
+Olga_FRF_29102022_0940,Vig,Mid neck,Dishabituation,104
+Olga_FRF_29102022_0940,Eat,Alone,Habituation,138
+Olga_FRF_29102022_0940,Mov,Away from speaker,Habituation,18
+Olga_FRF_29102022_0940,Pre,Alone,Habituation,4
+Olga_FRF_29102022_0940,Vig,Mid neck,Habituation,6
+Olga_FRF_29102022_0940,Ass,Kin,Silence_1,15
+Olga_FRF_29102022_0940,Eat,Alone,Silence_1,2
+Olga_FRF_29102022_0940,Mov,Away from speaker,Silence_1,50
+Olga_FRF_29102022_0940,Mov,Towards speaker,Silence_1,12
+Olga_FRF_29102022_0940,Vig,Mid neck,Silence_1,93
+Olga_FRF_29102022_0940,Eat,With kin,Silence_2,29
+Olga_FRF_29102022_0940,Mov,Away from speaker,Silence_2,6
+Olga_FRF_29102022_0940,Vig,Long neck,Silence_2,13
+Olga_FRF_29102022_0940,Eat,With kin,Silence_3,5
+Olga_FRF_29102022_0940,Mov,Away from speaker,Silence_3,52
+Olga_FRF_29102022_0940,Vig,Long neck,Silence_3,7
+Olga_FRF_29102022_0940,Vig,Mid neck,Silence_3,38
+Olga_FRP_26102022_1115,Dhb,NA,Dishabituation,244
+Olga_FRP_26102022_1115,Vig,Short Neck,Dishabituation,21
+Olga_FRP_26102022_1115,Eat,Alone,Habituation,44
+Olga_FRP_26102022_1115,Hab,NA,Habituation,244
+Olga_FRP_26102022_1115,Vig,Mid neck,Habituation,117
+Olga_FRP_26102022_1115,Vig,Short Neck,Habituation,24
+Olga_FRP_26102022_1115,Eat,Alone,Silence_1,47
+Olga_FRP_26102022_1115,Mov,Away from speaker,Silence_1,33
+Olga_FRP_26102022_1115,Vig,Long neck,Silence_1,28
+Olga_FRP_26102022_1115,Vig,Mid neck,Silence_1,32
+Olga_FRP_26102022_1115,Mov,Away from speaker,Silence_2,27
+Olga_FRP_26102022_1115,Pre,With kin,Silence_2,12
+Olga_FRP_26102022_1115,Vig,Mid neck,Silence_2,12
+Olga_FRP_26102022_1115,Mov,Away from speaker,Silence_3,10
+Olga_FRP_26102022_1115,Pre,With kin,Silence_3,14
+Olga_FRP_26102022_1115,Vig,Long neck,Silence_3,11
+Olga_FRP_26102022_1115,Vig,Mid neck,Silence_3,50
+Ornella_FC_15102022_1545,Dhb,NA,Dishabituation,243
+Ornella_FC_15102022_1545,Pre,With kin,Dishabituation,17
+Ornella_FC_15102022_1545,Rst,With kin,Dishabituation,3
+Ornella_FC_15102022_1545,Vig,Short Neck,Dishabituation,36
+Ornella_FC_15102022_1545,Hab,NA,Habituation,243
+Ornella_FC_15102022_1545,Pre,With kin,Habituation,159
+Ornella_FC_15102022_1545,Vig,Mid neck,Habituation,13
+Ornella_FC_15102022_1545,Vig,Short Neck,Habituation,14
+Ornella_FC_15102022_1545,Vig,Mid neck,Silence_2,9
+Ornella_FRF_29102022_1032,Dhb,NA,Dishabituation,244
+Ornella_FRF_29102022_1032,Hab,NA,Habituation,252
+Ornella_FRF_29102022_1032,Pre,With kin,Silence_1,10
+Ornella_FRF_29102022_1032,Vig,Mid neck,Silence_1,61
+Ornella_FRF_29102022_1032,Vig,Short Neck,Silence_1,17
+Ornella_FRF_29102022_1032,Mov,Away from speaker,Silence_3,26
+Ornella_FRF_29102022_1032,Rst,With kin,Silence_3,11
+Ornella_FRF_29102022_1032,Vig,Long neck,Silence_3,2
+Ornella_FRF_29102022_1032,Vig,Mid neck,Silence_3,33
+Ornella_PRF_17102022_1015,Dhb,NA,Dishabituation,246
+Ornella_PRF_17102022_1015,Pre,With kin,Dishabituation,10
+Ornella_PRF_17102022_1015,Hab,NA,Habituation,254
+Ornella_PRF_17102022_1015,Pre,With kin,Habituation,32
+Ornella_PRF_17102022_1015,Vig,Short Neck,Habituation,20
+Ornella_PRF_17102022_1015,Vig,Short Neck,Silence_1,5
+Ornella_PRF_17102022_1015,Pre,With kin,Silence_2,29
+Ornella_PRF_17102022_1015,Vig,Mid neck,Silence_2,11
+Ornella_PRF_17102022_1015,Pre,With kin,Silence_3,5
+Ornella_PRF_17102022_1015,Vig,Mid neck,Silence_3,21
+Pudding_FC_31102022_1020,Dhb,NA,Dishabituation,244
+Pudding_FC_31102022_1020,Pre,With kin,Dishabituation,9
+Pudding_FC_31102022_1020,Vig,Mid neck,Dishabituation,25
+Pudding_FC_31102022_1020,Vig,Short Neck,Dishabituation,13
+Pudding_FC_31102022_1020,Hab,NA,Habituation,243
+Pudding_FC_31102022_1020,Pre,With kin,Habituation,12
+Pudding_FC_31102022_1020,Rst,With kin,Habituation,144
+Pudding_FC_31102022_1020,Vig,Short Neck,Habituation,39
+Pudding_FC_31102022_1020,Pre,With kin,Silence_1,11
+Pudding_FC_31102022_1020,Rst,With kin,Silence_1,35
+Pudding_FC_31102022_1020,Vig,Short Neck,Silence_1,23
+Pudding_FC_31102022_1020,Pre,With kin,Silence_3,62
+Pudding_FC_31102022_1020,Vig,Long neck,Silence_3,31
+Pudding_FC_31102022_1020,Vig,Mid neck,Silence_3,10
+Pudding_FRF_31102022_0902,Dhb,NA,Dishabituation,248
+Pudding_FRF_31102022_0902,Mov,Away from speaker,Dishabituation,20
+Pudding_FRF_31102022_0902,Pre,With kin,Dishabituation,149
+Pudding_FRF_31102022_0902,Vig,Mid neck,Dishabituation,30
+Pudding_FRF_31102022_0902,Vig,Short Neck,Dishabituation,4
+Pudding_FRF_31102022_0902,Eat,With kin,Habituation,49
+Pudding_FRF_31102022_0902,Mov,Away from speaker,Habituation,60
+Pudding_FRF_31102022_0902,Mov,Towards speaker,Habituation,6
+Pudding_FRF_31102022_0902,Vig,Long neck,Habituation,46
+Pudding_FRF_31102022_0902,Vig,Mid neck,Habituation,41
+Pudding_FRF_31102022_0902,Eat,With kin,Silence_1,22
+Pudding_FRF_31102022_0902,Mov,Towards speaker,Silence_1,4
+Pudding_FRF_31102022_0902,Vig,Long neck,Silence_1,3
+Pudding_FRF_31102022_0902,Mov,Away from speaker,Silence_2,26
+Pudding_FRF_31102022_0902,Vig,Mid neck,Silence_2,27
+Pudding_FRF_31102022_0902,Pre,With kin,Silence_3,15
+Pudding_FRF_31102022_0902,Vig,Short Neck,Silence_3,5
+Pudding_PRF_29102022_0953,Dhb,NA,Dishabituation,248
+Pudding_PRF_29102022_0953,Eat,With kin,Dishabituation,54
+Pudding_PRF_29102022_0953,Mov,Away from speaker,Dishabituation,15
+Pudding_PRF_29102022_0953,Pre,With kin,Dishabituation,8
+Pudding_PRF_29102022_0953,Rst,With kin,Dishabituation,26
+Pudding_PRF_29102022_0953,Vig,Short Neck,Dishabituation,18
+Pudding_PRF_29102022_0953,Hab,NA,Habituation,245
+Romy_FC_14112022_0915,Dhb,NA,Dishabituation,248
+Romy_FC_14112022_0915,Hab,NA,Habituation,252
+Romy_FC_14112022_0915,Rst,Alone,Habituation,170
+Romy_FC_14112022_0915,Vig,Short Neck,Habituation,2
+Romy_FC_14112022_0915,Mov,Towards speaker,Silence_1,7
+Romy_FC_14112022_0915,Pre,Alone,Silence_1,12
+Romy_FC_14112022_0915,Rst,Alone,Silence_1,33
+Romy_FC_14112022_0915,Vig,Short Neck,Silence_1,29
+Romy_FRF_19112022_1455,Dhb,NA,Dishabituation,245
+Romy_FRF_19112022_1455,Eat,Alone,Dishabituation,48
+Romy_FRF_19112022_1455,Eat,With kin,Dishabituation,34
+Romy_FRF_19112022_1455,Mov,Away from speaker,Dishabituation,26
+Romy_FRF_19112022_1455,Pre,Alone,Dishabituation,7
+Romy_FRF_19112022_1455,Vig,Mid neck,Dishabituation,94
+Romy_FRF_19112022_1455,Eat,Alone,Habituation,24
+Romy_FRF_19112022_1455,Hab,NA,Habituation,253
+Romy_FRF_19112022_1455,Mov,Away from speaker,Habituation,83
+Romy_FRF_19112022_1455,Mov,Towards speaker,Habituation,24
+Romy_FRF_19112022_1455,Pre,Alone,Habituation,4
+Romy_FRF_19112022_1455,Vig,Long neck,Habituation,6
+Romy_FRF_19112022_1455,Vig,Mid neck,Habituation,67
+Romy_FRF_19112022_1455,Vig,Short Neck,Habituation,131
+Romy_FRF_19112022_1455,Mov,Towards speaker,Silence_2,23
+Romy_FRF_19112022_1455,Vig,Long neck,Silence_2,4
+Romy_FRF_19112022_1455,Ass,Kin,Silence_3,46
+Romy_FRF_19112022_1455,Eat,With kin,Silence_3,22
+Romy_FRF_19112022_1455,Mov,Away from speaker,Silence_3,16
+Romy_FRF_19112022_1455,Vig,Mid neck,Silence_3,17
+Romy_PRF_13112022_0938,Dhb,NA,Dishabituation,247
+Romy_PRF_13112022_0938,Hab,NA,Habituation,246
+Romy_PRF_13112022_0938,Pre,With kin,Silence_2,5
+Romy_PRF_13112022_0938,Vig,Mid neck,Silence_2,6
+Rosenrot_FC_15112022_0941,Eat,With kin,Dishabituation,176
+Rosenrot_FC_15112022_0941,Mov,Away from speaker,Dishabituation,18
+Rosenrot_FC_15112022_0941,Vig,Mid neck,Dishabituation,17
+Rosenrot_FC_15112022_0941,Hab,NA,Habituation,259
+Rosenrot_FC_15112022_0941,Mov,Away from speaker,Habituation,149
+Rosenrot_FC_15112022_0941,Mov,Towards speaker,Habituation,7
+Rosenrot_FC_15112022_0941,Pre,With kin,Habituation,14
+Rosenrot_FC_15112022_0941,Vig,Long neck,Habituation,41
+Rosenrot_FC_15112022_0941,Vig,Mid neck,Habituation,88
+Rosenrot_FC_15112022_0941,Vig,Short Neck,Habituation,6
+Rosenrot_FC_15112022_0941,Mov,Towards speaker,Silence_1,12
+Rosenrot_FC_15112022_0941,Pre,With kin,Silence_1,58
+Rosenrot_FC_15112022_0941,Eat,With kin,Silence_3,21
+Rosenrot_FC_15112022_0941,Vig,Mid neck,Silence_3,33
+Rosenrot_FC_18102022_1100,Dhb,NA,Dishabituation,202
+Rosenrot_FC_18102022_1100,Mov,Away from speaker,Dishabituation,86
+Rosenrot_FC_18102022_1100,Mov,Towards speaker,Dishabituation,7
+Rosenrot_FC_18102022_1100,Vig,Mid neck,Dishabituation,18
+Rosenrot_FC_18102022_1100,Vig,Short Neck,Dishabituation,103
+Rosenrot_FC_18102022_1100,Eat,With kin,Habituation,42
+Rosenrot_FC_18102022_1100,Hab,NA,Habituation,250
+Rosenrot_FC_18102022_1100,Mov,Away from speaker,Habituation,86
+Rosenrot_FC_18102022_1100,Vig,Long neck,Habituation,28
+Rosenrot_FRF_20112022_0930,Dhb,NA,Dishabituation,245
+Rosenrot_FRF_20112022_0930,Eat,With kin,Dishabituation,121
+Rosenrot_FRF_20112022_0930,Mov,Away from speaker,Dishabituation,11
+Rosenrot_FRF_20112022_0930,Eat,With kin,Habituation,33
+Rosenrot_FRF_20112022_0930,Mov,Away from speaker,Habituation,77
+Rosenrot_FRF_20112022_0930,Mov,Towards speaker,Habituation,6
+Rosenrot_FRF_20112022_0930,Pre,With kin,Habituation,30
+Rosenrot_FRF_20112022_0930,Vig,Mid neck,Habituation,104
+Rosenrot_FRF_20112022_0930,Vig,Short Neck,Habituation,32
+Rosenrot_FRF_20112022_0930,Mov,Away from speaker,Silence_2,33
+Rosenrot_FRF_20112022_0930,Mov,Towards speaker,Silence_2,10
+Rosenrot_FRF_20112022_0930,Ass,Kin,Silence_3,10
+Rosenrot_FRF_20112022_0930,Eat,Alone,Silence_3,12
+Rosenrot_FRF_20112022_0930,Mov,Away from speaker,Silence_3,21
+Rosenrot_FRF_20112022_0930,Mov,Towards speaker,Silence_3,13
+Rosenrot_FRF_20112022_0930,Vig,Long neck,Silence_3,26
+Rosenrot_FRF_31102022_0931,Dhb,NA,Dishabituation,247
+Rosenrot_FRF_31102022_0931,Pre,With kin,Dishabituation,50
+Rosenrot_FRF_31102022_0931,Vig,Mid neck,Dishabituation,39
+Rosenrot_FRF_31102022_0931,Hab,NA,Habituation,252
+Rosenrot_FRF_31102022_0931,Rst,With kin,Habituation,105
+Rosenrot_FRF_31102022_0931,Vig,Mid neck,Habituation,24
+Rosenrot_FRF_31102022_0931,Rst,With kin,Silence_3,29
+Rosenrot_FRF_31102022_0931,Vig,Mid neck,Silence_3,13
+Rosenrot_FRP_17102022_1020,Dhb,NA,Dishabituation,243
+Rosenrot_FRP_17102022_1020,Mov,Towards speaker,Dishabituation,4
+Rosenrot_FRP_17102022_1020,Pre,With kin,Dishabituation,59
+Rosenrot_FRP_17102022_1020,Rst,With kin,Dishabituation,4
+Rosenrot_FRP_17102022_1020,Vig,Mid neck,Dishabituation,50
+Rosenrot_FRP_17102022_1020,Vig,Short Neck,Dishabituation,73
+Rosenrot_FRP_17102022_1020,Hab,NA,Habituation,252
+Rosenrot_FRP_17102022_1020,Pre,With kin,Habituation,53
+Rosenrot_FRP_17102022_1020,Vig,Mid neck,Habituation,16
+Rosenrot_FRP_17102022_1020,Vig,Short Neck,Habituation,30
+Rosenrot_FRP_17102022_1020,Mov,Away from speaker,Silence_1,8
+Rosenrot_FRP_17102022_1020,Pre,With kin,Silence_1,13
+Rosenrot_FRP_17102022_1020,Vig,Mid neck,Silence_1,3
+Rosenrot_FRP_17102022_1020,Vig,Short Neck,Silence_1,79
+Rosenrot_FRP_17102022_1020,Pre,With kin,Silence_2,12
+Rosenrot_FRP_17102022_1020,Vig,Short Neck,Silence_2,7
+Rosenrot_PRF_13112022_1006,Dhb,NA,Dishabituation,246
+Rosenrot_PRF_13112022_1006,Hab,NA,Habituation,245
+Rosenrot_PRF_13112022_1006,Rst,With kin,Habituation,66
+Rosenrot_PRF_13112022_1006,Vig,Short Neck,Habituation,126
+Rosenrot_PRF_13112022_1006,Mov,Away from speaker,Silence_1,32
+Rosenrot_PRF_13112022_1006,Rst,With kin,Silence_1,6
+Rosenrot_PRF_13112022_1006,Vig,Short Neck,Silence_1,23
+Rubezahl_FC_15102022_1532,Eat,With kin,Dishabituation,90
+Rubezahl_FC_15102022_1532,Mov,Away from speaker,Dishabituation,94
+Rubezahl_FC_15102022_1532,Pre,With kin,Dishabituation,38
+Rubezahl_FC_15102022_1532,Vig,Long neck,Dishabituation,3
+Rubezahl_FC_15102022_1532,Vig,Mid neck,Dishabituation,94
+Rubezahl_FC_15102022_1532,Eat,With kin,Habituation,44
+Rubezahl_FC_15102022_1532,Hab,NA,Habituation,246
+Rubezahl_FC_15102022_1532,Mov,Away from speaker,Habituation,3
+Rubezahl_FC_15102022_1532,Vig,Mid neck,Habituation,20
+Rubezahl_FC_15102022_1532,Mov,Away from speaker,Silence_1,3
+Rubezahl_FC_15102022_1532,Vig,Mid neck,Silence_1,3
+Rubezahl_FC_15102022_1532,Eat,With kin,Silence_3,7
+Rubezahl_FC_15102022_1532,Mov,Away from speaker,Silence_3,8
+Rubezahl_FC_15102022_1532,Mov,Towards speaker,Silence_3,19
+Rubezahl_FRF_29102022_1043,Dhb,NA,Dishabituation,244
+Rubezahl_FRF_29102022_1043,Eat,With kin,Dishabituation,5
+Rubezahl_FRF_29102022_1043,Pre,With kin,Dishabituation,127
+Rubezahl_FRF_29102022_1043,Vig,Mid neck,Dishabituation,7
+Rubezahl_FRF_29102022_1043,Vig,Short Neck,Dishabituation,53
+Rubezahl_FRF_29102022_1043,Hab,NA,Habituation,246
+Rubezahl_FRF_29102022_1043,Pre,With kin,Habituation,5
+Rubezahl_FRF_29102022_1043,Rst,With kin,Habituation,26
+Rubezahl_FRF_29102022_1043,Vig,Mid neck,Habituation,24
+Rubezahl_FRF_29102022_1043,Vig,Short Neck,Habituation,9
+Rubezahl_FRF_29102022_1043,Vig,Short Neck,Silence_1,41
+Rubezahl_FRF_29102022_1043,Pre,With kin,Silence_2,9
+Rubezahl_FRF_29102022_1043,Vig,Mid neck,Silence_2,9
+Rubezahl_FRF_29102022_1043,Vig,Short Neck,Silence_2,5
+Rubezahl_FRF_29102022_1043,Pre,With kin,Silence_3,13
+Rubezahl_FRF_29102022_1043,Rst,With kin,Silence_3,10
+Rubezahl_FRF_29102022_1043,Vig,Short Neck,Silence_3,15
+Rubezahl_FRP_22102022_1810,Pre,With kin,Dishabituation,64
+Rubezahl_FRP_22102022_1810,Rst,With kin,Dishabituation,4
+Rubezahl_FRP_22102022_1810,Vig,Short Neck,Dishabituation,69
+Rubezahl_FRP_22102022_1810,Hab,NA,Habituation,245
+Rubezahl_FRP_22102022_1810,Mov,Away from speaker,Habituation,107
+Rubezahl_FRP_22102022_1810,Pre,With kin,Habituation,122
+Rubezahl_FRP_22102022_1810,Vig,Mid neck,Habituation,51
+Rubezahl_FRP_22102022_1810,Vig,Short Neck,Habituation,72
+Rubezahl_FRP_22102022_1810,Ass,Kin,Silence_1,81
+Rubezahl_FRP_22102022_1810,Eat,With kin,Silence_1,7
+Rubezahl_FRP_22102022_1810,Mov,Away from speaker,Silence_1,71
+Rubezahl_FRP_22102022_1810,Mov,Towards speaker,Silence_1,5
+Rubezahl_FRP_22102022_1810,Pre,With kin,Silence_1,10
+Rubezahl_FRP_22102022_1810,Vig,Mid neck,Silence_1,31
+Rubezahl_FRP_22102022_1810,Vig,Short Neck,Silence_1,36
+Rubezahl_FRP_22102022_1810,Pre,With kin,Silence_2,7
+Rubezahl_FRP_22102022_1810,Rst,With kin,Silence_2,5
+Rubezahl_FRP_22102022_1810,Vig,Short Neck,Silence_2,12
+Rubezahl_FRP_22102022_1810,Mov,Away from speaker,Silence_3,64
+Rubezahl_FRP_22102022_1810,Vig,Short Neck,Silence_3,64
+Taras_FC_08112022_1000,Dhb,NA,Dishabituation,245
+Taras_FC_08112022_1000,Pre,With kin,Dishabituation,17
+Taras_FC_08112022_1000,Hab,NA,Habituation,250
+Taras_FC_08112022_1000,Mov,Away from speaker,Habituation,29
+Taras_FC_08112022_1000,Pre,With kin,Habituation,12
+Taras_FC_08112022_1000,Rst,With kin,Habituation,7
+Taras_FC_08112022_1000,Vig,Mid neck,Habituation,11
+Taras_FC_08112022_1000,Pre,With kin,Silence_1,2
+Taras_FC_08112022_1000,Vig,Short Neck,Silence_1,13
+Taras_FC_08112022_1000,Rst,With kin,Silence_3,62
+Taras_FC_08112022_1000,Vig,Short Neck,Silence_3,3
+Taras_FRP_11112022_0843,Dhb,NA,Dishabituation,246
+Taras_FRP_11112022_0843,Mov,Away from speaker,Dishabituation,19
+Taras_FRP_11112022_0843,Pre,With kin,Dishabituation,115
+Taras_FRP_11112022_0843,Vig,Mid neck,Dishabituation,31
+Taras_FRP_11112022_0843,Vig,Short Neck,Dishabituation,50
+Taras_FRP_11112022_0843,Eat,With kin,Habituation,80
+Taras_FRP_11112022_0843,Hab,NA,Habituation,256
+Taras_FRP_11112022_0843,Mov,Away from speaker,Habituation,55
+Taras_FRP_11112022_0843,Pre,With kin,Habituation,4
+Taras_FRP_11112022_0843,Vig,Long neck,Habituation,5
+Taras_FRP_11112022_0843,Vig,Mid neck,Habituation,139
+Taras_FRP_11112022_0843,Vig,Short Neck,Habituation,17
+Taras_FRP_11112022_0843,Eat,With kin,Silence_1,45
+Taras_FRP_11112022_0843,Vig,Mid neck,Silence_1,43
+Trevor_FC_13102022_0952,Dhb,NA,Dishabituation,243
+Trevor_FC_13102022_0952,Eat,With kin,Dishabituation,46
+Trevor_FC_13102022_0952,Mov,Away from speaker,Dishabituation,15
+Trevor_FC_13102022_0952,Vig,Long neck,Dishabituation,10
+Trevor_FC_13102022_0952,Vig,Mid neck,Dishabituation,6
+Trevor_FC_13102022_0952,Vig,Short Neck,Dishabituation,16
+Trevor_FC_13102022_0952,Eat,With kin,Habituation,110
+Trevor_FC_13102022_0952,Hab,NA,Habituation,254
+Trevor_FC_13102022_0952,Mov,Away from speaker,Habituation,2
+Trevor_FC_13102022_0952,Mov,Towards speaker,Habituation,13
+Trevor_FC_13102022_0952,Vig,Mid neck,Habituation,74
+Trevor_FC_13102022_0952,Mov,Away from speaker,Silence_1,26
+Trevor_FC_13102022_0952,Vig,Long neck,Silence_1,5
+Trevor_FC_13102022_0952,Vig,Mid neck,Silence_1,27
+Trevor_FC_13102022_0952,Vig,Mid neck,Silence_2,8
+Trevor_FC_13102022_0952,Eat,With kin,Silence_3,18
+Trevor_FC_13102022_0952,Mov,Away from speaker,Silence_3,6
+Trevor_FC_13102022_0952,Mov,Towards speaker,Silence_3,9
+Trevor_FC_13102022_0952,Vig,Long neck,Silence_3,9
+Trevor_FC_13102022_0952,Vig,Mid neck,Silence_3,21
+Trevor_FRF_30102022_0919,Dhb,NA,Dishabituation,244
+Trevor_FRF_30102022_0919,Pre,With kin,Dishabituation,12
+Trevor_FRF_30102022_0919,Rst,With kin,Dishabituation,140
+Trevor_FRF_30102022_0919,Vig,Mid neck,Dishabituation,10
+Trevor_FRF_30102022_0919,Vig,Short Neck,Dishabituation,20
+Trevor_FRF_30102022_0919,Hab,NA,Habituation,254
+Trevor_FRF_30102022_0919,Rst,With kin,Habituation,124
+Trevor_FRF_30102022_0919,Vig,Mid neck,Habituation,90
+Trevor_FRF_30102022_0919,Vig,Short Neck,Habituation,12
+Trevor_FRF_30102022_0919,Pre,With kin,Silence_1,23
+Trevor_FRF_30102022_0919,Rst,With kin,Silence_1,41
+Trevor_FRF_30102022_0919,Vig,Long neck,Silence_1,4
+Trevor_FRF_30102022_0919,Vig,Mid neck,Silence_1,40
+Trevor_FRF_30102022_0919,Vig,Short Neck,Silence_1,5
+Trevor_FRF_30102022_0919,Pre,With kin,Silence_2,11
+Trevor_FRF_30102022_0919,Pre,With kin,Silence_3,19
+Trevor_FRF_30102022_0919,Vig,Long neck,Silence_3,21
+Trevor_FRF_30102022_0919,Vig,Mid neck,Silence_3,12
+Trevor_PRF_27102022_1050,Dhb,NA,Dishabituation,246
+Trevor_PRF_27102022_1050,Mov,Away from speaker,Dishabituation,49
+Trevor_PRF_27102022_1050,Pre,With kin,Dishabituation,11
+Trevor_PRF_27102022_1050,Vig,Long neck,Dishabituation,26
+Trevor_PRF_27102022_1050,Vig,Mid neck,Dishabituation,94
+Trevor_PRF_27102022_1050,Vig,Short Neck,Dishabituation,51
+Trevor_PRF_27102022_1050,Hab,NA,Habituation,246
+Trevor_PRF_27102022_1050,Mov,Away from speaker,Habituation,115
+Trevor_PRF_27102022_1050,Pre,With kin,Habituation,7
+Trevor_PRF_27102022_1050,Vig,Long neck,Habituation,60
+Trevor_PRF_27102022_1050,Vig,Mid neck,Habituation,56
+Trevor_PRF_27102022_1050,Vig,Short Neck,Habituation,14
+Trevor_PRF_27102022_1050,Eat,With kin,Silence_3,13
+Trevor_PRF_27102022_1050,Mov,Away from speaker,Silence_3,17
+Trevor_PRF_27102022_1050,Vig,Mid neck,Silence_3,20
+Triton_FC_07112022_0928,Dhb,NA,Dishabituation,245
+Triton_FC_07112022_0928,Pre,With kin,Dishabituation,13
+Triton_FC_07112022_0928,Rst,With kin,Dishabituation,87
+Triton_FC_07112022_0928,Vig,Mid neck,Dishabituation,64
+Triton_FC_07112022_0928,Vig,Short Neck,Dishabituation,49
+Triton_FC_07112022_0928,Hab,NA,Habituation,259
+Triton_FC_07112022_0928,Mov,Away from speaker,Habituation,68
+Triton_FC_07112022_0928,Pre,With kin,Habituation,31
+Triton_FC_07112022_0928,Rst,With kin,Habituation,8
+Triton_FC_07112022_0928,Vig,Mid neck,Habituation,59
+Triton_FC_07112022_0928,Ass,Kin,Silence_1,90
+Triton_FC_07112022_0928,Eat,With kin,Silence_1,60
+Triton_FC_07112022_0928,Mov,Away from speaker,Silence_1,18
+Triton_FC_07112022_0928,Mov,Towards speaker,Silence_1,14
+Triton_FC_07112022_0928,Vig,Long neck,Silence_1,21
+Triton_FC_07112022_0928,Vig,Mid neck,Silence_1,18
+Triton_FC_07112022_0928,Rst,With kin,Silence_3,67
+Triton_FC_07112022_0928,Vig,Short Neck,Silence_3,4
+Triton_FC_14102022_0948,Dhb,NA,Dishabituation,244
+Triton_FC_14102022_0948,Hab,NA,Habituation,246
+Triton_FRF_23112022_1039,Dhb,NA,Dishabituation,251
+Triton_FRF_23112022_1039,Eat,Alone,Dishabituation,24
+Triton_FRF_23112022_1039,Eat,With kin,Dishabituation,20
+Triton_FRF_23112022_1039,Mov,Away from speaker,Dishabituation,58
+Triton_FRF_23112022_1039,Vig,Long neck,Dishabituation,28
+Triton_FRF_23112022_1039,Vig,Mid neck,Dishabituation,137
+Triton_FRF_23112022_1039,Hab,NA,Habituation,260
+Triton_FRF_23112022_1039,Mov,Away from speaker,Habituation,132
+Triton_FRF_23112022_1039,Mov,Towards speaker,Habituation,5
+Triton_FRF_23112022_1039,Pre,With kin,Habituation,9
+Triton_FRF_23112022_1039,Vig,Long neck,Habituation,45
+Triton_FRF_23112022_1039,Vig,Mid neck,Habituation,190
+Triton_FRF_23112022_1039,Eat,With kin,Silence_3,29
+Triton_FRF_23112022_1039,Mov,Away from speaker,Silence_3,2
+Triton_FRF_23112022_1039,Vig,Mid neck,Silence_3,29
+Triton_FRF_29102022_1056,Dhb,NA,Dishabituation,245
+Triton_FRF_29102022_1056,Eat,Alone,Dishabituation,14
+Triton_FRF_29102022_1056,Eat,With kin,Dishabituation,8
+Triton_FRF_29102022_1056,Mov,Away from speaker,Dishabituation,68
+Triton_FRF_29102022_1056,Pre,With kin,Dishabituation,5
+Triton_FRF_29102022_1056,Vig,Long neck,Dishabituation,22
+Triton_FRF_29102022_1056,Vig,Mid neck,Dishabituation,50
+Triton_FRF_29102022_1056,Pre,With kin,Habituation,70
+Triton_FRF_29102022_1056,Vig,Long neck,Habituation,23
+Triton_FRF_29102022_1056,Vig,Mid neck,Habituation,127
+Triton_FRF_29102022_1056,Pre,With kin,Silence_1,53
+Triton_FRF_29102022_1056,Vig,Mid neck,Silence_1,48
+Triton_FRF_29102022_1056,Mov,Towards speaker,Silence_2,11
+Triton_FRF_29102022_1056,Vig,Short Neck,Silence_2,14
+Triton_FRF_29102022_1056,Mov,Away from speaker,Silence_3,8
+Triton_FRF_29102022_1056,Pre,With kin,Silence_3,8
+Triton_FRF_29102022_1056,Vig,Mid neck,Silence_3,39
+Triton_FRF_29102022_1056,Vig,Short Neck,Silence_3,14
+Triton_FRP_13112022_1024,Dhb,NA,Dishabituation,268
+Triton_FRP_13112022_1024,Rst,With kin,Dishabituation,21
+Triton_FRP_13112022_1024,Vig,Long neck,Dishabituation,90
+Triton_FRP_13112022_1024,Vig,Mid neck,Dishabituation,126
+Triton_FRP_13112022_1024,Hab,NA,Habituation,254
+Triton_FRP_13112022_1024,Rst,With kin,Silence_1,24
+Triton_FRP_13112022_1024,Vig,Mid neck,Silence_1,15
+Triton_FRP_24102022_1013,Dhb,NA,Dishabituation,244
+Triton_FRP_24102022_1013,Eat,With kin,Dishabituation,4
+Triton_FRP_24102022_1013,Mov,Away from speaker,Dishabituation,26
+Triton_FRP_24102022_1013,Eat,With kin,Habituation,96
+Triton_FRP_24102022_1013,Hab,NA,Habituation,272
+Triton_FRP_24102022_1013,Mov,Away from speaker,Habituation,69
+Triton_FRP_24102022_1013,Mov,Towards speaker,Habituation,29
+Triton_FRP_24102022_1013,Vig,Long neck,Habituation,17
+Triton_FRP_24102022_1013,Vig,Mid neck,Habituation,22
+Triton_FRP_24102022_1013,Eat,With kin,Silence_1,57
+Triton_FRP_24102022_1013,Vig,Mid neck,Silence_1,22
+Triton_FRP_24102022_1013,Rst,With kin,Silence_3,89

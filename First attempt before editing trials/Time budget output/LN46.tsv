@@ -1,0 +1,19 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Ass	Kin	1	736.8	736.8	NA	NA	NA	100.0
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Fllw		0	NA	NA	NA	NA	NA	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Mov	Away from speaker	1	6.56	6.56	NA	NA	NA	0.9
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Dhb		2	250.64	125.32	101.541	NA	NA	34.0
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Hab		1	246.64	246.64	NA	NA	NA	33.5
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Look	At speaker	30	NA	NA	NA	0.0	0.0	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Look	Away from speaker	4	NA	NA	NA	0.0	0.0	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Voc	Contact	1	NA	NA	NA	NA	NA	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	HSH		1	NA	NA	NA	NA	NA	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Htlt		1	NA	NA	NA	NA	NA	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	FVO	Other	16	NA	NA	NA	0.0	0.0	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	FVO	Distance	3	NA	NA	NA	0.0	0.0	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Eat		0	NA	NA	NA	NA	NA	NA
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Pre	With kin	12	114.828	9.569	4.785	NA	NA	15.6
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Rst	With kin	2	546.199	273.099	3.422	NA	NA	74.1
+LN46	2024-03-1201:57:21		Lausbursch	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.000	736.800	736.800	No focal subject	Vig	Mid neck	13	75.747	5.827	6.115	NA	NA	10.3

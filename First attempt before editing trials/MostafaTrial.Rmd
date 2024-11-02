@@ -1,0 +1,87 @@
+---
+title: "MostafaTrial"
+output: html_document
+date: "2024-07-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+
+## Import libraries
+```{r}
+library(dplyr)
+library(stringr)
+```
+
+
+## Get the current directory and the file that contains the names. 
+
+```{r}
+setwd("E:/Individual recognition/Individual Recognition R Project")
+current_directory <- getwd()
+folder_path <- paste(getwd(), "/Trial events output4", sep="")
+files <- list.files(path=folder_path, pattern="\\.tsv$",all.files=FALSE, 
+    full.names=FALSE)
+
+file_of_names <- paste(getwd(), "/blind video list_finalised.csv", sep="")
+data_frame_of_names <-read.csv(
+  file_of_names)
+print(data_frame_of_names)
+
+```
+
+
+## Modify the blind video list_finalised.csv
+```{r}
+
+# Read the CSV file
+data <- read.csv(file_of_names)
+
+# Modify the Original_code column: replace .MP4 with .csv
+data <- data %>%
+  mutate(Original_code = str_replace(Original_code, "\\.MP4$", ".tsv"),
+         Blind_code = str_c(Blind_code, ".tsv"))
+output_file <- paste(getwd(), "/blind_video_list_modified.csv", sep="")
+# Write the modified data back to a CSV file
+write.csv(data, output_file, row.names = FALSE)
+```
+
+## Rename the Blind code files to their original names
+```{r}
+for (file_path in files) {
+  # Extract the file name without the path
+  #print(paste("file path is", file_path))
+  file_path <- paste("/", file_path, sep = "")
+  file_path <- paste(folder_path, file_path, sep = "")
+  print(paste("file path is", file_path))
+
+  file_name <- basename(file_path)
+  #print(paste("file name is", file_name))
+  # Check if the file name exists in the Blind_code column
+  matched_row <- data %>% filter(Blind_code == file_name)
+  
+  if (nrow(matched_row) == 1) {
+    # Get the corresponding Original_code
+    new_name <- matched_row$Original_code
+    
+    # Define the new file path
+    new_file_path <- file.path(folder_path, new_name)
+    # print(paste("new_file_path is", new_file_path))
+    # Rename the file
+    file.rename(file_path, new_file_path)
+  } else {
+    print(paste("No match found for:", file_name))
+  }
+}
+
+```
+
+

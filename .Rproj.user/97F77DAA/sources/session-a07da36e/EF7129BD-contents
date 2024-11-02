@@ -1,0 +1,1349 @@
+---
+title: "Individual recognition"
+output: html_document
+date: "2024-07-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## Import libraries
+```{r}
+library(dplyr)
+library(stringr)
+library(magrittr)
+```
+
+
+## Get the current directory and the file that contains the names. 
+
+```{r}
+setwd("E:/Individual recognition/Individual Recognition R Project")
+current_directory <- getwd()
+folder_path_events <- paste(getwd(), "/Trial events output", sep="")
+files_events <- list.files(path=folder_path, pattern="\\.tsv$",all.files=FALSE, 
+    full.names=FALSE)
+
+file_of_names<- paste(getwd(), "/blind video list_finalised.csv", sep="")
+data_frame_of_names <-read.csv(
+  file_of_names)
+print(data_frame_of_names)
+
+```
+
+
+## Modify the blind video list_finalised.csv
+```{r}
+
+# Read the CSV file
+data <- read.csv(file_of_names)
+
+# Modify the Original_code column: replace .MP4 with .csv
+data <- data %>%
+  mutate(Original_code = str_replace(Original_code, "\\.MP4$", ".tsv"),
+         Blind_code = str_c(Blind_code, ".tsv"))
+output_file <- paste(getwd(), "/blind_video_list_modified.csv", sep="")
+# Write the modified data back to a CSV file
+write.csv(data, output_file, row.names = FALSE)
+```
+
+## Rename the Blind code files to their original names
+```{r}
+for (file_path_events in files_events) {
+  # Extract the file name without the path
+  #print(paste("file path is", file_path))
+  file_path_events <- paste("/", file_path_events, sep = "")
+  file_path_events <- paste(folder_path_events, file_path_events, sep = "")
+  print(paste("file path is", file_path_events))
+
+  file_name_events <- basename(file_path_events)
+  #print(paste("file name is", file_name))
+  # Check if the file name exists in the Blind_code column
+  matched_row <- data %>% filter(Blind_code == file_name_events)
+  
+  if (nrow(matched_row) == 1) {
+    # Get the corresponding Original_code
+    new_name_events <- matched_row$Original_code
+    
+    # Define the new file path
+    new_file_path_events <- file.path(folder_path_events, new_name_events)
+    # print(paste("new_file_path is", new_file_path))
+    # Rename the file
+    file.rename(file_path_events, new_file_path_events)
+  } else {
+    print(paste("No match found for:", file_name_events))
+  }
+}
+
+```
+
+compare files before and after renaminig, choose random files from the list of names
+
+```{r}
+library(dplyr)
+library(readr)
+library(purrr)
+
+# Define the paths to the two TSV files
+file1_path <- "E:/Individual recognition/Individual Recognition R Project/Trial events output1/YQ35.tsv"
+file2_path <- "E:/Individual recognition/Individual Recognition R Project/Trial events output/Rubezahl_FRF_29102022_1043.tsv"
+
+# Read the TSV files
+df1 <- read_tsv(file1_path)
+df2 <- read_tsv(file2_path)
+
+# Compare dimensions of the dataframes
+if (!all(dim(df1) == dim(df2))) {
+  stop("The files have different dimensions and cannot be identical.")
+}
+
+# Function to compare two columns with NA handling
+compare_columns <- function(col1, col2) {
+  equal <- (col1 == col2) | (is.na(col1) & is.na(col2))
+  equal[is.na(equal)] <- FALSE  # Handle cases where comparison is NA
+  return(equal)
+}
+
+# Compare the contents of the dataframes
+comparison <- map2(df1, df2, compare_columns)
+
+# Check if all comparisons are TRUE
+if (all(map_lgl(comparison, all))) {
+  print("The files are identical.")
+} else {
+  # Identify and print the differing cells
+  differing_cells <- bind_rows(
+    map2(df1, df2, ~{
+      diff <- .x != .y & !(is.na(.x) & is.na(.y))
+      diff_rows <- which(diff)
+      data.frame(
+        Row = diff_rows,
+        Column = names(df1)[colnames(df1) == .x],
+        File1_Value = .x[diff_rows],
+        File2_Value = .y[diff_rows]
+      )
+    })
+  )
+  
+  print("The files differ at the following cells:")
+  print(differing_cells)
+}
+```
+
+
+file comparison loop with output results written in a file
+
+```{r}
+library(dplyr)
+library(readr)
+library(purrr)
+
+# Define the paths to the folders
+source_folder <- "E:/Individual recognition/Individual Recognition R Project/Trial events output"
+destination_folder <- "E:/Individual recognition/Individual Recognition R Project/Trial events output_Orig"
+
+# Read the CSV file containing old and new names
+name_mapping <- data
+
+# Define the path to the output results file
+output_file_path <- "comparison_results.csv"
+
+
+# Initialize a list to store the comparison results
+results_list <- list()
+
+# Function to compare two columns with NA handling
+compare_columns <- function(col1, col2) {
+  equal <- (col1 == col2) | (is.na(col1) & is.na(col2))
+  equal[is.na(equal)] <- FALSE  # Handle cases where comparison is NA
+  return(equal)
+}
+
+# Function to compare two dataframes and return the differing cells
+compare_dataframes <- function(df1, df2) {
+  comparison <- map2(df1, df2, compare_columns)
+  differing_cells <- bind_rows(
+    map2(df1, df2, ~{
+      diff <- .x != .y & !(is.na(.x) & is.na(.y))
+      diff_rows <- which(diff)
+      if (length(diff_rows) > 0) {
+        data.frame(
+          Row = diff_rows,
+          Column = names(df1)[which(names(df1) == .y)],
+          File1_Value = .x[diff_rows],
+          File2_Value = .y[diff_rows]
+        )
+      } else {
+        NULL
+      }
+    })
+  )
+  return(differing_cells)
+}
+
+# Iterate through each row of the name mapping
+for (i in seq_len(nrow(name_mapping))) {
+  old_name <- name_mapping$Original_code[i]
+  new_name <- name_mapping$Blind_code[i]
+
+  # Construct the file paths
+  source_file_path <- file.path(source_folder, old_name)
+  destination_file_path <- file.path(destination_folder, new_name)
+
+  # Check if both files exist
+  if (file.exists(source_file_path) & file.exists(destination_file_path)) {
+    # Read the TSV files
+    df1 <- read_tsv(source_file_path)
+    df2 <- read_tsv(destination_file_path)
+
+    # Compare dimensions of the dataframes
+    if (!all(dim(df1) == dim(df2))) {
+      message <- paste("The files", old_name, "and", new_name, "have different dimensions and cannot be identical.")
+      print(message)
+      results_list <- append(results_list, list(data.frame(Old_File = old_name, New_File = new_name, Message = message)))
+    } else {
+      # Compare the contents of the dataframes
+      differing_cells <- compare_dataframes(df1, df2)
+      if (nrow(differing_cells) == 0) {
+        message <- paste("The files", old_name, "and", new_name, "are identical.")
+        print(message)
+        results_list <- append(results_list, list(data.frame(Old_File = old_name, New_File = new_name, Message = message)))
+      } else {
+        message <- paste("The files", old_name, "and", new_name, "differ at the following cells:")
+        print(message)
+        print(differing_cells)
+        differing_cells <- mutate(differing_cells, Old_File = old_name, New_File = new_name)
+        results_list <- append(results_list, list(differing_cells))
+      }
+    }
+  } else {
+    if (!file.exists(source_file_path)) {
+      message <- paste("The source file", source_file_path, "does not exist.")
+      print(message)
+      results_list <- append(results_list, list(data.frame(Old_File = old_name, New_File = new_name, Message = message)))
+    }
+    if (!file.exists(destination_file_path)) {
+      message <- paste("The destination file", destination_file_path, "does not exist.")
+      print(message)
+      results_list <- append(results_list, list(data.frame(Old_File = old_name, New_File = new_name, Message = message)))
+    }
+  }
+}
+
+# Combine all results into a single dataframe
+results_df <- bind_rows(results_list)
+
+# Write the results to a CSV file
+write_csv(results_df, output_file_path)
+
+print(paste("Comparison results have been written to", output_file_path))
+```
+
+# rename observation_id as file name
+```{r}
+library(dplyr)
+library(readr)
+library(stringr)
+library(purrr)
+
+# Define the directory containing the TSV files
+input_dir_events <- "E:/Individual recognition/Individual Recognition R Project/Trial events output"
+
+# List all TSV files in the directory
+tsv_files_events <- list.files(input_dir_events, pattern = "\\.tsv$", full.names = TRUE)
+
+# Function to update the Observation_id column
+update_observation_id <- function(file_path) {
+  # Read the TSV file
+  df_events <- read_tsv(file_path)
+  
+  # Extract the file name without extension
+  file_name_events <- str_remove(basename(file_path), "\\.tsv$")
+  
+  # Update the Observation_id column
+  df_events <- df_events %>%
+    mutate(`Observation id`= file_name_events)
+  
+  # Save the modified dataframe back to the file
+  write_tsv(df_events, file_path)
+  
+  # Print message
+  print(paste("Updated Observation_id in file:", file_path))
+}
+
+# Apply the function to each TSV file
+walk(tsv_files_events, update_observation_id)
+
+```
+
+
+
+# load data as a list and bind rowwise
+
+```{r}
+library(dplyr)
+library(readr)
+library(purrr)
+
+# Define the path to the folder containing the TSV files
+Trial_events <- "E:/Individual recognition/Individual Recognition R Project/Trial events output"
+
+# List all .tsv files in the folder
+Trial_events_files <- list.files(path = Trial_events, pattern = "\\.tsv$", full.names = TRUE)
+
+# Read each TSV file into a dataframe and store in a list
+Trial_events_a <- map(Trial_events_files, read_tsv)
+
+
+
+# Bind all dataframes in the list into a single dataframe
+Trial_events_A <- bind_rows(Trial_events_a)
+
+# Save the combined dataframe to a TSV file
+write_csv(Trial_events_A, "E:/Individual recognition/Individual Recognition R Project/Trial_events_A.csv")
+
+# Print a message indicating the file has been saved (optional)
+print(paste("Combined dataframe has been saved to", "Trial_events_A.csv"))
+
+
+```
+
+
+#data check
+```{r}
+Trial_events_A <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_A.csv")
+
+unique(Trial_events_A$Focal)
+unique(Trial_events_A$`Observation id`)
+
+# Check the unique values by two different categories (Focal and Call type)
+unique_values <- Trial_events_A %>%
+  select("Focal", "Call type","Treatment") %>%
+  distinct()
+# Print the unique values
+print(unique_values, n=218)
+```
+
+# rename variables to have no confounding words by including a _ 
+
+```{r}
+
+
+Trial_events_A <-Trial_events_A %>% 
+  rename("Observation_id"= "Observation id",
+         "Observation_date" = "Observation date",
+         "Observation_type" = "Observation type",
+         "Media_duration_s"="Media duration (s)",
+         "Image_index" = "Image index",
+         "Call_type" = "Call type",
+         "Observation_duration"= "Observation duration",
+         "Closest_Diatance"="Closeset distance",
+         "Behavioural_Category"= "Behavioral category",
+         "Modifier_1"= "Modifier #1",
+         "Behaviour_type"="Behavior type",
+         "Timestamp" = "Media file name",
+         "Image_file_path"= "Image file path"
+         )
+
+
+Trial_events_A <-Trial_events_A %>% 
+  rename(
+         "Timestamp" = "Media_file_name",
+         
+         )
+
+write_csv(Trial_events_A, "E:/Individual recognition/Individual Recognition R Project/Trial_events_A.csv")
+
+```
+
+
+# clean unnecessary columns 
+
+```{r}
+# remove columns (Observation_date 2, Description 3, Observation_type 5, Source 6, FPS 8, Date 11, Time 12,Position 13, Site 15, Subject 19, Image_index 25)
+
+# add Behaviour type (state or Point event), and phase (silence beginning, interval, silence end)
+Trial_events_A <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_A.csv")
+
+for (i in Trial_events_A) {
+  
+}
+Trial_events_B<-Trial_events_A %>% 
+  select(-Observation_date,
+         -Description,
+         -Observation_type,
+         -Source,
+         -FPS,
+         -Date,
+         -Time,
+         -Position,
+         -Site,
+         -Image_index,
+         -Subject,
+         -Comment,
+         -...27
+         )
+
+summary(Trial_events_B)
+
+write_csv(Trial_events_B, "E:/Individual recognition/Individual Recognition R Project/Trial_events_B.csv")
+```
+
+
+# separate the observation ID into two columns, OBSID and date
+# change time format in timestamp column from number of seconds to mm:ss
+```{r}
+# Load the tidyverse package
+library(tidyverse)
+Trial_events_B <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_B.csv")
+
+# Separate the Observation_id into different parts based on "_" delimiter
+Trial_events_C <- Trial_events_B %>%
+  separate(Observation_id, into = c("Focal", "Treatment", "Date", "Time"), sep = "_", remove = FALSE) %>%
+  mutate(
+    Observation_date = as.Date(Date, format = "%d%m%Y"),
+    Observation_start = str_replace(Time, "^(\\d{2})(\\d{2})$", "\\1:\\2")
+  ) %>%
+  select(-Date, -Time)  # Optionally remove the intermediate columns
+
+# Display the updated dataframe
+print(Trial_events_C)
+
+write_csv(Trial_events_C, "E:/Individual recognition/Individual Recognition R Project/Trial_events_C.csv")
+
+
+```
+
+#convert timestamp to mm:ss
+```{r}
+library(tidyverse)
+Trial_events_C <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_C.csv")
+
+# Convert Timestamp to mm:ss format
+Trial_events_D <- Trial_events_C %>%
+  mutate(
+    # Calculate minutes and seconds
+    minutes = floor(Timestamp / 60),
+    seconds = Timestamp %% 60,
+    # Format minutes and seconds as mm:ss
+    Timestamp_mmss = str_c(
+      str_pad(minutes, width = 2, pad = "0"),
+      ":",
+      str_pad(floor(seconds), width = 2, pad = "0")
+    )
+  )
+
+print(Trial_events_D)
+
+write_csv(Trial_events_D, "E:/Individual recognition/Individual Recognition R Project/Trial_events_D.csv")
+
+```
+
+#convert all durations to mmss
+```{r}
+library(tidyverse)
+
+Trial_events_C <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_C.csv") 
+
+# Function to convert seconds to mm:ss format
+convert_to_mmss <- function(seconds) {
+  minutes <- floor(seconds / 60)
+  seconds <- seconds %% 60
+  str_c(
+    str_pad(minutes, width = 2, pad = "0"),
+    ":",
+    str_pad(floor(seconds), width = 2, pad = "0")
+  )
+}
+
+# Convert Timestamp, observation_duration, and Media_duration to mm:ss format
+Trial_events_E <- Trial_events_C %>%
+  mutate(
+    Timestamp_mmss = convert_to_mmss(Timestamp),
+    Observation_duration_mmss = convert_to_mmss(Observation_duration),
+    Media_duration_mmss = convert_to_mmss(Media_duration_s)
+  ) %>%
+  select(-Timestamp, -Observation_duration, -Media_duration_s) %>%
+  rename(
+    Timestamp = Timestamp_mmss,
+    Observation_duration = Observation_duration_mmss,
+    Media_duration_s = Media_duration_mmss
+  )
+
+print(Trial_events_E)
+
+write_csv(Trial_events_E, "E:/Individual recognition/Individual Recognition R Project/Trial_events_E.csv")
+```
+
+# for trial by event files
+
+#define phases as a) silence beginning, interval and silence end b) Habituation
+# c) dishabituation #remove unnecessary columns #for each file, calculate
+# 1 - duration of each state event type by phase \# 2 - number of point
+#events by type \# 3 - latency of vocal response in each phase \# 4 -
+#latency of first gaze at speaker in each phase \# 5 - transition from
+#one state to the next in each phase
+
+# define playback phases
+```{r}
+
+Trial_events_E <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_E.csv")
+# Load the necessary library
+library(dplyr)
+
+# Print the first few rows of the dataframe to check the contents
+head(Trial_events_E)
+
+# Ensure there are no leading/trailing spaces in the columns
+Trial_events_F <- Trial_events_E %>%
+  mutate(
+    Behaviour = trimws(Behaviour),
+    Behaviour_type = trimws(Behaviour_type)
+  )
+
+# Create the Phase column based on the conditions
+Trial_events_F <- Trial_events_F %>%
+  mutate(Phase = case_when(
+    Behaviour == "Hab" & Behaviour_type == "START" ~ "Habituation",
+    Behaviour == "Hab" & Behaviour_type == "STOP" ~ "Habituation",
+    Behaviour == "Dhb" & Behaviour_type == "START" ~ "Dishabituation",
+      Behaviour == "Dhb" & Behaviour_type == "STOP" ~ "Dishabituation",
+    TRUE ~ "NA"
+  ))
+
+# Print the first few rows to check the result
+head(Trial_events_F)
+
+write_csv(Trial_events_F, "E:/Individual recognition/Individual Recognition R Project/Trial_events_F.csv")
+
+```
+
+
+
+# calculate phase duration and count point events per phase then their rate
+
+```{r}
+
+library(tidyverse)
+
+
+Trial_events_G <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_G.csv")
+
+library(dplyr)
+library(tidyr)
+library(lubridate)
+
+# Convert Time_stamp to seconds
+convert_to_seconds <- function(time_str) {
+  if (is.na(time_str)) return(NA)
+  parts <- unlist(strsplit(time_str, ":"))
+  if (length(parts) != 2) return(NA)
+  as.numeric(parts[1]) * 60 + as.numeric(parts[2])
+}
+
+# Convert Time_stamp to seconds
+Trial_events_G <- Trial_events_G %>%
+  mutate(Time_seconds = sapply(Time_stamp, convert_to_seconds))
+
+# Calculate Phase Duration
+phase_duration_corrected <- Trial_events_G %>%
+  group_by(Observation_id, Phase) %>%
+  summarise(
+    Phase_Start = min(Time_seconds, na.rm = TRUE),
+    Phase_End = max(Time_seconds, na.rm = TRUE),
+    Phase_Duration_s = Phase_End - Phase_Start,
+    .groups = "drop"
+  )
+
+# Merge Phase Durations Back into the Main Dataset
+Trial_events_G <- Trial_events_G %>%
+  left_join(phase_duration_corrected, by = c("Observation_id", "Phase"))
+
+# Calculate Point Events Summary
+point_events_summary <- Trial_events_G %>%
+  filter(Behaviour_type == "POINT") %>%
+  group_by(Observation_id, Phase, Behaviour, Behavioural_category, Modifier) %>%
+  summarise(
+    Count = n(),
+    Phase_Duration_s = first(Phase_Duration_s),  # Include Phase Duration in the summary
+    Rate_per_Phase_Duration = Count / Phase_Duration_s,
+    .groups = "drop"
+  )
+
+write_csv(point_events_summary, "E:/Individual recognition/Individual Recognition R Project/point_events_summary.csv")
+
+
+
+
+```
+
+
+# calculate total duration for each behaviour modifier combination over the whole trial
+
+
+
+```{r}
+library(tidyverse)
+
+
+Trial_events_G <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_G.csv")
+
+library(dplyr)
+library(tidyr)
+library(lubridate)
+
+
+
+# Calculate Duration of Time-Based Behaviours
+time_based_behaviours <- Trial_events_G %>%
+  filter(Behaviour_type %in% c("START", "STOP")) %>%
+  group_by(Observation_id, Phase, Behaviour, Behavioural_category, Modifier) %>%
+  arrange(Observation_id, Phase, Behaviour, Modifier, Time_seconds) %>%
+  nest() %>%
+  mutate(
+    Duration_in_Phase_s = map_dbl(data, function(df) {
+      start_times <- df$Time_seconds[df$Behaviour_type == "START"]
+      stop_times <- df$Time_seconds[df$Behaviour_type == "STOP"]
+      if (length(start_times) == 0 | length(stop_times) == 0) return(NA)
+      
+      durations <- sapply(start_times, function(start_time) {
+        matching_stops <- stop_times[stop_times > start_time]
+        if (length(matching_stops) == 0) return(NA)
+        matching_stops[1] - start_time
+      })
+      
+      sum(durations, na.rm = TRUE)
+    })
+  ) %>%
+  select(-data)
+
+# Calculate Proportions of Time-Based Behaviours Spanning Multiple Phases
+proportion_summary <- time_based_behaviours %>%
+  group_by(Observation_id, Behaviour,  Behavioural_category, Modifier) %>%
+  summarise(
+    Total_Duration_s = sum(Duration_in_Phase_s, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+
+write_csv(final_dataset, "E:/Individual recognition/Individual Recognition R Project/tfinal_dataset.csv")
+
+```
+
+#calculate the proportion of each behaviour modifier combination per phase - works but results are incorrect- if pushed check how they are inaccurate and try to work it out
+
+
+```{r}
+
+
+library(tidyverse)
+Trial_events_G <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_G.csv")
+
+library(dplyr)
+library(tidyr)
+library(lubridate)
+
+# Convert Time_stamp to seconds
+convert_to_seconds <- function(time_str) {
+  if (is.na(time_str)) return(NA)
+  parts <- unlist(strsplit(time_str, ":"))
+  if (length(parts) != 2) return(NA)
+  as.numeric(parts[1]) * 60 + as.numeric(parts[2])
+}
+
+# Convert Time_stamp to seconds
+Trial_events_G <- Trial_events_G %>%
+  mutate(Time_seconds = sapply(Time_stamp, convert_to_seconds))
+
+# Calculate Duration for Each Behaviour Modifier Combination During the Whole Observation
+calculate_duration_per_observation <- function(df) {
+  df %>%
+    arrange(Time_seconds) %>%
+    group_by(Observation_id, Behaviour, Modifier) %>%
+    summarise(
+      Behaviour_duration = sum(Time_seconds[Behaviour_type == "STOP"] - Time_seconds[Behaviour_type == "START"], na.rm = TRUE),
+      .groups = "drop"
+    )
+}
+
+# Apply the function
+behaviour_duration_observation <- Trial_events_G %>%
+  filter(Behaviour_type %in% c("START", "STOP")) %>%
+  calculate_duration_per_observation()
+
+# Calculate Phase Duration
+phase_duration <- Trial_events_G %>%
+  group_by(Observation_id, Phase) %>%
+  summarise(
+    Phase_Start = min(Time_seconds, na.rm = TRUE),
+    Phase_End = max(Time_seconds, na.rm = TRUE),
+    Phase_Duration_s = Phase_End - Phase_Start,
+    .groups = "drop"
+  )
+
+# Merge Phase Durations Back into the Main Dataset
+Trial_events_G <- Trial_events_G %>%
+  left_join(phase_duration, by = c("Observation_id", "Phase"))
+
+# Calculate Behaviour Duration Within Each Phase
+calculate_duration_per_phase <- function(df) {
+  df %>%
+    arrange(Time_seconds) %>%
+    group_by(Observation_id, Phase, Behaviour, Modifier) %>%
+    summarise(
+      Phase_Behaviour_Duration = sum(Time_seconds[Behaviour_type == "STOP"] - Time_seconds[Behaviour_type == "START"], na.rm = TRUE),
+      .groups = "drop"
+    )
+}
+
+# Apply the function
+behaviour_duration_phase <- Trial_events_G %>%
+  filter(Behaviour_type %in% c("START", "STOP")) %>%
+  calculate_duration_per_phase()
+
+# Calculate Proportion of Behaviour Duration by Phase
+proportion_summary <- behaviour_duration_phase %>%
+  left_join(phase_duration, by = c("Observation_id", "Phase")) %>%
+  mutate(
+    Proportion_by_Phase = Phase_Behaviour_Duration / Phase_Duration_s
+  ) %>%
+  select(Observation_id, Phase, Behaviour, Modifier, Phase_Behaviour_Duration, Phase_Duration_s, Proportion_by_Phase)
+
+# Merge All Results
+final_dataset <- behaviour_duration_observation %>%
+  left_join(proportion_summary, by = c("Observation_id", "Behaviour", "Modifier"))
+
+# View the final dataset
+View(final_dataset)
+
+
+
+
+```
+
+
+
+
+#Total durations per obs - works
+
+```{r}
+
+library(tidyverse)
+Trial_events_G <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_G.csv")
+library(dplyr)
+library(lubridate)
+
+# Function to convert mm:ss to seconds
+convert_to_seconds <- function(time_str) {
+  if (is.na(time_str)) return(NA)
+  parts <- unlist(strsplit(time_str, ":"))
+  if (length(parts) != 2) return(NA)
+  as.numeric(parts[1]) * 60 + as.numeric(parts[2])
+}
+
+# Add a Time_seconds column to the dataset
+Trial_events_G <- Trial_events_G %>%
+  mutate(Time_seconds = sapply(Time_stamp, convert_to_seconds))
+
+# Function to calculate durations of behaviours for each combination of Behaviour and Modifier
+calculate_durations <- function(df) {
+  durations <- numeric()
+  start_times <- numeric()
+  stop_times <- numeric()
+  
+  # Filter and sort rows by Time_seconds to ensure sequential processing
+  df <- df %>%
+    filter(Behaviour_type %in% c("START", "STOP")) %>%
+    arrange(Time_seconds)
+  
+  for (i in seq_len(nrow(df))) {
+    if (df$Behaviour_type[i] == "START") {
+      start_times <- c(start_times, df$Time_seconds[i])
+    } else if (df$Behaviour_type[i] == "STOP" && length(start_times) > 0) {
+      # Pair the first start time with the first available stop time
+      stop_time <- df$Time_seconds[i]
+      start_time <- start_times[1]
+      durations <- c(durations, stop_time - start_time)
+      # Remove the used start time
+      start_times <- start_times[-1]
+    }
+  }
+  
+  # Return the total duration for the behaviour modifier combination
+  sum(durations, na.rm = TRUE)
+}
+
+# Calculate the duration for each unique Behaviour and Modifier combination during the whole observation
+behaviour_durations <- Trial_events_G %>%
+  group_by(Observation_id, Behaviour, Modifier) %>%
+  summarise(
+    Behaviour_duration = calculate_durations(pick(everything())),
+    .groups = "drop"
+  )
+
+# Add Behaviour_duration_by_Obs column by summing durations for the same combination per observation
+behaviour_durations_by_obs <- behaviour_durations %>%
+  group_by(Observation_id, Behaviour, Modifier) %>%
+  summarise(
+    Behaviour_duration_by_Obs = sum(Behaviour_duration, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+# Merge the duration summaries back into the main dataset
+Trial_events_G <- Trial_events_G %>%
+  left_join(behaviour_durations_by_obs, by = c("Observation_id", "Behaviour", "Modifier"))
+
+write_csv(Trial_events_G, "E:/Individual recognition/Individual Recognition R Project/Trial_events_H.csv")
+
+
+
+
+```
+
+
+# 
+```{r}
+
+
+library(tidyverse)
+Trial_events_G <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_G.csv")
+
+
+write_csv(behaviour_durations_by_phase, "E:/Individual recognition/Individual Recognition R Project/behaviour_durations_by_phase.csv")
+
+```
+
+#########################################################################################
+
+# attempt at a fix and calculation of proportions - works until behaviour durations
+```{r}
+Trial_events_G <- read.csv ("E:/Individual recognition/Individual Recognition R Project/Trial_events_G.csv")
+library(dplyr)
+library(tidyr)
+library(lubridate)
+
+# Function to calculate durations by phase for each Observation
+calculate_durations <- function(data) {
+  # Convert Observation_duration from mm:ss to numeric (in seconds)
+  data <- data %>%
+    mutate(
+      Observation_duration = as.numeric(period_to_seconds(hms(Observation_duration))),
+      
+      # Convert Time_stamp from mm:ss to seconds
+      Time_stamp = as.numeric(period_to_seconds(hms(Time_stamp)))
+    )
+  
+  # Initialize an empty list to store results
+  results <- list()
+  
+  # Loop through each observation
+  for (obs in unique(data$Observation_id)) {
+    obs_data <- data %>% filter(Observation_id == obs)
+    
+    # Loop through each behaviour and modifier combination
+    for (beh in unique(obs_data$Behaviour)) {
+      for (mod in unique(obs_data$Modifier)) {
+        
+        # Subset the data for this combination
+        beh_mod_data <- obs_data %>%
+          filter(Behaviour == beh, Modifier == mod) %>%
+          arrange(Time_stamp)  # Sort by time
+        
+        # Initialize placeholders for open events
+        open_event <- NULL
+        
+        # Loop through each phase in order
+        for (phase in unique(beh_mod_data$Phase)) {
+          phase_data <- beh_mod_data %>% filter(Phase == phase)
+          
+          # Initialize phase duration
+          phase_duration <- 0
+          
+          # Identify start and stop events
+          starts <- phase_data %>% filter(Behaviour_type == "START")
+          stops <- phase_data %>% filter(Behaviour_type == "STOP")
+          
+          if (nrow(starts) > 0) {
+            # If there are starts, take the first start as the open event
+            open_event <- starts[1,]
+          }
+          
+          if (nrow(stops) > 0) {
+            # If there are stops, calculate duration between start and stop
+            stop_time <- min(stops$Time_stamp, na.rm = TRUE)
+            
+            if (!is.null(open_event) && !is.infinite(stop_time)) {
+              # Calculate duration for this phase
+              duration <- stop_time - open_event$Time_stamp
+              
+              if (!is.na(duration) && duration > 0) {
+                phase_duration <- phase_duration + duration
+              }
+              
+              # Close the open event
+              open_event <- NULL
+            }
+          } else if (!is.null(open_event)) {
+            # If there's no stop in the phase, use the end of the phase for the duration
+            phase_end_time <- max(phase_data$Time_stamp, na.rm = TRUE)
+            
+            if (!is.infinite(phase_end_time)) {
+              duration <- phase_end_time - open_event$Time_stamp
+              
+              if (!is.na(duration) && duration > 0) {
+                phase_duration <- phase_duration + duration
+              }
+            }
+          }
+          
+          # Append results if duration is greater than 0
+          if (phase_duration > 0) {
+            results[[length(results) + 1]] <- data.frame(
+              Observation_id = obs,
+              Behaviour = beh,
+              Modifier = mod,
+              Phase = phase,
+              Duration_by_phase = phase_duration
+            )
+          }
+        }
+      }
+    }
+  }
+  
+  # Combine the list into a single dataframe
+  behaviour_durations_by_phase <- do.call(rbind, results)
+  
+  # Ensure the dataframe is not empty
+  if (nrow(behaviour_durations_by_phase) == 0) {
+    stop("No durations were calculated. Check your input data or logic.")
+  }
+  
+  return(behaviour_durations_by_phase)
+}
+
+# Apply the function to calculate durations
+behaviour_durations_by_phase <- calculate_durations(Trial_events_G)
+
+
+
+
+
+```
+
+#check the outcome
+
+```{r}
+
+
+
+```
+
+
+Time budget
+
+
+# rename observation_id as file name
+```{r}
+
+
+
+library(dplyr)
+library(readr)
+library(stringr)
+library(purrr)
+
+# Define the directory containing the TSV files
+input_dir_budget <- "E:/Individual recognition/Individual Recognition R Project/Time budget output"
+
+# List all TSV files in the directory
+tsv_files_budget <- list.files(input_dir, pattern = "\\.tsv$", full.names = TRUE)
+
+# Function to update the Observation_id column
+update_observation_id <- function(file_path_budget) {
+  # Read the TSV file
+  df_budget <- read_tsv(file_path_budget)
+  
+  # Extract the file name without extension
+  file_name_budget <- str_remove(basename(file_path_budget), "\\.tsv$")
+  
+  # Update the Observation_id column
+  df_budget <- df_budget %>%
+    mutate("Observation id" = file_name_budget)
+  
+  # Save the modified dataframe back to the file
+  write_tsv(df_budget, file_path_budget)
+  
+  # Print message
+  print(paste("Updated Observation_id in file:", file_path_budget))
+}
+
+# Apply the function to each TSV file
+walk(tsv_files_budget, update_observation_id)
+
+```
+
+
+## Rename the Blind code files to their original names
+```{r}
+for (file_path_budget in files_budget) {
+  # Extract the file name without the path
+  #print(paste("file path is", file_path))
+  file_path_budget <- paste("/", file_path_budget, sep = "")
+  file_path_budget <- paste(folder_path_budget, file_path_budget, sep = "")
+  print(paste("file path is", file_path_budget))
+
+  file_name_budget <- basename(file_path_budget)
+  #print(paste("file name is", file_name))
+  # Check if the file name exists in the Blind_code column
+  matched_row <- data %>% filter(Blind_code == file_name_budget)
+  
+  if (nrow(matched_row) == 1) {
+    # Get the corresponding Original_code
+    new_name_budget <- matched_row$Original_code
+    
+    # Define the new file path
+    new_file_path_budget <- file.path(folder_path_budget, new_name_budget)
+    # print(paste("new_file_path is", new_file_path))
+    # Rename the file
+    file.rename(file_path_budget, new_file_path_budget)
+  } else {
+    print(paste("No match found for:", file_name_budget))
+  }
+}
+
+
+```
+
+compare files before and after renaminig, choose random files from the list of names
+
+```{r}
+library(dplyr)
+library(readr)
+library(purrr)
+
+# Define the paths to the two TSV files
+file1_path <- "E:/Individual recognition/Individual Recognition R Project/Trial events output1/YQ35.tsv"
+file2_path <- "E:/Individual recognition/Individual Recognition R Project/Trial events output/Rubezahl_FRF_29102022_1043.tsv"
+
+# Read the TSV files
+df1 <- read_tsv(file1_path)
+df2 <- read_tsv(file2_path)
+
+# Compare dimensions of the dataframes
+if (!all(dim(df1) == dim(df2))) {
+  stop("The files have different dimensions and cannot be identical.")
+}
+
+# Function to compare two columns with NA handling
+compare_columns <- function(col1, col2) {
+  equal <- (col1 == col2) | (is.na(col1) & is.na(col2))
+  equal[is.na(equal)] <- FALSE  # Handle cases where comparison is NA
+  return(equal)
+}
+
+# Compare the contents of the dataframes
+comparison <- map2(df1, df2, compare_columns)
+
+# Check if all comparisons are TRUE
+if (all(map_lgl(comparison, all))) {
+  print("The files are identical.")
+} else {
+  # Identify and print the differing cells
+  differing_cells <- bind_rows(
+    map2(df1, df2, ~{
+      diff <- .x != .y & !(is.na(.x) & is.na(.y))
+      diff_rows <- which(diff)
+      data.frame(
+        Row = diff_rows,
+        Column = names(df1)[colnames(df1) == .x],
+        File1_Value = .x[diff_rows],
+        File2_Value = .y[diff_rows]
+      )
+    })
+  )
+  
+  print("The files differ at the following cells:")
+  print(differing_cells)
+}
+```
+
+
+file comparison loop with output results written in a file
+
+```{r}
+library(dplyr)
+library(readr)
+library(purrr)
+
+# Define the paths to the folders
+source_folder <- "E:/Individual recognition/Individual Recognition R Project/Trial events output"
+destination_folder <- "E:/Individual recognition/Individual Recognition R Project/Trial events output_Orig"
+
+# Read the CSV file containing old and new names
+name_mapping <- data
+
+# Define the path to the output results file
+output_file_path <- "comparison_results.csv"
+
+
+# Initialize a list to store the comparison results
+results_list <- list()
+
+# Function to compare two columns with NA handling
+compare_columns <- function(col1, col2) {
+  equal <- (col1 == col2) | (is.na(col1) & is.na(col2))
+  equal[is.na(equal)] <- FALSE  # Handle cases where comparison is NA
+  return(equal)
+}
+
+# Function to compare two dataframes and return the differing cells
+compare_dataframes <- function(df1, df2) {
+  comparison <- map2(df1, df2, compare_columns)
+  differing_cells <- bind_rows(
+    map2(df1, df2, ~{
+      diff <- .x != .y & !(is.na(.x) & is.na(.y))
+      diff_rows <- which(diff)
+      if (length(diff_rows) > 0) {
+        data.frame(
+          Row = diff_rows,
+          Column = names(df1)[which(names(df1) == .y)],
+          File1_Value = .x[diff_rows],
+          File2_Value = .y[diff_rows]
+        )
+      } else {
+        NULL
+      }
+    })
+  )
+  return(differing_cells)
+}
+
+# Iterate through each row of the name mapping
+for (i in seq_len(nrow(name_mapping))) {
+  old_name <- name_mapping$Original_code[i]
+  new_name <- name_mapping$Blind_code[i]
+
+  # Construct the file paths
+  source_file_path <- file.path(source_folder, old_name)
+  destination_file_path <- file.path(destination_folder, new_name)
+
+  # Check if both files exist
+  if (file.exists(source_file_path) & file.exists(destination_file_path)) {
+    # Read the TSV files
+    df1 <- read_tsv(source_file_path)
+    df2 <- read_tsv(destination_file_path)
+
+    # Compare dimensions of the dataframes
+    if (!all(dim(df1) == dim(df2))) {
+      message <- paste("The files", old_name, "and", new_name, "have different dimensions and cannot be identical.")
+      print(message)
+      results_list <- append(results_list, list(data.frame(Old_File = old_name, New_File = new_name, Message = message)))
+    } else {
+      # Compare the contents of the dataframes
+      differing_cells <- compare_dataframes(df1, df2)
+      if (nrow(differing_cells) == 0) {
+        message <- paste("The files", old_name, "and", new_name, "are identical.")
+        print(message)
+        results_list <- append(results_list, list(data.frame(Old_File = old_name, New_File = new_name, Message = message)))
+      } else {
+        message <- paste("The files", old_name, "and", new_name, "differ at the following cells:")
+        print(message)
+        print(differing_cells)
+        differing_cells <- mutate(differing_cells, Old_File = old_name, New_File = new_name)
+        results_list <- append(results_list, list(differing_cells))
+      }
+    }
+  } else {
+    if (!file.exists(source_file_path)) {
+      message <- paste("The source file", source_file_path, "does not exist.")
+      print(message)
+      results_list <- append(results_list, list(data.frame(Old_File = old_name, New_File = new_name, Message = message)))
+    }
+    if (!file.exists(destination_file_path)) {
+      message <- paste("The destination file", destination_file_path, "does not exist.")
+      print(message)
+      results_list <- append(results_list, list(data.frame(Old_File = old_name, New_File = new_name, Message = message)))
+    }
+  }
+}
+
+# Combine all results into a single dataframe
+results_df <- bind_rows(results_list)
+
+# Write the results to a CSV file
+write_csv(results_df, output_file_path)
+
+print(paste("Comparison results have been written to", output_file_path))
+```
+
+# rename observation_id as file name
+```{r}
+library(dplyr)
+library(readr)
+library(stringr)
+library(purrr)
+
+# Define the directory containing the TSV files
+input_dir_events <- "E:/Individual recognition/Individual Recognition R Project/Trial events output"
+
+# List all TSV files in the directory
+tsv_files_events <- list.files(input_dir_events, pattern = "\\.tsv$", full.names = TRUE)
+
+# Function to update the Observation_id column
+update_observation_id <- function(file_path) {
+  # Read the TSV file
+  df_events <- read_tsv(file_path)
+  
+  # Extract the file name without extension
+  file_name_events <- str_remove(basename(file_path), "\\.tsv$")
+  
+  # Update the Observation_id column
+  df_events <- df_events %>%
+    mutate(`Observation id`= file_name_events)
+  
+  # Save the modified dataframe back to the file
+  write_tsv(df_events, file_path)
+  
+  # Print message
+  print(paste("Updated Observation_id in file:", file_path))
+}
+
+# Apply the function to each TSV file
+walk(tsv_files_events, update_observation_id)
+
+```
+
+
+
+# load data as a list and bind rowwise
+
+```{r}
+library(dplyr)
+library(readr)
+library(purrr)
+
+# Define the path to the folder containing the TSV files
+Trial_events <- "E:/Individual recognition/Individual Recognition R Project/Trial events output"
+
+# List all .tsv files in the folder
+Trial_events_files <- list.files(path = Trial_events, pattern = "\\.tsv$", full.names = TRUE)
+
+# Read each TSV file into a dataframe and store in a list
+Trial_events_a <- map(Trial_events_files, read_tsv)
+
+
+
+# Bind all dataframes in the list into a single dataframe
+Trial_events_A <- bind_rows(Trial_events_a)
+
+# Save the combined dataframe to a TSV file
+write_csv(Trial_events_A, "E:/Individual recognition/Individual Recognition R Project/Trial_events_A.csv")
+
+# Print a message indicating the file has been saved (optional)
+print(paste("Combined dataframe has been saved to", "Trial_events_A.csv"))
+
+
+```
+
+
+#data check
+```{r}
+unique(Trial_events_A$Focal)
+unique(Trial_events_A$`Observation id`)
+
+# Check the unique values by two different categories (Focal and Call type)
+unique_values <- Trial_events_A %>%
+  select("Focal", "Call type","Treatment") %>%
+  distinct()
+# Print the unique values
+print(unique_values, n=218)
+```
+
+# rename variables to have no confounding words by including a _ 
+
+```{r}
+
+
+Trial_events_A <-Trial_events_A %>% 
+  rename("Observation_id"= "Observation id",
+         "Observation_date" = "Observation date",
+         "Observation_type" = "Observation type",
+         "Media_duration_s"="Media duration (s)",
+         "Image_index" = "Image index",
+         "Call_type" = "Call type",
+         "Observation_duration"= "Observation duration",
+         "Closest_Diatance"="Closeset distance",
+         "Behavioural_Category"= "Behavioral category",
+         "Modifier_1"= "Modifier #1",
+         "Behaviour_type"="Behavior type",
+         "Media_file_name" = "Media file name",
+         "Image_file_path"= "Image file path"
+         )
+
+write_csv(Trial_events_A, "E:/Individual recognition/Individual Recognition R Project/Trial_events_A.csv")
+
+```
+
+
+# clean unnecessary columns 
+
+```{r}
+# remove columns (Observation_date 2, Description 3, Observation_type 5, Source 6, FPS 8, Date 11, Time 12,Position 13, Site 15, Subject 19, Image_index 25)
+
+# add Behaviour type (state or Point event), and phase (silence beginning, interval, silence end)
+for (i in Trial_events_A) {
+  
+}
+Trial_events_B %>% 
+  select(-Observation_date,
+         -Description,
+         -Observation_type,
+         -Source,
+         -FPS,
+         -Date,
+         -Time,
+         -Position,
+         -Site,
+         -Image_index,
+         no_song,
+         no_chase,
+         no_flights)
+
+summary(Trial_events_B)
+
+```
+
+#extract the total time investment of each Behaviour type (sate or point event) per individual
+
+## DFA
+
+```{r}
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to
+prevent printing of the R code that generated the plot.
+
+
+
+#save workspace image
+```{r}
+
+##### saving the workspace
+
+save.image("E:/Individual recognition/Individual Recognition R Project/Individual _Recognition_markdown_workspace_2.RData")
+
+```
+

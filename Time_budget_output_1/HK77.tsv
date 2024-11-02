@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Ass	Kin	1	541.64	541.64	NA	NA	NA	79.1
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Fllw		0	NA	NA	NA	NA	NA	NA
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Mov	Away from speaker	8	74.875	9.359	6.729	82.446	196.369	10.9
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Dhb		1	246.52	246.52	NA	NA	NA	36.0
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Hab		1	246.32	246.32	NA	NA	NA	36.0
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Look	At speaker	26	NA	NA	NA	26.965	50.538	NA
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Look	Away from speaker	91	NA	NA	NA	6.938	13.341	NA
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Voc	Contact	26	NA	NA	NA	25.234	29.171	NA
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	HSH		3	NA	NA	NA	265.58	96.138	NA
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Htlt		3	NA	NA	NA	72.74	19.035	NA
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	FVO	Distance	11	NA	NA	NA	29.164	26.34	NA
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Eat	Alone	5	59.995	11.999	11.121	16.201	13.514	8.8
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Eat	With kin	11	344.829	31.348	34.992	16.985	29.083	50.4
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Pre	Alone	1	2.639	2.639	NA	NA	NA	0.4
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Pre	With kin	1	4.639	4.639	NA	NA	NA	0.7
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Rst		0	0.0	NA	NA	NA	NA	0.0
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Vig	Mid neck	18	174.145	9.675	8.073	29.615	33.425	25.4
+HK77	2024-02-2415:34:05.000	Hera_FRP_09112022_0950.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Recruitment	1m	0.000	684.480	684.480	No focal subject	Vig	Long neck	4	67.198	16.8	21.096	120.92	153.905	9.8

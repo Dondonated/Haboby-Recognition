@@ -1,0 +1,18 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Ass	Kin	1	742.08	742.08	NA	NA	NA	100.0
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Fllw	Kin	1	NA	NA	NA	NA	NA	NA
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Mov	Away from speaker	1	20.639	20.639	NA	NA	NA	2.8
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Dhb		1	243.72	243.72	NA	NA	NA	32.8
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Hab		1	242.8	242.8	NA	NA	NA	32.7
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Look	Away from speaker	8	NA	NA	NA	61.966	121.569	NA
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Look	At speaker	4	NA	NA	NA	114.373	140.995	NA
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Voc	Contact	1	NA	NA	NA	NA	NA	NA
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	HSH		2	NA	NA	NA	32.92	NA	NA
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Htlt		3	NA	NA	NA	169.94	232.412	NA
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	FVO	Other	1	NA	NA	NA	NA	NA	NA
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Eat		0	0.0	NA	NA	NA	NA	0.0
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Pre	With kin	2	41.2	20.6	16.631	28.4	NA	5.6
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Rst	With kin	2	656.919	328.46	56.936	85.161	NA	88.5
+CS40	2024-01-0319:55:18.000	Bernard_FC_09102022_0944.MP4	Bernard	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.000	742.080	742.080	No focal subject	Vig	Short Neck	2	19.32	9.66	1.782	18.4	NA	2.6

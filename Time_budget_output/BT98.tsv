@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Ass	Kin	1	742.28	742.28	NA	NA	NA	100.0
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Fllw		0	NA	NA	NA	NA	NA	NA
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Mov		0	0.0	NA	NA	NA	NA	0.0
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Dhb		1	244.28	244.28	NA	NA	NA	32.9
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Hab		1	256.6	256.6	NA	NA	NA	34.6
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Look	At speaker	17	NA	NA	NA	44.92	59.85	NA
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Look	Away from speaker	14	NA	NA	NA	48.726	92.909	NA
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Voc	Distance	1	NA	NA	NA	NA	NA	NA
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Voc	Contact	4	NA	NA	NA	13.68	12.372	NA
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	HSH		7	NA	NA	NA	41.207	28.049	NA
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Htlt		6	NA	NA	NA	128.992	106.968	NA
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	FVO		0	NA	NA	NA	NA	NA	NA
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Eat		0	0.0	NA	NA	NA	NA	0.0
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Pre	With kin	3	19.677	6.559	3.109	55.641	68.618	2.7
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Rst	With kin	6	639.515	106.586	118.141	20.553	19.3	86.2
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Vig	Short Neck	1	12.04	12.04	NA	NA	NA	1.6
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Vig	Long neck	2	22.838	11.419	2.8	3.321	NA	3.1
+BT98	2023-12-3122:30:59.000	Hera_FRP_24102022_1044.MP4	Hera	FRP		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	1m	0.760	743.040	742.280	No focal subject	Vig	Mid neck	4	47.676	11.919	11.026	61.294	84.938	6.4

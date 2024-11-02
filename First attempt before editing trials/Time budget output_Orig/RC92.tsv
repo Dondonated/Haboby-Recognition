@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Ass	Kin	1	744.96	744.96	NA	NA	NA	100.0
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Fllw		0	NA	NA	NA	NA	NA	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Agn	Towards other	5	NA	NA	NA	0.0	0.0	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Mov		0	NA	NA	NA	NA	NA	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Dhb		1	242.44	242.44	NA	NA	NA	32.5
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Hab		1	249.84	249.84	NA	NA	NA	33.5
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Look	Away from speaker	23	NA	NA	NA	0.0	0.0	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Look	At speaker	22	NA	NA	NA	0.0	0.0	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Voc	Recruitment	1	NA	NA	NA	NA	NA	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Voc	Contact	28	NA	NA	NA	0.0	0.0	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	HSH		2	NA	NA	NA	0.0	NA	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Htlt		0	NA	NA	NA	NA	NA	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	FVO	Other	12	NA	NA	NA	0.0	0.0	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	FVO	Distance	1	NA	NA	NA	NA	NA	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Eat	With kin	5	721.756	144.351	165.863	NA	NA	96.9
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Pre		0	NA	NA	NA	NA	NA	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Rst		0	NA	NA	NA	NA	NA	NA
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Vig	Mid neck	3	17.677	5.892	4.673	NA	NA	2.4
+RC92	2024-04-1500:26:42		Leia	FRF		2022-09-11T10:00:00	Outer periphery	Overcast	KLF	Departure	1m	0.000	744.960	744.960	No focal subject	Vig	Short Neck	1	5.519	5.519	NA	NA	NA	0.7

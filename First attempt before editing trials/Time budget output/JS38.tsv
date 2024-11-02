@@ -1,0 +1,21 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Ass	Kin	1	754.28	754.28	NA	NA	NA	100.0
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Fllw		0	NA	NA	NA	NA	NA	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Mov		0	NA	NA	NA	NA	NA	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Dhb		1	244.96	244.96	NA	NA	NA	32.5
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Hab		1	246.12	246.12	NA	NA	NA	32.6
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Look	Away from speaker	10	NA	NA	NA	0.0	0.0	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Look	At speaker	10	NA	NA	NA	0.0	0.0	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Voc	Contact	8	NA	NA	NA	0.0	0.0	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Voc	Distance	1	NA	NA	NA	NA	NA	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	HSH		0	NA	NA	NA	NA	NA	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Htlt		2	NA	NA	NA	0.0	NA	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	FVO	Distance	7	NA	NA	NA	0.0	0.0	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	FVO	Other	5	NA	NA	NA	0.0	0.0	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Eat		0	NA	NA	NA	NA	NA	NA
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Pre	With kin	5	70.516	14.103	9.813	NA	NA	9.3
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Rst	With kin	3	633.278	211.093	65.07	NA	NA	84.0
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Vig	Short Neck	6	39.436	6.573	5.7	NA	NA	5.2
+JS38	2024-03-0516:02:54		Joe	FRF		2022-09-11T10:00:00	Inner eriphery	Overcast	KLF	Recruitment	2m	0.760	755.040	754.280	No focal subject	Vig	Mid neck	1	4.759	4.759	NA	NA	NA	0.6

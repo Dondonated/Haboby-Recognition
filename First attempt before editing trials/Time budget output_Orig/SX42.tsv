@@ -1,0 +1,23 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Ass	Kin	1	733.92	733.92	NA	NA	NA	100.0
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Fllw	Kin	4	NA	NA	NA	0.0	0.0	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Agn	Towards other	1	NA	NA	NA	NA	NA	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Mov	Away from speaker	4	51.996	12.999	16.813	NA	NA	7.1
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Dhb		1	243.56	243.56	NA	NA	NA	33.2
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Hab		1	247.04	247.04	NA	NA	NA	33.7
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Look	Away from speaker	38	NA	NA	NA	0.0	0.0	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Look	At speaker	12	NA	NA	NA	0.0	0.0	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Voc	Recruitment	26	NA	NA	NA	0.0	0.0	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Voc	Contact	2	NA	NA	NA	0.0	NA	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	HSH		3	NA	NA	NA	0.0	0.0	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Htlt		0	NA	NA	NA	NA	NA	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	FVO	Other	9	NA	NA	NA	0.0	0.0	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	FVO	Distance	23	NA	NA	NA	0.0	0.0	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	FVO	Recruitment	40	NA	NA	NA	0.0	0.0	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	FVO	Departure	60	NA	NA	NA	0.0	0.0	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Eat	With kin	8	665.433	83.179	142.236	NA	NA	90.7
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Pre		0	NA	NA	NA	NA	NA	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Rst		0	NA	NA	NA	NA	NA	NA
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Vig	Mid neck	6	62.755	10.459	13.134	NA	NA	8.6
+SX42	2024-06-1903:09:14		Anthony	PRF		2022-09-11T10:00:00	Centre	Sunny	KLF	Departure	2m	0.000	733.920	733.920	No focal subject	Vig	Long neck	1	4.039	4.039	NA	NA	NA	0.6

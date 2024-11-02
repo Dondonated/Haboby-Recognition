@@ -1,0 +1,24 @@
+Observation id	Observation date	Description	Focal	Treatment	Date	Time	Position	Weather	Site	Call type	Closeset distance	Time budget start	Time budget stop	Time budget duration	Subject	Behavior	Modifiers	Total number of occurences	Total duration (s)	Duration mean (s)	Duration std dev	inter-event intervals mean (s)	inter-event intervals std dev	% of total length
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Ass	Kin	3	224.04	74.68	46.451	NA	NA	31.9
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Fllw		0	NA	NA	NA	NA	NA	NA
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Agn		0	NA	NA	NA	NA	NA	NA
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Mov	Towards speaker	2	65.759	32.879	42.822	NA	NA	9.4
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Mov	Away from speaker	6	50.836	8.473	3.696	NA	NA	7.2
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Dep		0	NA	NA	NA	NA	NA	NA
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Dhb		1	243.32	243.32	NA	NA	NA	34.7
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Hab		1	250.76	250.76	NA	NA	NA	35.7
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Look	At speaker	43	NA	NA	NA	0.0	0.0	NA
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Look	Away from speaker	64	NA	NA	NA	0.0	0.0	NA
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Voc	Contact	6	NA	NA	NA	0.0	0.0	NA
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	HSH		7	NA	NA	NA	0.0	0.0	NA
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Htlt		7	NA	NA	NA	0.0	0.0	NA
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	FVO	Other	1	NA	NA	NA	NA	NA	NA
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Eat	With kin	6	69.514	11.586	6.541	NA	NA	9.9
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Eat	Alone	7	135.513	19.359	31.642	NA	NA	19.3
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Pre	With kin	1	5.079	5.079	NA	NA	NA	0.7
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Pre	Alone	5	35.515	7.103	3.672	NA	NA	5.1
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Rst	Alone	2	61.518	30.759	27.549	NA	NA	8.8
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Rst	With kin	1	87.52	87.52	NA	NA	NA	12.5
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Vig	Mid neck	8	193.354	24.169	28.618	NA	NA	27.6
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Vig	Long neck	4	17.237	4.309	2.018	NA	NA	2.5
+GP70	2024-02-2321:24:40		Natalie	FC		2022-09-11T10:00:00	Centre	Overcast	KLF	Departure	 2m	0.000	701.760	701.760	No focal subject	Vig	Short Neck	2	12.758	6.379	6.081	NA	NA	1.8
