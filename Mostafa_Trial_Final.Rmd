@@ -45,6 +45,8 @@ Trial_events_G_Filtered <- Trial_events_G %>% group_by(Observation_id, Behaviour
 
 
 ```{r}
+#filtering out the NA Behaviour_type
+
 start_stop_df <- Trial_events_G_Filtered %>%
   filter(Behaviour_type %in% c("START", "STOP")) %>%  # Filter for relevant rows
   group_by(Observation_id, Behaviour, Modifier) %>%
@@ -61,6 +63,7 @@ start_stop_df <- Trial_events_G_Filtered %>%
 ```
 
 ```{r}
+#create df to store the output
 
 output_df <- data.frame(
   Observation_id = character(),
@@ -88,6 +91,8 @@ for (i in 1:nrow(start_stop_df))
     Percentage = ""
   )
   
+  # extract phase duration and phase end time
+  
   filtered_phase_table <- Phase_table %>% filter(Observation_id == obs_id)
   for(j in 1:nrow(filtered_phase_table))
   {
@@ -95,6 +100,9 @@ for (i in 1:nrow(start_stop_df))
     phase_end_time <- filtered_phase_table$End_timestamp[j]
     phase_duration <- filtered_phase_table$Duration[j]
     new_row$Phase <- filtered_phase_table$Phase[j]
+    
+    # calculate behaviour-modifier percentage contribution per phase depending on where their 
+    #start and end is located relative to phase start and end - covering all cases
     
     if(bm_start_time >= phase_start_time & bm_end_time <= phase_end_time)
     {
@@ -124,11 +132,15 @@ for (i in 1:nrow(start_stop_df))
 
 
 ```{r}
+#write output
+
 write_csv(output_df, "C:/Users/nofa2/Dropbox/PC/Downloads/Output.csv")
 ```
 
 
 ```{r}
+#add the percentages of multiple behaviour-modifier combinations occurring within the same phase
+
 aggregated_outpt <- output_df %>%group_by(Observation_id, Behaviour, Modifier, Phase) %>% summarise(Total_Percentage = sum(Percentage), .groups = 'drop')
 ```
 
